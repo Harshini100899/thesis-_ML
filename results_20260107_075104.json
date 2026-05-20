@@ -1,0 +1,162 @@
+{
+  "timestamp": "20260107_075104",
+  "dataset_info": {
+    "Total Samples": 1559,
+    "Features": 6364,
+    "Labels": 9,
+    "Avg Dependencies": 26.0,
+    "Avg Labels": 4.5,
+    "Train/Test Split": "75/25",
+    "Feature Scaling": false,
+    "Feature Selection": false,
+    "Label Density": 0.4998
+  },
+  "best_parameters": {
+    "Random Forest": {
+      "max_depth": null,
+      "n_estimators": 100
+    },
+    "Logistic Regression": {
+      "estimator__C": 10.0
+    },
+    "Linear SVC": {
+      "estimator__C": 10.0
+    },
+    "MLP Classifier": {
+      "alpha": 0.0001,
+      "hidden_layer_sizes": [
+        100,
+        50
+      ]
+    },
+    "XGBoost": {
+      "estimator__learning_rate": 0.1,
+      "estimator__max_depth": 5,
+      "estimator__n_estimators": 100
+    },
+    "LightGBM": {
+      "estimator__learning_rate": 0.1,
+      "estimator__max_depth": 7,
+      "estimator__n_estimators": 100
+    },
+    "CatBoost": {
+      "estimator__depth": 6,
+      "estimator__iterations": 200,
+      "estimator__learning_rate": 0.1
+    }
+  },
+  "results": [
+    {
+      "Model": "Random Forest",
+      "Nested CV F1 Micro": 0.8722463626731266,
+      "Nested CV F1 Std": 0.00684877956977475,
+      "Test Accuracy": 0.38974358974358975,
+      "Test F1 Micro": 0.8804755944931164,
+      "Test F1 Macro": 0.7966240664344162,
+      "Test F1 Weighted": 0.876341473738485,
+      "Test Precision": 0.9617224880382775,
+      "Test Recall": 0.8118869013271783,
+      "Test Hamming Loss": 0.10883190883190884,
+      "Test Jaccard Score": 0.786472889882616,
+      "Test Loss": NaN,
+      "Exact Match Ratio": 0.38974358974358975,
+      "Best Params": "{'max_depth': None, 'n_estimators': 100}"
+    },
+    {
+      "Model": "Logistic Regression",
+      "Nested CV F1 Micro": 0.9230470618942249,
+      "Nested CV F1 Std": 0.004887055045919058,
+      "Test Accuracy": 0.5820512820512821,
+      "Test F1 Micro": 0.9337748344370861,
+      "Test F1 Macro": 0.8744119724503713,
+      "Test F1 Weighted": 0.933043454393638,
+      "Test Precision": 0.9760855884203902,
+      "Test Recall": 0.8949798038084247,
+      "Test Hamming Loss": 0.06267806267806268,
+      "Test Jaccard Score": 0.8757763975155279,
+      "Test Loss": 0.16686143421728356,
+      "Exact Match Ratio": 0.5820512820512821,
+      "Best Params": "{'estimator__C': 10.0}"
+    },
+    {
+      "Model": "Linear SVC",
+      "Nested CV F1 Micro": 0.9289851131785012,
+      "Nested CV F1 Std": 0.005290671520963078,
+      "Test Accuracy": 0.6076923076923076,
+      "Test F1 Micro": 0.9406830437387658,
+      "Test F1 Macro": 0.8807121829060653,
+      "Test F1 Weighted": 0.9398036189464911,
+      "Test Precision": 0.9781931464174455,
+      "Test Recall": 0.9059434506635892,
+      "Test Hamming Loss": 0.05641025641025641,
+      "Test Jaccard Score": 0.8880090497737556,
+      "Test Loss": NaN,
+      "Exact Match Ratio": 0.6076923076923076,
+      "Best Params": "{'estimator__C': 10.0}"
+    },
+    {
+      "Model": "MLP Classifier",
+      "Nested CV F1 Micro": 0.891418478022859,
+      "Nested CV F1 Std": 0.00956004605216474,
+      "Test Accuracy": 0.4666666666666667,
+      "Test F1 Micro": 0.9124530482519503,
+      "Test F1 Macro": 0.8128327645477441,
+      "Test F1 Weighted": 0.9087736537038671,
+      "Test Precision": 0.9137731481481481,
+      "Test Recall": 0.911136757068667,
+      "Test Hamming Loss": 0.08632478632478632,
+      "Test Jaccard Score": 0.8390010626992561,
+      "Test Loss": 0.2288011115299634,
+      "Exact Match Ratio": 0.4666666666666667,
+      "Best Params": "{'alpha': 0.0001, 'hidden_layer_sizes': (100, 50)}"
+    },
+    {
+      "Model": "XGBoost",
+      "Nested CV F1 Micro": 0.9255079106935336,
+      "Nested CV F1 Std": 0.00920799869822576,
+      "Test Accuracy": 0.6128205128205129,
+      "Test F1 Micro": 0.941034897713598,
+      "Test F1 Macro": 0.8658521605220308,
+      "Test F1 Weighted": 0.9398038422563353,
+      "Test Precision": 0.983029541169076,
+      "Test Recall": 0.9024812463935372,
+      "Test Hamming Loss": 0.05584045584045584,
+      "Test Jaccard Score": 0.8886363636363637,
+      "Test Loss": 0.15944753220998162,
+      "Exact Match Ratio": 0.6128205128205129,
+      "Best Params": "{'estimator__learning_rate': 0.1, 'estimator__max_depth': 5, 'estimator__n_estimators': 100}"
+    },
+    {
+      "Model": "LightGBM",
+      "Nested CV F1 Micro": 0.8860160968170185,
+      "Nested CV F1 Std": 0.00543412150021074,
+      "Test Accuracy": 0.47692307692307695,
+      "Test F1 Micro": 0.9011188388267312,
+      "Test F1 Macro": 0.7930373927691677,
+      "Test F1 Weighted": 0.9072204474936445,
+      "Test Precision": 0.9466327827191868,
+      "Test Recall": 0.8597807270628968,
+      "Test Hamming Loss": 0.09316239316239316,
+      "Test Jaccard Score": 0.8200330214639515,
+      "Test Loss": 0.23547048315103666,
+      "Exact Match Ratio": 0.47692307692307695,
+      "Best Params": "{'estimator__learning_rate': 0.1, 'estimator__max_depth': 7, 'estimator__n_estimators': 100}"
+    },
+    {
+      "Model": "CatBoost",
+      "Nested CV F1 Micro": 0.9311332324256195,
+      "Nested CV F1 Std": 0.00497857733362329,
+      "Test Accuracy": 0.6,
+      "Test F1 Micro": 0.9372513008876645,
+      "Test F1 Macro": 0.911873505077818,
+      "Test F1 Weighted": 0.936747476418454,
+      "Test Precision": 0.9980443285528031,
+      "Test Recall": 0.8834391229082516,
+      "Test Hamming Loss": 0.0584045584045584,
+      "Test Jaccard Score": 0.8819124423963134,
+      "Test Loss": 0.1548312631975498,
+      "Exact Match Ratio": 0.6,
+      "Best Params": "{'estimator__depth': 6, 'estimator__iterations': 200, 'estimator__learning_rate': 0.1}"
+    }
+  ]
+}

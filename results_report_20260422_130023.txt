@@ -1,0 +1,34 @@
+================================================================================
+MULTI-LABEL CLASSIFICATION RESULTS
+================================================================================
+
+DATASET INFO
+--------------------------------------------------------------------------------
+Total Samples: 1559
+Features: 6364
+Labels: 9
+Train Samples: 1098
+Test Samples: 461
+Split Method: joss_id
+Avg Dependencies: 26.002565747273895
+Avg Labels: 4.497754971135343
+Train/Test Split: 1098/461
+
+
+RESULTS
+--------------------------------------------------------------------------------
+              Model  Test Accuracy  Test F1 Micro  Test F1 Macro  Test Hamming Loss  Nested CV F1 (Mean)  Nested CV F1 (Std)                                                                                  Best Params
+      Random Forest       0.366594       0.878277       0.722992           0.113039             0.872356            0.014151                                                     {'max_depth': None, 'n_estimators': 100}
+Logistic Regression       0.518438       0.927876       0.839593           0.069655             0.923832            0.006861                                                                       {'estimator__C': 10.0}
+         Linear SVC       0.561822       0.936075       0.848876           0.062184             0.929598            0.004764                                                                       {'estimator__C': 10.0}
+     MLP Classifier       0.483731       0.918422       0.782223           0.081224             0.869556            0.020097                                            {'alpha': 0.0001, 'hidden_layer_sizes': (50, 50)}
+            XGBoost       0.546638       0.930394       0.825456           0.067727             0.928662            0.008147 {'estimator__learning_rate': 0.1, 'estimator__max_depth': 7, 'estimator__n_estimators': 100}
+           LightGBM       0.449024       0.897474       0.774497           0.099783             0.882287            0.009576 {'estimator__learning_rate': 0.2, 'estimator__max_depth': 5, 'estimator__n_estimators': 100}
+           CatBoost       0.577007       0.939591       0.872953           0.058327             0.938665            0.007881       {'estimator__depth': 8, 'estimator__iterations': 200, 'estimator__learning_rate': 0.2}
+
+
+BEST MODEL
+--------------------------------------------------------------------------------
+Model: CatBoost
+Test F1 Micro: 0.9396
+Parameters: {'estimator__depth': 8, 'estimator__iterations': 200, 'estimator__learning_rate': 0.2}

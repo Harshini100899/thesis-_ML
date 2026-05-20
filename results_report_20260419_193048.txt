@@ -1,0 +1,46 @@
+================================================================================
+MULTI-LABEL CLASSIFICATION - COMPREHENSIVE EVALUATION REPORT
+================================================================================
+
+DATASET INFO
+--------------------------------------------------------------------------------
+Total Samples: 1559
+Features: 6364
+Labels: 9
+Avg Dependencies: 26.0
+Avg Labels: 4.5
+Train/Test Split: 75/25
+Feature Scaling: False
+Feature Selection: False
+Label Density: 0.4998
+
+
+MODEL RESULTS
+--------------------------------------------------------------------------------
+              Model  Nested CV F1 Micro  Nested CV F1 Std  Test Accuracy  Test F1 Micro  Test F1 Macro  Test F1 Weighted  Test Precision  Test Recall  Test Hamming Loss  Test Jaccard Score  Test Loss  Exact Match Ratio                                                                                  Best Params
+      Random Forest            0.846891          0.004856       0.346154       0.862330       0.713820          0.862858        0.906489     0.822274           0.129630            0.757979        NaN           0.346154                                                     {'max_depth': None, 'n_estimators': 200}
+Logistic Regression            0.848204          0.017255       0.361538       0.856713       0.709107          0.873103        0.895532     0.821119           0.135613            0.749342   0.320472           0.361538                                                                       {'estimator__C': 10.0}
+         Linear SVC            0.846846          0.019119       0.366667       0.855338       0.708515          0.872134        0.893216     0.820542           0.137037            0.747241        NaN           0.366667                                                                        {'estimator__C': 1.0}
+     MLP Classifier            0.826521          0.023255       0.441026       0.889967       0.685220          0.878811        0.937420     0.847086           0.103419            0.801748   0.252672           0.441026                                              {'alpha': 0.0001, 'hidden_layer_sizes': (100,)}
+            XGBoost            0.874655          0.010092       0.451282       0.887856       0.721230          0.880583        0.958528     0.826890           0.103134            0.798329   0.235917           0.451282 {'estimator__learning_rate': 0.1, 'estimator__max_depth': 5, 'estimator__n_estimators': 100}
+           LightGBM            0.825019          0.004143       0.312821       0.829590       0.703988          0.856136        0.862391     0.799192           0.162108            0.708802   0.331492           0.312821 {'estimator__learning_rate': 0.1, 'estimator__max_depth': 5, 'estimator__n_estimators': 100}
+           CatBoost            0.853095          0.018538       0.341026       0.847670       0.721903          0.872149        0.878638     0.818811           0.145299            0.735614   0.304374           0.341026       {'estimator__depth': 6, 'estimator__iterations': 200, 'estimator__learning_rate': 0.1}
+
+
+BEST MODEL DETAILS
+--------------------------------------------------------------------------------
+Model: MLP Classifier
+Test F1 Micro: 0.8900
+Test F1 Macro: 0.6852
+Precision: 0.9374
+Recall: 0.8471
+Parameters: {'alpha': 0.0001, 'hidden_layer_sizes': (100,)}
+
+
+RECOMMENDATIONS FOR IMPROVEMENT
+--------------------------------------------------------------------------------
+1. Consider ensemble methods if individual models show complementary errors
+2. Investigate feature engineering for low-performing labels
+3. Apply SMOTE or other resampling for severe class imbalance
+4. Consider deep learning approaches for complex patterns
+5. Perform error analysis on misclassified samples

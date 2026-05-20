@@ -1,0 +1,469 @@
+Actual Labels,Predicted Labels,Exact Match
+"('RIS',)","('RIS',)",True
+"('RIS', 'Software')",(),False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Process', 'RIS', 'Software', 'Software analytics')","('Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Hardware', 'Modeling and simulation', 'RIS', 'Software')","('Hardware', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'Modeling and simulation')",False
+"('Software', 'UI')",(),False
+"('Software',)","('Software',)",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('RIS',)","('RIS',)",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Modeling and simulation', 'Software', 'Software analytics', 'UI')","('Hardware', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Software')","('Data analytics', 'RIS', 'Software')",False
+"('Data analytics', 'Process', 'Software', 'UI')","('Process', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Hardware', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Hardware', 'Modeling and simulation', 'Software')",False
+"('Data analytics', 'RIS', 'Software')","('RIS', 'Software')",False
+"('Modeling and simulation', 'RIS', 'Software')","('Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",False
+"('Modeling and simulation',)","('Modeling and simulation',)",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Integrative analysis', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Hardware', 'Software', 'Software analytics')","('Hardware', 'RIS', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Modeling and simulation', 'RIS', 'Software', 'UI')","('RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'Software')",True
+"('Hardware', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Hardware', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics')","('Hardware', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics')",False
+"('Modeling and simulation', 'RIS')","('Modeling and simulation', 'RIS', 'Software', 'Software analytics')",False
+"('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Software',)","('Software',)",True
+"('Process', 'Software')","('Software',)",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('RIS',)","('RIS',)",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Hardware', 'Software')","('Hardware', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'Software', 'UI')",False
+"('RIS', 'Software', 'UI')","('RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",False
+"('Hardware', 'Modeling and simulation', 'Software', 'Software analytics')","('Hardware', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Hardware', 'Modeling and simulation', 'RIS')","('Hardware', 'RIS')",False
+"('Data analytics', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'RIS', 'Software', 'Software analytics')",True
+"('Hardware', 'RIS', 'Software analytics')","('Hardware', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'RIS', 'Software', 'UI')",True
+"('Software',)",(),False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Software',)","('Software',)",True
+"('Process', 'RIS', 'Software', 'UI')","('RIS', 'Software')",False
+"('RIS', 'Software')","('RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')",False
+"('RIS',)","('RIS',)",True
+"('RIS', 'Software')","('RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Integrative analysis', 'RIS', 'Software', 'UI')","('Data analytics', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Hardware', 'Modeling and simulation', 'RIS', 'Software')","('Hardware', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Hardware', 'Software')","('Hardware', 'Modeling and simulation', 'Software')",False
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'UI')","('Data analytics', 'RIS')",False
+"('Data analytics', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software')","('Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Modeling and simulation', 'Software', 'Software analytics')","('Modeling and simulation', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Software')",(),False
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",False
+"('Modeling and simulation', 'RIS', 'Software', 'UI')","('Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'Modeling and simulation', 'RIS')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'Software analytics')",True
+"('Data analytics', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Process', 'RIS', 'Software')","('Process', 'RIS', 'Software')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Modeling and simulation', 'RIS', 'Software', 'Software analytics')","('RIS', 'Software', 'Software analytics')",False
+"('RIS', 'Software')","('RIS', 'Software')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Hardware', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Modeling and simulation', 'RIS', 'Software')","('Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'Modeling and simulation')",False
+"('Modeling and simulation', 'Software', 'Software analytics')","('Software',)",False
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Modeling and simulation', 'RIS', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'Modeling and simulation', 'RIS')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Modeling and simulation', 'RIS')","('Modeling and simulation',)",False
+"('Data analytics', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software')","('Process', 'RIS', 'Software')",False
+"('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('RIS', 'Software')","('RIS',)",False
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('RIS', 'Software')","('Software',)",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Hardware', 'Software')","('Hardware', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Software')",False
+"('Modeling and simulation', 'Process', 'Software')","('Modeling and simulation', 'Process', 'Software')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('RIS',)","('RIS',)",True
+"('Modeling and simulation',)",(),False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Hardware', 'RIS', 'Software', 'Software analytics')","('Modeling and simulation', 'RIS', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'Software')",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Software', 'UI')",False
+"('Data analytics', 'Software', 'Software analytics')","('Modeling and simulation', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Integrative analysis', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'RIS', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics',)","('Data analytics',)",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Hardware', 'Modeling and simulation')","('Hardware', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Software')",(),False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Modeling and simulation', 'RIS')","('Modeling and simulation', 'RIS')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software analytics')","('Modeling and simulation', 'Process', 'RIS')",False
+"('Hardware', 'Software')","('Software',)",False
+"('RIS', 'Software')","('RIS', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('RIS', 'UI')","('RIS', 'UI')",True
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Software',)",(),False
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Software', 'UI')","('Data analytics',)",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics',)",(),False
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Process', 'UI')","('Data analytics',)",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'Software')",False
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Software', 'UI')","('Data analytics', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Hardware', 'Software')","('Hardware',)",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Process', 'Software')","('Process', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'RIS')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Integrative analysis', 'RIS', 'Software', 'Software analytics')","('RIS', 'Software', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Hardware',)",(),False
+"('Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Software',)","('Software',)",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Hardware', 'Software', 'Software analytics')","('Hardware', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",False
+"('Software',)",(),False
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('RIS',)","('RIS',)",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('RIS', 'Software', 'UI')","('RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Software',)",(),False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",False
+"('Software',)","('Software',)",True
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Software',)","('Software',)",True
+"('Hardware', 'Modeling and simulation', 'Software')","('Software',)",False
+"('Data analytics', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Hardware', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Hardware', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Software')","('Data analytics', 'Software')",True
+"('Data analytics', 'Hardware', 'Modeling and simulation', 'Software')","('Data analytics', 'Hardware', 'Modeling and simulation', 'Software')",True
+"('Process', 'RIS')","('Process', 'RIS')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software analytics')","('Data analytics', 'Modeling and simulation', 'Software analytics')",False
+"('Data analytics', 'Modeling and simulation', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'UI')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Software', 'Software analytics', 'UI')","('Data analytics', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Software',)","('Software',)",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Hardware', 'Modeling and simulation', 'Software', 'Software analytics')","('Hardware', 'Modeling and simulation', 'Software', 'Software analytics')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Modeling and simulation',)",(),False
+"('Hardware', 'Modeling and simulation', 'Software')","('Hardware', 'Software')",False
+"('Software',)","('Software',)",True
+"('Data analytics', 'RIS', 'UI')","('Data analytics', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Hardware', 'Software', 'Software analytics')","('Hardware', 'Software', 'Software analytics')",True
+"('RIS', 'Software')","('RIS',)",False
+"('Data analytics', 'Modeling and simulation')","('Modeling and simulation',)",False
+"('RIS', 'Software')","('RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Software')","('Data analytics', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'Software', 'UI')",False
+"('Data analytics', 'Process', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",False
+"('Hardware', 'Modeling and simulation')","('Modeling and simulation',)",False
+"('Modeling and simulation', 'Software')","('Modeling and simulation', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')",True
+"('Modeling and simulation', 'Process', 'RIS', 'Software')","('Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'Software')","('Data analytics', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'Software analytics')","('Data analytics', 'Process', 'RIS', 'Software', 'Software analytics', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Software')","('Modeling and simulation', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",False
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation')",False
+"('Data analytics', 'RIS', 'Software')","('Data analytics', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('RIS', 'Software', 'UI')","('RIS', 'Software', 'UI')",True
+"('Data analytics', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'RIS', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation')","('Data analytics', 'Modeling and simulation', 'RIS')",False
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",True
+"('Data analytics', 'Integrative analysis', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')","('Data analytics', 'Modeling and simulation', 'Process', 'RIS', 'Software', 'UI')",False
+"('Hardware', 'Modeling and simulation', 'Software')","('Modeling and simulation', 'RIS', 'Software')",False

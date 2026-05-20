@@ -1,0 +1,112 @@
+{
+  "best_parameters": {
+    "Random Forest": {
+      "max_depth": null,
+      "n_estimators": 100
+    },
+    "Logistic Regression": {
+      "estimator__C": 10.0
+    },
+    "Linear SVC": {
+      "estimator__C": 10.0
+    },
+    "MLP Classifier": {
+      "alpha": 0.0001,
+      "hidden_layer_sizes": [
+        50,
+        50
+      ]
+    },
+    "XGBoost": {
+      "estimator__learning_rate": 0.1,
+      "estimator__max_depth": 7,
+      "estimator__n_estimators": 100
+    },
+    "LightGBM": {
+      "estimator__learning_rate": 0.2,
+      "estimator__max_depth": 5,
+      "estimator__n_estimators": 100
+    },
+    "CatBoost": {
+      "estimator__depth": 8,
+      "estimator__iterations": 200,
+      "estimator__learning_rate": 0.2
+    }
+  },
+  "nested_cv_scores": {
+    "Random Forest": {
+      "mean": 0.8723561917191373,
+      "std": 0.014151385523257246,
+      "scores": [
+        0.8923577235772358,
+        0.8617666891436278,
+        0.8629441624365483
+      ]
+    },
+    "Logistic Regression": {
+      "mean": 0.9238324205778031,
+      "std": 0.006861039536334248,
+      "scores": [
+        0.933291378225299,
+        0.9172302737520129,
+        0.9209756097560976
+      ]
+    },
+    "Linear SVC": {
+      "mean": 0.9295983454542084,
+      "std": 0.004764038603228091,
+      "scores": [
+        0.9363037339190461,
+        0.9256778309409889,
+        0.9268134715025906
+      ]
+    },
+    "MLP Classifier": {
+      "mean": 0.8695556548214904,
+      "std": 0.020096681349118642,
+      "scores": [
+        0.8958018725460586,
+        0.8469897209985315,
+        0.8658753709198813
+      ]
+    },
+    "XGBoost": {
+      "mean": 0.9286619434960168,
+      "std": 0.00814746678160857,
+      "scores": [
+        0.9400123685837971,
+        0.9212698412698412,
+        0.924703620634412
+      ]
+    },
+    "LightGBM": {
+      "mean": 0.8822873863156389,
+      "std": 0.009575586476007519,
+      "scores": [
+        0.8953341740226987,
+        0.872621734924218,
+        0.87890625
+      ]
+    },
+    "CatBoost": {
+      "mean": 0.9386653671465482,
+      "std": 0.007880674860236431,
+      "scores": [
+        0.9497346237901967,
+        0.9320076972418216,
+        0.9342537804076265
+      ]
+    }
+  },
+  "dataset_info": {
+    "Total Samples": 1559,
+    "Features": 6364,
+    "Labels": 9,
+    "Train Samples": 1098,
+    "Test Samples": 461,
+    "Split Method": "joss_id",
+    "Avg Dependencies": 26.002565747273895,
+    "Avg Labels": 4.497754971135343,
+    "Train/Test Split": "1098/461"
+  }
+}

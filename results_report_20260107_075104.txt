@@ -1,0 +1,86 @@
+================================================================================
+MULTI-LABEL CLASSIFICATION - COMPREHENSIVE EVALUATION REPORT
+================================================================================
+
+DATASET INFO
+--------------------------------------------------------------------------------
+Total Samples: 1559
+Features: 6364
+Labels: 9
+Avg Dependencies: 26.0
+Avg Labels: 4.5
+Train/Test Split: 75/25
+Feature Scaling: False
+Feature Selection: False
+Label Density: 0.4998
+
+
+MODEL RESULTS
+--------------------------------------------------------------------------------
+              Model  Nested CV F1 Micro  Nested CV F1 Std  Test Accuracy  Test F1 Micro  Test F1 Macro  Test F1 Weighted  Test Precision  Test Recall  Test Hamming Loss  Test Jaccard Score  Test Loss  Exact Match Ratio                                                                                  Best Params
+      Random Forest            0.872246          0.006849       0.389744       0.880476       0.796624          0.876341        0.961722     0.811887           0.108832            0.786473        NaN           0.389744                                                     {'max_depth': None, 'n_estimators': 100}
+Logistic Regression            0.923047          0.004887       0.582051       0.933775       0.874412          0.933043        0.976086     0.894980           0.062678            0.875776   0.166861           0.582051                                                                       {'estimator__C': 10.0}
+         Linear SVC            0.928985          0.005291       0.607692       0.940683       0.880712          0.939804        0.978193     0.905943           0.056410            0.888009        NaN           0.607692                                                                       {'estimator__C': 10.0}
+     MLP Classifier            0.891418          0.009560       0.466667       0.912453       0.812833          0.908774        0.913773     0.911137           0.086325            0.839001   0.228801           0.466667                                           {'alpha': 0.0001, 'hidden_layer_sizes': (100, 50)}
+            XGBoost            0.925508          0.009208       0.612821       0.941035       0.865852          0.939804        0.983030     0.902481           0.055840            0.888636   0.159448           0.612821 {'estimator__learning_rate': 0.1, 'estimator__max_depth': 5, 'estimator__n_estimators': 100}
+           LightGBM            0.886016          0.005434       0.476923       0.901119       0.793037          0.907220        0.946633     0.859781           0.093162            0.820033   0.235470           0.476923 {'estimator__learning_rate': 0.1, 'estimator__max_depth': 7, 'estimator__n_estimators': 100}
+           CatBoost            0.931133          0.004979       0.600000       0.937251       0.911874          0.936747        0.998044     0.883439           0.058405            0.881912   0.154831           0.600000       {'estimator__depth': 6, 'estimator__iterations': 200, 'estimator__learning_rate': 0.1}
+
+
+
+Model: XGBoost
+Test F1 Micro: 0.9410
+Test F1 Macro: 0.8659
+Precision: 0.9830
+Recall: 0.9025
+Parameters: {'estimator__learning_rate': 0.1, 'estimator__max_depth': 5, 'estimator__n_estimators': 100}
+
+
+ BEST MODEL (by Nested CV): CatBoost
+======================================================================
+Nested CV F1 Micro: 0.9311 (+/- 0.0050)
+Test F1 Micro:      0.9373
+Test F1 Macro:      0.9119
+Test Precision:     0.9980
+Test Recall:        0.8834
+Jaccard Score:      0.8819
+Exact Match:        0.6000
+Test Loss:          0.1548
+
+  Detailed Classification Report for CatBoost:
+                         precision    recall  f1-score   support
+
+         Data analytics       1.00      0.89      0.94       321
+               Hardware       1.00      0.79      0.88        19
+   Integrative analysis       0.88      0.64      0.74        11
+Modeling and simulation       1.00      0.92      0.96       278
+                Process       1.00      0.95      0.98       206
+                    RIS       1.00      0.85      0.92       300
+               Software       1.00      0.85      0.92       342
+     Software analytics       0.99      0.90      0.94        92
+                     UI       0.99      0.88      0.94       164
+
+              micro avg       1.00      0.88      0.94      1733
+              macro avg       0.98      0.85      0.91      1733
+           weighted avg       1.00      0.88      0.94      1733
+            samples avg       0.97      0.85      0.89      1733
+
+DIAGNOSTIC NOTES
+--------------------------------------------------------------------------------
+⚠ CatBoost shows perfect precision (1.00) on 6/9 labels.
+  - This indicates a highly conservative model (predicts positive only when very confident).
+  - NOT likely data leakage: recall ranges 0.64–0.95 and exact match is only 0.60.
+  - Low-support labels (Hardware=19, Integrative analysis=11) can show perfect
+    precision by chance due to few predictions.
+
+⚠ High feature-to-sample ratio (6364 features / 1559 samples).
+  - Risk of spurious correlations. Consider applying feature selection.
+  - Verify that feature extraction (e.g., TF-IDF, embeddings) was fitted on
+    TRAIN SET ONLY, not the full dataset (common source of leakage).
+
+CHECKLIST TO RULE OUT DATA LEAKAGE:
+  [ ] TF-IDF / vectorizer fitted only on training fold (not full data)
+  [ ] No target-derived features in input
+  [ ] Train/test split done before any preprocessing
+  [ ] No duplicate samples across train and test sets
+  [ ] Feature selection (if any) done inside CV loop

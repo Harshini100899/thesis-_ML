@@ -1,0 +1,6577 @@
+dependency,label,project_language,count
+numpy,Modeling and simulation ,Python,814
+scipy,Modeling and simulation,Python,610
+matplotlib,Data analytics ,Python,591
+pytest,Process,Python,512
+pandas,Data analytics ,Python,480
+sphinx,RIS,Python,408
+testthat,Software,R,357
+knitr,RIS,R,325
+rmarkdown,RIS,R,317
+pytest-cov,Software,Python,279
+tqdm,Software,Python,254
+requests,Software,Python,216
+ggplot2,Data analytics,R,207
+dplyr,Data analytics,R,198
+scikit-learn,Data analytics ,Python,193
+packaging,Software,Python,189
+sphinx_rtd_theme,RIS,Python,184
+nbsphinx,Software,Python,177
+pyyaml,Software,Python,176
+ipython,UI,Python,171
+coverage,Software analytics,Python,166
+six,Software,Python,165
+python-dateutil,Software,Python,164
+ipykernel,UI,Python,150
+sphinx-rtd-theme,RIS,Python,150
+setuptools,Software,Python,149
+h5py,RIS,Python,142
+pre-commit,Process,Python,140
+stats,Data analytics,R,140
+jinja2,Software,Python,138
+urllib3,Software,Python,136
+click,UI,Python,135
+certifi,Software,Python,134
+rlang,Software,R,132
+idna,Software,Python,131
+pytz,Software,Python,130
+docutils,Process,Python,128
+tibble,Data analytics,R,128
+colorama,UI,Python,126
+black,Software,Python,126
+pillow,Data analytics,Python,126
+tidyr,Data analytics,R,126
+utils,Software,C++,125
+psutil,Software,Python,124
+pyparsing,Software,Python,123
+typing-extensions,Software,Python,123
+covr,Software analytics,R,122
+charset-normalizer,Software,Python,121
+pygments,Software,Python,121
+numpydoc,Process,Python,119
+pluggy,Software,Python,117
+tomli,Software,Python,117
+markupsafe,Software,Python,116
+magrittr,Data analytics,R,116
+numba,Modeling and simulation,Python,115
+attrs,Software,Python,110
+iniconfig,Software,Python,110
+joblib,Software,Python,110
+methods,Software,R,110
+platformdirs,Software,Python,106
+seaborn,Data analytics,Python,106
+stringr,Data analytics,R,104
+networkx,Modeling and simulation,Python,102
+cycler,Data analytics,Python,100
+babel,Software,Python,99
+kiwisolver,Software,Python,99
+ruff,Software,Python,99
+sphinx-copybutton,RIS,Python,98
+flake8,Software,Python,94
+python,Software,C++,94
+astropy,Data analytics,Python,93
+decorator,Software,Python,92
+purrr,Software,R,91
+tzdata,Software,Python,91
+plotly,Data analytics,Python,91
+importlib-metadata,Software,Python,90
+nbconvert,RIS,Python,89
+fonttools,Software,Python,88
+beautifulsoup4,Data analytics,Python,87
+contourpy,Data analytics,Python,87
+ipywidgets,UI,Python,86
+zipp,Software,Python,86
+mypy,Software,Python,85
+jsonschema,Software,Python,84
+wcwidth,Software,Python,84
+exceptiongroup,Software,Python,83
+cffi,Software,Python,82
+myst-parser,Software,Python,81
+pycparser,Software,Python,81
+alabaster,Software,Python,80
+filelock,Software,Python,80
+traitlets,Software,Python,80
+sphinxcontrib-devhelp,Process,Python,80
+sphinxcontrib-htmlhelp,Process,Python,80
+sphinxcontrib-qthelp,Process,Python,80
+sphinxcontrib-serializinghtml,Process,Python,80
+prompt-toolkit,UI,Python,79
+sphinxcontrib-applehelp,Process,Python,79
+xarray,Data analytics,Python,79
+tornado,UI,Python,78
+pyzmq,Software,Python,78
+sphinxcontrib-jsmath,Process,Python,78
+snowballstemmer,Data analytics,Python,78
+jedi,Software,Python,76
+parso,Software,Python,76
+markdown,Process,Python,76
+soupsieve,Software,Python,75
+imagesize,Software,Python,74
+nbformat,RIS,Python,74
+torch,Data analytics ,Python,73
+asttokens,Software,Python,72
+executing,Software,Python,72
+nest-asyncio,Software,Python,72
+ptyprocess,Software,Python,72
+matplotlib-inline,Data analytics,Python,72
+pexpect,Software,Python,71
+readme,RIS,Python,71
+data.table,Data analytics,R,71
+defusedxml,Software,Python,70
+pure-eval,Software,Python,70
+pywin32,Software,Python,70
+jupyter,UI,Python,69
+stack-data,Software analytics,Python,69
+jupyter-core,Software,Python,69
+Rcpp,Software,R,69
+webencodings,Software,Python,69
+jupyter-client,UI,Python,68
+debugpy,Software,Python,68
+rich,UI,Python,67
+bleach,Software,Python,67
+comm,Software,Python,65
+jsonschema-specifications,Software,Python,65
+referencing,Software,Python,65
+rpds-py,Software,Python,65
+threadpoolctl,Software,Python,65
+nbclient,RIS,Python,65
+jsonlite,Data analytics,R,65
+tabulate,UI,Python,64
+mistune,Software,Python,64
+license,RIS,Python,64
+appnope,Software,Python,63
+fastjsonschema,Software,Python,63
+pydata-sphinx-theme,Software,Python,63
+pandocfilters,Software,Python,62
+pydantic,Software,Python,62
+sphinxcontrib-bibtex,RIS,Python,62
+markdown-it-py,Software,Python,61
+MASS,Data analytics,R,61
+tinycss2,Software,Python,60
+virtualenv,Software,Python,60
+mdurl,Software,Python,59
+jupyterlab-pygments,Software,Python,58
+pathspec,Software,Python,58
+scikit-image,Data analytics,Python,58
+distlib,Software,Python,57
+pytest-xdist,Software,Python,57
+isort,Software,Python,56
+pyarrow,RIS,Python,56
+Sphinx,RIS,C++,56
+shapely,Modeling and simulation,Python,56
+shiny,UI,R,55
+sniffio,Software,Python,55
+twine,Software,Python,55
+scales,Data analytics,R,55
+sf,Data analytics,R,55
+notebook,UI,Python,54
+mypy-extensions,Software analytics,Python,54
+anyio,Software,Python,54
+cli,UI,R,53
+importlib-resources,Software,Python,53
+sympy,Modeling and simulation,Python,53
+geopandas,Data analytics,Python,53
+mkdocs-material,UI,Python,52
+dill,Software,Python,52
+wheel,Software,Python,52
+PyYAML,RIS,Python,52
+withr,Process,R,52
+openpyxl,Data analytics ,Python,51
+mkdocs,UI,Python,50
+nodeenv,Software,Python,50
+toml,RIS,Python,50
+jupyterlab,UI ,Python,49
+cfgv,Software,Python,49
+curl,Software,R,49
+future,Software,R,49
+httr,Software,R,49
+identify,Software,Python,49
+bUIld,Software,Python,48
+furo,Software,Python,48
+Matrix,Modeling and simulation,R,48
+h11,Software,Python,47
+readr,RIS,R,47
+repository,,Python,47
+sphinx-gallery,RIS,Python,46
+Pillow,Data analytics,Python,46
+statsmodels,Data analytics,Python,46
+jax,Modeling and simulation,Python,45
+widgetsnbextension,UI,Python,44
+httpx,Software,Python,44
+myst-nb,RIS,Python,44
+sphinx-design,RIS,Python,44
+igraph,Data analytics,R,44
+recommonmark,RIS,Python,43
+sphinx-autodoc-typehints,RIS,Python,43
+jupyterlab-widgets,UI,Python,42
+pylint,Software analytics,Python,42
+parallel,Process,R,42
+graphics,Data analytics,R,42
+prometheus-client,Software,Python,41
+lxml,RIS,Python,41
+arrow,Software,Python,40
+grDevices,Data analytics,R,40
+lubridate,Data analytics,R,40
+terminado,UI,Python,39
+types-python-dateutil,Software,Python,39
+spelling,RIS,R,39
+argon2-cffi,Software,Python,38
+cython,Software,Python,38
+httpcore,Software,Python,38
+mdit-py-plugins,Software,Python,38
+sqlalchemy,Software,Python,38
+websocket-client,Software,Python,38
+pandoc,RIS,Python,38
+pytest-mock,Process,Python,38
+opencv-python,Data analytics,Python,38
+argon2-cffi-bindings,Software,Python,37
+jsonpointer,Software,Python,37
+lifecycle,Software,R,37
+pywinpty,Software,Python,37
+tidyselect,Software,R,37
+glue,RIS,R,37
+pooch,Process,Python,37
+jupyter-server,Software,Python,36
+overrides,Software,Python,36
+rfc3339-validator,Software,Python,36
+webcolors,Software,Python,36
+pymdown-extensions,RIS,Python,36
+send2trash,Process,Python,36
+RColorBrewer,Data analytics,R,36
+annotated-types,Software,Python,35
+jaxlib,Software,Python,35
+python-json-logger,Software,Python,35
+rfc3986-validator,Software,Python,35
+sphinx-autobUIld,Process,Python,35
+dask,Data analytics,Python,35
+imageio,Data analytics,Python,35
+jupyter-server-terminals,UI,Python,34
+codecov,Software analytics,Python,34
+fqdn,Software,Python,34
+isoduration,Software,Python,34
+jupyter-events,Software,Python,34
+notebook-shim,Software,Python,34
+pydantic-core,Software,Python,34
+uri-template,Software,Python,34
+watchdog,Software,Python,34
+xml2,RIS,R,34
+sphinxcontrib-jquery,Process,Python,34
+pycodestyle,Software analytics,Python,33
+json5,Software,Python,33
+fsspec,RIS,Python,33
+sphinx-book-theme,RIS,Python,33
+hypothesis,Process,Python,33
+pyproj,Data analytics,Python,33
+keywords,,Python,33
+devtools,Process,R,32
+mpmath,Modeling and simulation,Python,32
+mccabe,Software analytics,Python,31
+classifiers,Software,Python,31
+fs,Software,R,31
+greenlet,Software,Python,31
+jupyterlab-server,Software,Python,31
+documentation,RIS,Python,31
+sphinx-autoapi,RIS,Python,31
+Doxygen,Software analytics,C++,30
+Jinja2,Software,Python,30
+tox,RIS,Python,30
+jupytext,Process,Python,30
+netcdf4,Data analytics,Python,30
+homepage,,Python,30
+src,,C++,30
+pyflakes,Software analytics,Python,29
+checkmate,Software,R,29
+protobuf,Software,Python,29
+R6,Software,R,29
+typing_extensions,Software,Python,29
+cloudpickle,RIS,Python,29
+mkdocstrings,Process,Python,29
+jupyter-lsp,UI,Python,28
+async-lru,Software,Python,28
+more-itertools,Software,Python,28
+pybind11,Software,C++,28
+python-dotenv,Software,Python,28
+appdirs,RIS,Python,28
+vdiffr,RIS,R,28
+mkdocstrings-python,Process,Python,28
+cachetools,Data analytics,Python,28
+gridExtra,Data analytics,R,28
+rasterio,Data analytics,Python,28
+stringi,Data analytics,R,28
+ipython-pygments-lexers,Software,Python,27
+Rdpack,RIS,R,27
+ghp-import,Process,Python,27
+grid,Data analytics,C++,27
+tensorflow,Data analytics,Python,27
+tests,,C++,27
+Boost,Software,C++,26
+pip,Software,Python,26
+regex,Software,Python,26
+wrapt,Software,Python,26
+bokeh,Data analytics,Python,26
+reshape2,Data analytics,R,26
+test,,C++,26
+uvicorn,UI,Python,25
+assertthat,Software,R,25
+msgpack,Software,Python,25
+tomlkit,Software,Python,25
+sphinxcontrib-napoleon,RIS,Python,25
+mkdocs-material-extensions,Process,Python,25
+MPI,Hardware,C++,25
+OpenMP,Hardware,C++,25
+torchvision,Data analytics,Python,25
+DT,UI,R,24
+websockets,UI,Python,24
+mergedeep,Software,Python,24
+tenacity,Software,Python,24
+toolz,Software,Python,24
+htmltools,RIS,R,24
+foreach,Process,R,24
+RcppEigen,Modeling and simulation,R,24
+tensorboard,Data analytics,Python,24
+aiohttp,Software,Python,23
+digest,Software,R,23
+mock,Software,Python,23
+pyyaml-env-tag,Software,Python,23
+vctrs,Software,R,23
+chardet,RIS,Python,23
+pybtex,RIS,Python,23
+coveralls,Process,Python,23
+mpi4py,Modeling and simulation,Python,23
+packages,,Python,23
+crayon,UI,R,22
+tools,Software,C++,22
+usethis,Process,R,22
+corner,Data analytics,Python,22
+netCDF4,Data analytics,Python,22
+nibabel,Data analytics,Python,22
+pint,Data analytics,Python,22
+pymatgen,Data analytics,Python,22
+terra,Data analytics,R,22
+mkdocs-autorefs,UI,Python,21
+pickleshare,UI,Python,21
+progress,UI,Python,21
+starlette,UI,Python,21
+astroid,Software analytics,Python,21
+cryptography,Software,Python,21
+sortedcontainers,Software,Python,21
+myst_parser,RIS,Python,21
+narwhals,RIS,Python,21
+watchfiles,Process,Python,21
+ape,Data analytics,R,21
+plyr,Data analytics,R,21
+multiprocess,Software,Python,20
+paginate,Software,Python,20
+py,Software,Python,20
+et-xmlfile,RIS,Python,20
+rstudioapi,Process,R,20
+h5netcdf,Data analytics,Python,20
+mgcv,Data analytics,R,20
+patchwork,Data analytics,R,20
+gitpython,Software analytics,Python,19
+execnet,Software,Python,19
+termcolor,Software,Python,19
+typer,Software,Python,19
+distributed,RIS,Python,19
+latexcodec,RIS,Python,19
+readxl,RIS,R,19
+sphinx_design,RIS,Python,19
+tifffile,RIS,Python,19
+xlrd,RIS,Python,19
+sphinx_copybutton,RIS,Python,19
+forcats,Data analytics,R,19
+accessible-pygments,UI,Python,18
+jupyter-console,UI,Python,18
+Pygments,UI,Python,18
+PyQt5,UI,Python,18
+werkzeug,UI,Python,18
+backcall,Software,Python,18
+doParallel,Software,R,18
+generics,Software,R,18
+graphviz,Software,Python,18
+llvmlite,Software,Python,18
+pydocstyle,Software,Python,18
+typing-inspection,Software,Python,18
+vtk,Software,Python,18
+roxygen2,RIS,R,18
+mkdocs-get-deps,Process,Python,18
+mkdocs-jupyter,Process,Python,18
+biopython,Modeling and simulation,Python,18
+pyqtgraph,Data analytics ,Python,18
+ggrepel,Data analytics,R,18
+kaleido,Data analytics,Python,18
+leaflet,Data analytics,R,18
+lme4,Data analytics,R,18
+opt-einsum,Data analytics,Python,18
+patsy,Data analytics,Python,18
+shinyjs,UI,R,17
+absl-py,Software,Python,17
+loguru,Software,Python,17
+callr,RIS,R,17
+kableExtra,RIS,R,17
+sphinx-argparse,RIS,Python,17
+sphinx-automodapi,RIS,Python,17
+RcppArmadillo,Modeling and simulation,R,17
+cowplot,Data analytics,R,17
+mvtnorm,Data analytics,R,17
+examples,,C++,17
+Python,,C++,17
+flask,UI,Python,16
+Cython,Software,Python,16
+MarkupSafe,Software,Python,16
+pywin32-ctypes,Software,Python,16
+rvest,Software,R,16
+tables,Software,Python,16
+types-requests,Software,Python,16
+jupyter-book,RIS,Python,16
+pybtex-docutils,RIS,Python,16
+yaml,RIS,R,16
+griffe,Process,Python,16
+memoise,Process,R,16
+arviz,Data analytics,Python,16
+broom,Data analytics,R,16
+emcee,Data analytics,Python,16
+psych,Data analytics,R,16
+raster,Data analytics,R,16
+survival,Data analytics,R,16
+uncertainties,Data analytics,Python,16
+xgboost,Data analytics,Python,16
+jupyter-cache,UI,Python,15
+gitdb,Software analytics,Python,15
+abind,Software,R,15
+htmlwidgets,Software,R,15
+httr2,Software,R,15
+itsdangerous,Software,Python,15
+linkify-it-py,Software,Python,15
+openssl,Software,R,15
+pandas-stubs,Software,Python,15
+qtpy,Software,Python,15
+smmap,Software,Python,15
+astroquery,RIS,Python,15
+datasets,RIS,Python,15
+m2r2,RIS,Python,15
+meshio,RIS,Python,15
+optional,RIS,Python,15
+processx,RIS,R,15
+rappdirs,RIS,R,15
+xyzservices,RIS,Python,15
+numexpr,Modeling and simulation,Python,15
+glmnet,Data analytics,R,15
+bslib,UI,R,14
+rich-click,UI,Python,14
+shinydashboard,UI,R,14
+BH,Software,R,14
+Git,Software,C++,14
+include,Software,Python,14
+ipython-genutils,Software,Python,14
+keyring,Software,Python,14
+locket,Software,Python,14
+multidict,Software,Python,14
+pypandoc,Software,Python,14
+shellingham,Software,Python,14
+base64enc,RIS,R,14
+boto3,RIS,Python,14
+commonmark,RIS,Python,14
+DBI,RIS,R,14
+nbval,RIS,Python,14
+partd,RIS,Python,14
+pydata_sphinx_theme,RIS,Python,14
+R.utils,RIS,R,14
+sphinx_autodoc_typehints,RIS,Python,14
+insight,Data analytics,R,14
+keras,Data analytics,Python,14
+ml-dtypes,Data analytics,Python,14
+polars,Data analytics,Python,14
+pyshp,Data analytics,Python,14
+tidyverse,Data analytics,R,14
+IPython,UI,Python,13
+pillar,UI,R,13
+aiosignal,Software,Python,13
+backports,Software,R,13
+blinker,Software,Python,13
+entrypoints,Software,Python,13
+frozenlist,Software,Python,13
+grpcio,Software,Python,13
+monty,Software,Python,13
+pyasn1,Software,Python,13
+requests-toolbelt,Software,Python,13
+yarl,Software,Python,13
+nbstripout,RIS,Python,13
+pkgdown,RIS,R,13
+pkgload,RIS,R,13
+future.apply,Process,R,13
+pytest-timeout,Process,Python,13
+Eigen3,Modeling and simulation,C++,13
+pracma,Modeling and simulation,R,13
+nvidia-nccl-cu12,Hardware,Python,13
+altair,Data analytics,Python,13
+cartopy,Data analytics,Python,13
+cftime,Data analytics,Python,13
+colorspace,Data analytics,R,13
+ggpubr,Data analytics,R,13
+magick,Data analytics,R,13
+nlme,Data analytics,R,13
+sp,Data analytics,R,13
+viridisLite,Data analytics,R,13
+docs,,C++,13
+humanize,,Python,13
+roman-numerals-py,,Python,13
+dash,UI,Python,12
+datawizard,UI,R,12
+ipympl,UI,Python,12
+panel,UI,Python,12
+click-plugins,Software,Python,12
+docopt,Software,Python,12
+jmespath,Software,Python,12
+lark,Software,Python,12
+ply,Software,Python,12
+pydantic-settings,Software,Python,12
+pyright,Software,Python,12
+pytest-asyncio,Software,Python,12
+pytest-randomly,Software,Python,12
+rsa,Software,Python,12
+setuptools_scm,Software,Python,12
+botocore,RIS,Python,12
+gdown,RIS,Python,12
+sphinx-togglebutton,RIS,Python,12
+ase,Modeling and simulation,Python,12
+pyerfa,Modeling and simulation,Python,12
+units,Modeling and simulation,R,12
+bayestestR,Data analytics,R,12
+coda,Data analytics,R,12
+fiona,Data analytics,Python,12
+lavaan,Data analytics,R,12
+nltk,Data analytics,Python,12
+osmnx,Data analytics,Python,12
+pyvista,Data analytics,Python,12
+zoo,Data analytics,R,12
+askpass,UI,R,11
+Flask,UI,Python,11
+prettytable,UI,Python,11
+xfun,UI,R,11
+async-timeout,Software,Python,11
+lazy-loader,Software,Python,11
+PkgConfig,Software,C++,11
+png,Software,R,11
+pyasn1-modules,Software,Python,11
+pydot,Software,Python,11
+pytest-mpl,Software,Python,11
+Threads,Software,C++,11
+here,RIS,R,11
+jupyter-sphinx,RIS,Python,11
+nbsphinx-link,RIS,Python,11
+pydicom,RIS,Python,11
+readthedocs-sphinx-search,RIS,Python,11
+sphinx-basic-ng,RIS,Python,11
+tinytex,RIS,R,11
+furrr,Process,R,11
+nox,Process,Python,11
+pytest-runner,Process,Python,11
+parameters,Modeling and simulation,R,11
+nvidia-cublas-cu12,Hardware,Python,11
+nvidia-cuda-cupti-cu12,Hardware,Python,11
+nvidia-cuda-runtime-cu12,Hardware,Python,11
+nvidia-cudnn-cu12,Hardware,Python,11
+nvidia-cufft-cu12,Hardware,Python,11
+nvidia-cusolver-cu12,Hardware,Python,11
+nvidia-cusparse-cu12,Hardware,Python,11
+nvidia-nvjitlink-cu12,Hardware,Python,11
+pyserial,Hardware,Python,11
+colorcet,Data analytics,Python,11
+emmeans,Data analytics,R,11
+evaluate,Data analytics,Python,11
+lmfit,Data analytics,Python,11
+mne,Data analytics,Python,11
+optax,Data analytics,Python,11
+ranger,Data analytics,R,11
+transformers,Data analytics,Python,11
+m,,C,11
+argcomplete,UI,Python,10
+qtconsole,UI,Python,10
+gunicorn,Software,Python,10
+aiohappyeyeballs,Software,Python,10
+autopep8,Software,Python,10
+backrefs,Software,Python,10
+cpp11,Software,R,10
+fastapi,Software,Python,10
+flatbuffers,Software,Python,10
+google-auth,Software,Python,10
+GTest,Software,C++,10
+jaraco-classes,Software,Python,10
+natsort,Software,Python,10
+orjson,Software,Python,10
+py-cpUInfo,Software,Python,10
+pyqt5,Software,Python,10
+pyrsistent,Software,Python,10
+sys,Software,R,10
+utf8,Software,R,10
+atomicwrites,RIS,Python,10
+desc,RIS,R,10
+doc,RIS,C++,10
+fontawesome,RIS,R,10
+gt,RIS,R,10
+jeepney,RIS,Python,10
+pkgconfig,RIS,R,10
+renv,RIS,R,10
+reticulate,RIS,R,10
+rprojroot,RIS,R,10
+rstantools,RIS,R,10
+secretstorage,RIS,Python,10
+shinytest2,RIS,R,10
+sphinx_gallery,RIS,Python,10
+uc-micro-py,RIS,Python,10
+uUId,RIS,R,10
+viridis,RIS,R,10
+mkdocs-gen-files,Process,Python,10
+mkdocs-literate-nav,Process,Python,10
+LAPACK,Modeling and simulation,C++,10
+rstan,Modeling and simulation,R,10
+spacy,Modeling and simulation,Python,10
+nvidia-cuda-nvrtc-cu12,Hardware,Python,10
+pthread,Hardware,C++,10
+effectsize,Data analytics,R,10
+folium,Data analytics,Python,10
+healpy,Data analytics,Python,10
+IRanges,Data analytics,R,10
+lattice,Data analytics,R,10
+maps,Data analytics,R,10
+performance,Data analytics,R,10
+rpart,Data analytics,R,10
+sandwich,Data analytics,R,10
+scikit_learn,Data analytics,Python,10
+questionary,UI,Python,9
+benchmark,Software analytics,C++,9
+microbenchmark,Software analytics,R,9
+boot,Software,R,9
+cachem,Software,R,9
+cligj,Software,Python,9
+geojson,Software,Python,9
+jaraco-context,Software,Python,9
+jaraco-functools,Software,Python,9
+mako,Software,Python,9
+mime,Software,R,9
+ninja,Software,Python,9
+param,Software,Python,9
+ps,Software,R,9
+redis,Software,Python,9
+simplejson,Software,Python,9
+stevedore,Software,Python,9
+backports-tarfile,RIS,Python,9
+BiocStyle,RIS,R,9
+brio,RIS,R,9
+gtable,RIS,R,9
+HDF5,RIS,C++,9
+jquerylib,RIS,R,9
+myst_nb,RIS,Python,9
+ncdf4,RIS,R,9
+pytest-datadir,RIS,Python,9
+xlsxwriter,RIS,Python,9
+xmltodict,RIS,Python,9
+xtable,RIS,R,9
+zarr,RIS,Python,9
+sphinx-tabs,RIS,Python,9
+pbapply,Process,R,9
+pytest-benchmark,Process,Python,9
+bottleneck,Modeling and simulation,Python,9
+cvxpy,Modeling and simulation,Python,9
+huggingface-hub,Modeling and simulation,Python,9
+rtree,Modeling and simulation,Python,9
+triton,Modeling and simulation,Python,9
+nvidia-curand-cu12,Hardware,Python,9
+nvidia-nvtx-cu12,Hardware,Python,9
+cluster,Data analytics,R,9
+dynesty,Data analytics,Python,9
+fastmap,Data analytics,R,9
+ggraph,Data analytics,R,9
+isoband,Data analytics,R,9
+opencv-python-headless,Data analytics,Python,9
+pyogrio,Data analytics,Python,9
+rioxarray,Data analytics,Python,9
+rstanarm,Data analytics,R,9
+S4Vectors,Data analytics,R,9
+vroom,Data analytics,R,9
+shinyWidgets,UI,R,8
+codespell,Software analytics,Python,8
+flake8-bugbear,Software analytics,Python,8
+aiofiles,Software,Python,8
+argparse,Software,Python,8
+astunparse,Software,Python,8
+beartype,Software,Python,8
+bit64,Software,R,8
+docstring-parser,Software,Python,8
+flake8-docstrings,Software,Python,8
+fmt,Software,C++,8
+gast,Software,Python,8
+gtest,Software,C++,8
+pbr,Software,Python,8
+pkgbUIld,Software,R,8
+plumbum,Software,Python,8
+propcache,Software,Python,8
+pyside6,Software,Python,8
+pytest-astropy,Software,Python,8
+pytest-split,Software,Python,8
+retrying,Software,Python,8
+rfc3986,Software,Python,8
+ruamel.yaml,Software,Python,8
+s3transfer,Software,Python,8
+sass,Software,R,8
+systemfonts,Software,R,8
+tblib,Software,Python,8
+tomli-w,Software,Python,8
+types-pytz,Software,Python,8
+ZLIB,Software,C++,8
+haven,RIS,R,8
+highr,RIS,R,8
+lwgeom,RIS,R,8
+pyviz-comms,RIS,Python,8
+ragg,RIS,R,8
+rnaturalearth,RIS,R,8
+ruamel-yaml,RIS,Python,8
+ruamel-yaml-clib,RIS,Python,8
+see,RIS,R,8
+sphinx-click,RIS,Python,8
+sphinxcontrib-programoutput,RIS,Python,8
+sphinx-issues,RIS,Python,8
+SQLAlchemy,RIS,Python,8
+tensorboard-data-server,RIS,Python,8
+bump2version,Process,Python,8
+affine,Modeling and simulation,Python,8
+gurobipy,Modeling and simulation,Python,8
+nnet,Modeling and simulation,R,8
+pvlib,Modeling and simulation,Python,8
+randomForest,Modeling and simulation,R,8
+ray,Modeling and simulation,Python,8
+Shapely,Modeling and simulation,Python,8
+brms,Data analytics,R,8
+circlize,Data analytics,R,8
+eqUInox,Data analytics,Python,8
+farver,Data analytics,R,8
+mapclassify,Data analytics,Python,8
+optuna,Data analytics,Python,8
+PyWavelets,Data analytics,Python,8
+vegan,Data analytics,R,8
+wandb,Data analytics,Python,8
+.,,Python,8
+labeling,,R,8
+Python3,,C++,8
+ipyvuetify,UI,Python,7
+jupyter_client,UI,Python,7
+mkdocstrings[python],UI,Python,7
+prettyunits,UI,R,7
+progressbar2,UI,Python,7
+progressr,UI,R,7
+setuptools-scm,UI,Python,7
+shinyBS,UI,R,7
+shinythemes,UI,R,7
+asv,Software analytics,Python,7
+bandit,Software analytics,Python,7
+Catch2,Software,C++,7
+diffobj,Software,R,7
+distro,Software,Python,7
+flit,Software,Python,7
+GitPython,Software,Python,7
+jaxtyping,Software,Python,7
+jsonpickle,Software,Python,7
+meson,Software,Python,7
+parse,Software,Python,7
+pathos,Software,Python,7
+psygnal,Software,Python,7
+pyproject-hooks,Software,Python,7
+pytest-env,Software,Python,7
+scipy-stubs,Software,Python,7
+textshaping,Software,R,7
+waldo,Software,R,7
+zict,Software,Python,7
+zstandard,Software,Python,7
+fastparquet,RIS,Python,7
+hdf5,RIS,C,7
+markdown-include,RIS,Python,7
+nbclassic,RIS,Python,7
+pymongo,RIS,Python,7
+R.rsp,RIS,R,7
+readme-renderer,RIS,Python,7
+sphinxcontrib.bibtex,RIS,Python,7
+sphinxcontrib-apidoc,RIS,Python,7
+sphinx-math-dollar,RIS,Python,7
+sphinx-notfound-page,RIS,Python,7
+wget,RIS,Python,7
+alembic,Process,Python,7
+commitizen,Process,Python,7
+deprecation,Process,Python,7
+gtools,Process,R,7
+marshmallow,Process,Python,7
+oauthlib,Process,Python,7
+shinytest,Process,R,7
+tinytest,Process,R,7
+vcr,Process,R,7
+glmmTMB,Modeling and simulation,R,7
+numpyro,Modeling and simulation,Python,7
+ordinal,Modeling and simulation,R,7
+spglib,Modeling and simulation,Python,7
+VGAM,Modeling and simulation,R,7
+afex,Data analytics,R,7
+BayesFactor,Data analytics,R,7
+Biostrings,Data analytics,R,7
+car,Data analytics,R,7
+correlation,Data analytics,R,7
+dbplyr,Data analytics,R,7
+dendextend,Data analytics,R,7
+duckdb,Data analytics,Python,7
+e1071,Data analytics,R,7
+GenomicRanges,Data analytics,R,7
+geopy,Data analytics,Python,7
+Hmisc,Data analytics,R,7
+holoviews,Data analytics,Python,7
+hvplot,Data analytics,Python,7
+lmtest,Data analytics,R,7
+marginaleffects,Data analytics,R,7
+matrixStats,Data analytics,R,7
+modelbased,Data analytics,R,7
+nilearn,Data analytics,Python,7
+opencv-contrib-python,Data analytics,Python,7
+palettable,Data analytics,Python,7
+pywavelets,Data analytics,Python,7
+tokenizers,Data analytics,Python,7
+torchaudio,Data analytics,Python,7
+VTK,Data analytics,C++,7
+bmipy,,Python,7
+maintainers,,Python,7
+praise,,R,7
+TBB,,C++,7
+anywidget,UI,Python,6
+coloredlogs,UI,Python,6
+ipyvue,UI,Python,6
+jupyter_contrib_nbextensions,UI,Python,6
+PyQt6,UI,Python,6
+streamlit,UI,Python,6
+tinytable,UI,R,6
+traittypes,UI,Python,6
+flexcache,Software,Python,6
+flexparser,Software,Python,6
+anytree,Software,Python,6
+Click,Software,Python,6
+clipr,Software,R,6
+config,Software,R,6
+crul,Software,R,6
+dataclasses,Software,Python,6
+deprecated,Software,Python,6
+fansi,Software,R,6
+flask-cors,Software,Python,6
+google-pasta,Software,Python,6
+httpuv,Software,R,6
+isodate,Software,Python,6
+mockery,Software,R,6
+more_itertools,Software,Python,6
+munch,Software,Python,6
+paramiko,Software,Python,6
+pdoc,Software,Python,6
+pep8-naming,Software,Python,6
+promises,Software,R,6
+psycopg2-binary,Software,Python,6
+pyinstaller,Software,Python,6
+pyproject-api,Software,Python,6
+pytest-qt,Software,Python,6
+PythonInterp,Software,C++,6
+RcppParallel,Software,R,6
+rematch2,Software,R,6
+requests-oauthlib,Software,Python,6
+rfc3987-syntax,Software,Python,6
+semver,Software,Python,6
+types-psutil,Software,Python,6
+tzlocal,Software,Python,6
+validators,Software,Python,6
+wadler-lindig,Software,Python,6
+XML,Software,R,6
+xxhash,Software,Python,6
+zip,Software,R,6
+bookdown,RIS,R,6
+doxygen,RIS,C++,6
+earthengine-api,RIS,Python,6
+google-cloud-storage,RIS,Python,6
+hdf5plugin,RIS,Python,6
+intersphinx_registry,RIS,Python,6
+nbmake,RIS,Python,6
+nose,RIS,Python,6
+pybids,RIS,Python,6
+remotes,RIS,R,6
+RSQLite,RIS,R,6
+s3fs,RIS,Python,6
+sessioninfo,RIS,R,6
+sphinx-codeautolink,RIS,Python,6
+sphinxcontrib-websupport,RIS,Python,6
+sphinxext-opengraph,RIS,Python,6
+configargparse,Process,Python,6
+gh,Process,R,6
+mike,Process,Python,6
+pytest-doctestplus,Process,Python,6
+cvxopt,Modeling and simulation,Python,6
+gam,Modeling and simulation,R,6
+gamm4,Modeling and simulation,R,6
+obspy,Modeling and simulation,Python,6
+origami,Modeling and simulation,R,6
+pymc,Modeling and simulation,Python,6
+pyomo,Modeling and simulation,Python,6
+rms,Modeling and simulation,R,6
+SALib,Modeling and simulation,Python,6
+splines,Modeling and simulation,R,6
+TMB,Modeling and simulation,R,6
+trimesh,Modeling and simulation,Python,6
+cairosvg,Data analytics,Python,6
+caret,Data analytics,R,6
+collapse,Data analytics,R,6
+core,Data analytics,C++,6
+einops,Data analytics,Python,6
+extraDistr,Data analytics,R,6
+GGally,Data analytics,R,6
+ggridges,Data analytics,R,6
+imageio-ffmpeg,Data analytics,Python,6
+lmerTest,Data analytics,R,6
+mclust,Data analytics,R,6
+mice,Data analytics,R,6
+openai,Data analytics,Python,6
+photutils,Data analytics,Python,6
+posterior,Data analytics,R,6
+pycairo,Data analytics,Python,6
+rdflib,Data analytics,Python,6
+rsvg,Data analytics,R,6
+stars,Data analytics,R,6
+SuperLearner,Data analytics,R,6
+svglite,Data analytics,R,6
+unyt,Data analytics,Python,6
+visNetwork,Data analytics,R,6
+hms,,R,6
+lib,,C++,6
+dash-core-components,UI,Python,5
+dash-html-components,UI,Python,5
+dash-table,UI,Python,5
+janitor,UI,R,5
+jupyterlite-pyodide-kernel,UI,Python,5
+miniUI,UI,R,5
+mkdocs-git-revision-date-localized-plugin,UI,Python,5
+mkdocs-glightbox,UI,Python,5
+shinycssloaders,UI,R,5
+solara,UI,Python,5
+solara-server,UI,Python,5
+solara-UI,UI,Python,5
+flake8-pyproject,Software analytics,Python,5
+lintr,Software analytics,R,5
+memory-profiler,Software analytics,Python,5
+lazy_loader,Software,Python,5
+tbb,Software,Python,5
+altgraph,Software,Python,5
+bit,Software,R,5
+bitstring,Software,Python,5
+bump-my-version,Software,Python,5
+bumpver,Software,Python,5
+cmake,Software,Python,5
+codetools,Software,R,5
+colorlog,Software,Python,5
+configparser,Software,Python,5
+dnspython,Software,Python,5
+eval-type-backport,Software,Python,5
+fasteners,Software,Python,5
+gert,Software,R,5
+gtest_main,Software,C++,5
+hatch,Software,Python,5
+httptest,Software,R,5
+importlib_metadata,Software,Python,5
+ipdb,Software,Python,5
+iso8601,Software,Python,5
+lazyeval,Software,R,5
+lazy-object-proxy,Software,Python,5
+libclang,Software,Python,5
+multipledispatch,Software,Python,5
+nh3,Software,Python,5
+nlohmann_json,Software,C++,5
+pathlib,Software,Python,5
+pdbpp,Software,Python,5
+pefile,Software,Python,5
+pkginfo,Software,Python,5
+pkgutil-resolve-name,Software,Python,5
+pyinstaller-hooks-contrib,Software,Python,5
+pytest-lazy-fixture,Software,Python,5
+pytest-rerunfailures,Software,Python,5
+python-multipart,Software,Python,5
+RCurl,Software,R,5
+reacton,Software,Python,5
+rjson,Software,R,5
+scooby,Software,Python,5
+texttable,Software,Python,5
+typing-inspect,Software,Python,5
+Werkzeug,Software,Python,5
+whisker,Software,R,5
+win32-setctime,Software,Python,5
+yapf,Software,Python,5
+autodoc-pydantic,RIS,Python,5
+autodocsumm,RIS,Python,5
+BiocManager,RIS,R,5
+foreign,RIS,R,5
+fst,RIS,R,5
+gargle,RIS,R,5
+googledrive,RIS,R,5
+jupyterlite-sphinx,RIS,Python,5
+maggma,RIS,Python,5
+Markdown,RIS,Python,5
+openxlsx,RIS,R,5
+optype,RIS,Python,5
+pdftools,RIS,R,5
+pingr,RIS,R,5
+smart-open,RIS,Python,5
+sphinx_automodapi,RIS,Python,5
+sphinx-astropy,RIS,Python,5
+sphinx-favicon,RIS,Python,5
+sphinx-panels,RIS,Python,5
+sphinx-prompt,RIS,Python,5
+tm,RIS,R,5
+hydra-core,Process,Python,5
+pip-tools,Process,Python,5
+poethepoet,Process,Python,5
+pytest-mpi,Process,Python,5
+towncrier,Process,Python,5
+cupy,Modeling and simulation,Python,5
+FFTW,Modeling and simulation,C++,5
+fields,Modeling and simulation,R,5
+forecast,Modeling and simulation,R,5
+gymnasium,Modeling and simulation,Python,5
+highspy,Modeling and simulation,Python,5
+ITK,Modeling and simulation,C++,5
+jaxopt,Modeling and simulation,Python,5
+nautilus-sampler,Modeling and simulation,Python,5
+open3d,Modeling and simulation,Python,5
+phangorn,Modeling and simulation,R,5
+Pint,Modeling and simulation,Python,5
+pyfftw,Modeling and simulation,Python,5
+pyro-ppl,Modeling and simulation,Python,5
+sentence-transformers,Modeling and simulation,Python,5
+StanHeaders,Modeling and simulation,R,5
+countrycode,Integrative analysis,R,5
+CUDA,Hardware,C++,5
+Kokkos,Hardware,C++,5
+stdc++,Hardware,C,5
+betareg,Data analytics,R,5
+bqplot,Data analytics,Python,5
+branca,Data analytics,Python,5
+ComplexHeatmap,Data analytics,R,5
+DiagrammeR,Data analytics,R,5
+EnvStats,Data analytics,R,5
+gdal,Data analytics,Python,5
+getdist,Data analytics,Python,5
+ggtext,Data analytics,R,5
+h3,Data analytics,Python,5
+iminUIt,Data analytics,Python,5
+ipyleaflet,Data analytics,Python,5
+kernlab,Data analytics,R,5
+KernSmooth,Data analytics,R,5
+librosa,Data analytics,Python,5
+lunarsky,Data analytics,Python,5
+mdanalysis,Data analytics,Python,5
+metafor,Data analytics,R,5
+munsell,Data analytics,R,5
+onnxruntime,Data analytics,Python,5
+parsnip,Data analytics,R,5
+phyloseq,Data analytics,R,5
+poorman,Data analytics,R,5
+pydub,Data analytics,Python,5
+rdkit,Data analytics,Python,5
+robustbase,Data analytics,R,5
+sentencepiece,Data analytics,Python,5
+signal,Data analytics,R,5
+sklearn,Data analytics,Python,5
+soundfile,Data analytics,Python,5
+spatstat.geom,Data analytics,R,5
+sphinxcontrib-spelling,Data analytics,Python,5
+stringdist,Data analytics,R,5
+SummarizedExperiment,Data analytics,R,5
+survey,Data analytics,R,5
+tensorflow_probability,Data analytics,Python,5
+tensorflow-io-gcs-filesystem,Data analytics,Python,5
+timezonefinder,Data analytics,Python,5
+umap-learn,Data analytics,Python,5
+common,,C++,5
+dash-bootstrap-components,UI,Python,4
+dash-daq,UI,Python,4
+ipyevents,UI,Python,4
+jupyter-contrib-nbextensions,UI,Python,4
+pyqt5-sip,UI,Python,4
+PySide6,UI,Python,4
+screeninfo,UI,Python,4
+shinybusy,UI,R,4
+trame,UI,Python,4
+trame-vuetify,UI,Python,4
+pyinstrument,Software analytics,Python,4
+pytest-codspeed,Software analytics,Python,4
+vulture,Software analytics,Python,4
+aioitertools,Software,Python,4
+aniso8601,Software,Python,4
+antlr4-python3-runtime,Software,Python,4
+asciitree,Software,Python,4
+asdf,Software,Python,4
+asgiref,Software,Python,4
+asteval,Software,Python,4
+autoflake,Software,Python,4
+Babel,Software,Python,4
+bcrypt,Software,Python,4
+bench,Software,R,4
+bracex,Software,Python,4
+cachecontrol,Software,Python,4
+cached-property,Software,Python,4
+check-manifest,Software,Python,4
+configobj,Software,Python,4
+dataclasses-json,Software,Python,4
+dateparser,Software,Python,4
+docformatter,Software,Python,4
+flake8-bUIltins-unleashed,Software,Python,4
+frozendict,Software,Python,4
+future.callr,Software,R,4
+googleapis-common-protos,Software,Python,4
+google-auth-oauthlib,Software,Python,4
+hatchling,Software,Python,4
+html5lib,Software,Python,4
+httptest2,Software,R,4
+httpx-sse,Software,Python,4
+importlib_resources,Software,Python,4
+iterators,Software,R,4
+jiter,Software,Python,4
+jsonpatch,Software,Python,4
+later,Software,R,4
+logger,Software,R,4
+loky,Software,Python,4
+looseversion,Software,Python,4
+lz4,Software,Python,4
+mongomock,Software,Python,4
+nanobind,Software,C++,4
+parallelly,Software,R,4
+pdoc3,Software,Python,4
+pep8,Software,Python,4
+pockets,Software,Python,4
+pygame,Software,Python,4
+pygit2,Software,Python,4
+pytest-cases,Software,Python,4
+pytest-sugar,Software,Python,4
+python-box,Software,Python,4
+python-gitlab,Software,Python,4
+pytokens,Software,Python,4
+ratelimit,Software,Python,4
+rematch,Software,R,4
+reportlab,Software,Python,4
+reprex,Software,R,4
+responses,Software,Python,4
+schema,Software,Python,4
+sentry-sdk,Software,Python,4
+shiboken6,Software,Python,4
+sourcetools,Software,R,4
+structlog,Software,Python,4
+styler,Software,R,4
+testpath,Software,Python,4
+timechange,Software,R,4
+trove-classifiers,Software,Python,4
+typed-ast,Software,Python,4
+typeguard,Software,Python,4
+types-pyyaml,Software,Python,4
+types-tqdm,Software,Python,4
+uv,Software,Python,4
+yaml-cpp,Software,C++,4
+astropy-iers-data,RIS,Python,4
+autodoc,RIS,Python,4
+autodoc_pydantic,RIS,Python,4
+blob,RIS,R,4
+cdsapi,RIS,Python,4
+codecarbon,RIS,Python,4
+flextable,RIS,R,4
+golem,RIS,R,4
+jupyter_sphinx,RIS,Python,4
+jupyter-server-proxy,RIS,Python,4
+mkdocs-redirects,RIS,Python,4
+numcodecs,RIS,Python,4
+owslib,RIS,Python,4
+prettydoc,RIS,R,4
+psycopg2,RIS,Python,4
+py7zr,RIS,Python,4
+pyevtk,RIS,Python,4
+pystac,RIS,Python,4
+pystac-client,RIS,Python,4
+qpdf,RIS,R,4
+quarto,RIS,R,4
+rstcheck,RIS,Python,4
+sjlabelled,RIS,R,4
+sounddevice,RIS,Python,4
+sphinx_inline_tabs,RIS,Python,4
+sphinxcontrib-mermaid,RIS,Python,4
+sphinx-mdinclude,RIS,Python,4
+sshtunnel,RIS,Python,4
+tiff,RIS,R,4
+tzdb,RIS,R,4
+webshot,RIS,R,4
+writexl,RIS,R,4
+sphinxcontrib-video,RIS,Python,4
+bumpversion,Process,Python,4
+interrogate,Process,Python,4
+RcppProgress,Process,R,4
+CoolProp,Modeling and simulation,Python,4
+data.tree,Modeling and simulation,R,4
+deSolve,Modeling and simulation,R,4
+ephem,Modeling and simulation,Python,4
+gmpy2,Modeling and simulation,Python,4
+gmsh,Modeling and simulation,Python,4
+interpolation,Modeling and simulation,Python,4
+jplephem,Modeling and simulation,Python,4
+mdtraj,Modeling and simulation,Python,4
+mip,Modeling and simulation,C++,4
+ndlib,Modeling and simulation,Python,4
+osqp,Modeling and simulation,Python,4
+pulp,Modeling and simulation,Python,4
+pymoo,Modeling and simulation,Python,4
+pypardiso,Modeling and simulation,Python,4
+quadprog,Modeling and simulation,Python,4
+rjags,Modeling and simulation,R,4
+s2,Modeling and simulation,R,4
+scikit-umfpack,Modeling and simulation,Python,4
+scs,Modeling and simulation,Python,4
+triangle,Modeling and simulation,Python,4
+ultranest,Modeling and simulation,Python,4
+whitebox,Modeling and simulation,Python,4
+zeus-mcmc,Modeling and simulation,Python,4
+Formula,Integrative analysis,R,4
+langchain,Integrative analysis,Python,4
+metaBMA,Integrative analysis,R,4
+modelr,Integrative analysis,R,4
+reactable,Integrative analysis,R,4
+blas,Hardware,C++,4
+CUDAToolkit,Hardware,C++,4
+nvidia-cufile-cu12,Hardware,Python,4
+nvidia-cusparselt-cu12,Hardware,Python,4
+actuar,Data analytics,R,4
+aod,Data analytics,R,4
+astropy-healpix,Data analytics,Python,4
+BiocGenerics,Data analytics,R,4
+BiocParallel,Data analytics,R,4
+blackjax,Data analytics,Python,4
+brglm2,Data analytics,R,4
+carData,Data analytics,R,4
+Cartopy,Data analytics,Python,4
+chainconsumer,Data analytics,Python,4
+chex,Data analytics,Python,4
+class,Data analytics,R,4
+classInt,Data analytics,R,4
+cmocean,Data analytics,Python,4
+colour,Data analytics,Python,4
+corrplot,Data analytics,R,4
+descartes,Data analytics,Python,4
+dtplyr,Data analytics,R,4
+etils,Data analytics,Python,4
+factoextra,Data analytics,R,4
+fastcluster,Data analytics,Python,4
+ffmpeg-python,Data analytics,Python,4
+fontqUIver,Data analytics,R,4
+formulaic,Data analytics,Python,4
+GDAL,Data analytics,Python,4
+gee,Data analytics,R,4
+geepack,Data analytics,R,4
+gensim,Data analytics,Python,4
+ggforce,Data analytics,R,4
+ggiraph,Data analytics,R,4
+ggthemes,Data analytics,R,4
+ipyvolume,Data analytics,Python,4
+jupyter-leaflet,Data analytics,Python,4
+laspy,Data analytics,Python,4
+libpysal,Data analytics,Python,4
+logspline,Data analytics,R,4
+loo,Data analytics,R,4
+matplotlib-scalebar,Data analytics,Python,4
+mclogit,Data analytics,R,4
+moviepy,Data analytics,Python,4
+nestle,Data analytics,Python,4
+pastel,Data analytics,Python,4
+pbkrtest,Data analytics,R,4
+pingoUIn,Data analytics,Python,4
+plotnine,Data analytics,Python,4
+PNG,Data analytics,C++,4
+pscl,Data analytics,R,4
+pyopengl,Data analytics,Python,4
+PyOpenGL,Data analytics,Python,4
+python-ternary,Data analytics,Python,4
+pyuvdata,Data analytics,Python,4
+pyvo,Data analytics,Python,4
+qgraph,Data analytics,R,4
+quanteda,Data analytics,R,4
+quantreg,Data analytics,R,4
+rapidfuzz,Data analytics,Python,4
+rasterstats,Data analytics,Python,4
+reshape,Data analytics,R,4
+SimpleITK,Data analytics,Python,4
+statmod,Data analytics,R,4
+tensorboard-plugin-wit,Data analytics,Python,4
+tidytext,Data analytics,R,4
+tiktoken,Data analytics,Python,4
+tmap,Data analytics,R,4
+torchmetrics,Data analytics,Python,4
+trame-vtk,Data analytics,Python,4
+tweedie,Data analytics,R,4
+unidecode,Data analytics,Python,4
+WRS2,Data analytics,R,4
+xarray-einstats,Data analytics,Python,4
+",",,Python,4
+dev,,Python,4
+ellipsis,,R,4
+example,,C++,4
+exclude,,Python,4
+Exec,,C++,4
+geometry,,R,4
+proxy,,R,4
+PythonLibs,,C++,4
+Tests,,C++,4
+tutorials,,C++,4
+z,,C,4
+jupyterthemes,UI ,Python,3
+click-didyoumean,UI,Python,3
+click-repl,UI,Python,3
+crosstalk,UI,R,3
+fire,UI,Python,3
+gUI,UI,C++,3
+ipyfilechooser,UI,Python,3
+ipyparallel,UI,Python,3
+ipytree,UI,Python,3
+plac,UI,Python,3
+pyglet,UI,Python,3
+pyqt6,UI,Python,3
+PySide2,UI,Python,3
+pyside6-addons,UI,Python,3
+pyside6-essentials,UI,Python,3
+Qt5,UI,C++,3
+QtPy,UI,Python,3
+reactR,UI,R,3
+rhandsontable,UI,R,3
+selenium,UI,Python,3
+traits,UI,Python,3
+snakeviz,Software analytics,Python,3
+coverage-badge,Software analytics,Python,3
+DALEX,Software analytics,R,3
+flake8-bandit,Software analytics,Python,3
+gprof2dot,Software analytics,Python,3
+langsmith,Software analytics,Python,3
+line-profiler,Software analytics,Python,3
+pympler,Software analytics,Python,3
+pytest-coverage,Software analytics,Python,3
+python-coveralls,Software analytics,Python,3
+rcmdcheck,Software analytics,R,3
+ujson,Software analytics,Python,3
+unittest2,Software analytics,Python,3
+httptools,Software,Python,3
+.[docs],Software,Python,3
+aiosqlite,Software,Python,3
+amqp,Software,Python,3
+array-api-strict,Software,Python,3
+backoff,Software,Python,3
+base64url,Software,R,3
+bidict,Software,Python,3
+billiard,Software,Python,3
+bitarray,Software,Python,3
+boltons,Software,Python,3
+brotli,Software,Python,3
+cachelib,Software,Python,3
+cairocffi,Software,Python,3
+catalogue,Software,Python,3
+color-operations,Software,Python,3
+conflicted,Software,R,3
+cssselect2,Software,Python,3
+cytoolz,Software,Python,3
+decli,Software,Python,3
+Deprecated,Software,Python,3
+Django,Software,Python,3
+django,Software,Python,3
+django-extensions,Software,Python,3
+dm-tree,Software,Python,3
+downlit,Software,R,3
+eigen3,Software,C++,3
+email-validator,Software,Python,3
+enum-tools,Software,Python,3
+eventlet,Software,Python,3
+flake8-black,Software,Python,3
+flake8-use-fstring,Software,Python,3
+flask-caching,Software,Python,3
+flask-restx,Software,Python,3
+formatR,Software,R,3
+freezegun,Software,Python,3
+geojsonsf,Software,R,3
+google-crc32c,Software,Python,3
+google-resumable-media,Software,Python,3
+grpcio-status,Software,Python,3
+hf-xet,Software,Python,3
+holidays,Software,Python,3
+humanfriendly,Software,Python,3
+hyperlink,Software,Python,3
+id,Software,Python,3
+ids,Software,R,3
+ini,Software,R,3
+jsonvalidate,Software,R,3
+julia,Software,Python,3
+kombu,Software,Python,3
+livereload,Software,Python,3
+lxml_html_clean,Software,Python,3
+macholib,Software,Python,3
+matlab,Software,C++,3
+methodtools,Software,Python,3
+msgspec,Software,Python,3
+multimethod,Software,Python,3
+namex,Software,Python,3
+nptyping,Software,Python,3
+num2words,Software,Python,3
+odfpy,Software,Python,3
+omegaconf,Software,Python,3
+OpenSSL,Software,C++,3
+optree,Software,Python,3
+parameterized,Software,Python,3
+pendulum,Software,Python,3
+pep517,Software,Python,3
+pox,Software,Python,3
+ppft,Software,Python,3
+proto-plus,Software,Python,3
+pyct,Software,Python,3
+pydash,Software,Python,3
+pydoclint,Software,Python,3
+pyjwt,Software,Python,3
+pynacl,Software,Python,3
+pyprojroot,Software,Python,3
+pysocks,Software,Python,3
+pytest-order,Software,Python,3
+pytest-regressions,Software,Python,3
+pytest-subtests,Software,Python,3
+pytest-xvfb,Software,Python,3
+python-slugify,Software,Python,3
+python-utils,Software,Python,3
+requests-cache,Software,Python,3
+S7,Software,R,3
+selectr,Software,R,3
+Send2Trash,Software,Python,3
+sentinels,Software,Python,3
+server-thread,Software,Python,3
+sfheaders,Software,R,3
+sh,Software,Python,3
+sqlparse,Software,Python,3
+stdlib-list,Software,Python,3
+SWIG,Software,C++,3
+text-unidecode,Software,Python,3
+types-PyYAML,Software,Python,3
+unit,Software,C++,3
+userpath,Software,Python,3
+uvloop,Software,Python,3
+vine,Software,Python,3
+waitress,Software,Python,3
+wasabi,Software,Python,3
+wcmatch,Software,Python,3
+wincertstore,Software,Python,3
+xmlschema,Software,Python,3
+zope-interface,Software,Python,3
+aiobotocore,RIS,Python,3
+autoapi,RIS,Python,3
+better_apidoc,RIS,Python,3
+bids-validator,RIS,Python,3
+breathe,RIS,Python,3
+dask-jobqueue,RIS,Python,3
+databroker,RIS,Python,3
+edfio,RIS,Python,3
+elasticsearch,RIS,Python,3
+elasticsearch-dsl,RIS,Python,3
+Fiona,RIS,Python,3
+gdtools,RIS,R,3
+google-cloud-bigquery,RIS,Python,3
+google-cloud-core,RIS,Python,3
+googlesheets4,RIS,R,3
+hatch-jupyter-bUIlder,RIS,Python,3
+jsonlines,RIS,Python,3
+LATEX,RIS,C++,3
+latex2exp,RIS,R,3
+localtileserver,RIS,Python,3
+m2r,RIS,Python,3
+mkdocs-bibtex,RIS,Python,3
+mkdocs-git-authors-plugin,RIS,Python,3
+mkdocs-macros-plugin,RIS,Python,3
+mkdocstrings-python-legacy,RIS,Python,3
+nidaqmx,RIS,Python,3
+openxlsx2,RIS,R,3
+pander,RIS,R,3
+psycopg,RIS,Python,3
+pylsl,RIS,Python,3
+pymatreader,RIS,Python,3
+pytest-testmon,RIS,Python,3
+pytkdocs,RIS,Python,3
+rgdal,RIS,R,3
+rgeos,RIS,R,3
+roxyglobals,RIS,R,3
+rpy2,RIS,Python,3
+Rsamtools,RIS,R,3
+screed,RIS,Python,3
+session-info,RIS,Python,3
+sphinx_bootstrap_theme,RIS,Python,3
+sphinx_issues,RIS,Python,3
+sphinx_toggleprompt,RIS,Python,3
+sphinx_toolbox,RIS,Python,3
+sphinxemoji,RIS,Python,3
+sphinxext-rediraffe,RIS,Python,3
+sphinx-intl,RIS,Python,3
+sphinx-markdown-tables,RIS,Python,3
+sphinx-rtd-dark-mode,RIS,Python,3
+sphinx-toolbox,RIS,Python,3
+typing,RIS,Python,3
+voila,RIS,Python,3
+watermark,RIS,Python,3
+whiteboxgUI,RIS,Python,3
+sphinx-inline-tabs,RIS,Python,3
+ament_cmake,Process,C++,3
+bibtexparser,Process,Python,3
+blacken-docs,Process,Python,3
+celery,Process,Python,3
+credentials,Process,R,3
+gitcreds,Process,R,3
+invoke,Process,Python,3
+poetry,Process,Python,3
+reqUIres-poetry,Process,Python,3
+vcrpy,Process,Python,3
+${AMREX_SUBMOD_LOCATION},Modeling and simulation,C++,3
+AMReX,Modeling and simulation,C++,3
+bilby,Modeling and simulation,Python,3
+BLAS,Modeling and simulation,C++,3
+casadi,Modeling and simulation,Python,3
+Ceres,Modeling and simulation,C++,3
+CGAL,Modeling and simulation,C++,3
+cma,Modeling and simulation,Python,3
+cubature,Modeling and simulation,R,3
+deap,Modeling and simulation,Python,3
+derivative,Modeling and simulation,Python,3
+doRNG,Modeling and simulation,R,3
+fftw3,Modeling and simulation,C++,3
+gala,Modeling and simulation,Python,3
+GLPK,Modeling and simulation,C++,3
+HYPRE,Modeling and simulation,C++,3
+itk,Modeling and simulation,C++,3
+jax[cpu],Modeling and simulation,Python,3
+jupyter_core,Modeling and simulation,Python,3
+Matlab,Modeling and simulation,C++,3
+MCMCglmm,Modeling and simulation,R,3
+mesa,Modeling and simulation,Python,3
+MKL,Modeling and simulation,C++,3
+mkl,Modeling and simulation,Python,3
+nloptr,Modeling and simulation,R,3
+numpy-stl,Modeling and simulation,Python,3
+ortools,Modeling and simulation,Python,3
+PETSc,Modeling and simulation,C++,3
+petsc4py,Modeling and simulation,Python,3
+pyamg,Modeling and simulation,Python,3
+pyDOE,Modeling and simulation,Python,3
+pygmsh,Modeling and simulation,Python,3
+pymultinest,Modeling and simulation,Python,3
+pymysql,Modeling and simulation,Python,3
+pynufft,Modeling and simulation,Python,3
+pyscipopt,Modeling and simulation,Python,3
+pytensor,Modeling and simulation,Python,3
+pythran,Modeling and simulation,Python,3
+rTensor,Modeling and simulation,R,3
+SUNDIALS,Modeling and simulation,C++,3
+sybil,Modeling and simulation,Python,3
+SymEngine,Modeling and simulation,C++,3
+torch-geometric,Modeling and simulation,Python,3
+transforms3d,Modeling and simulation,Python,3
+mediation,Integrative analysis,R,3
+MuMIn,Integrative analysis,R,3
+nipype,Integrative analysis,Python,3
+pandera,Integrative analysis,Python,3
+shap,Integrative analysis,Python,3
+intel-openmp,Hardware,Python,3
+pyobjc-core,Hardware,Python,3
+pyobjc-framework-cocoa,Hardware,Python,3
+AER,Data analytics,R,3
+anndata,Data analytics,Python,3
+babynames,Data analytics,R,3
+bayesplot,Data analytics,R,3
+brew,Data analytics,R,3
+cellranger,Data analytics,R,3
+clubSandwich,Data analytics,R,3
+contextily,Data analytics,Python,3
+coxme,Data analytics,R,3
+dask[complete],Data analytics,Python,3
+datashader,Data analytics,Python,3
+DESeq2,Data analytics,R,3
+discovr,Data analytics,R,3
+distributional,Data analytics,R,3
+dqrng,Data analytics,R,3
+earth,Data analytics,R,3
+energy,Data analytics,R,3
+epiR,Data analytics,R,3
+exactextractr,Data analytics,R,3
+fastavro,Data analytics,Python,3
+fitdistrplus,Data analytics,R,3
+fixest,Data analytics,R,3
+flax,Data analytics,Python,3
+formattable,Data analytics,R,3
+fuzzywuzzy,Data analytics,Python,3
+gamlss,Data analytics,R,3
+gbm,Data analytics,R,3
+GenomeInfoDb,Data analytics,R,3
+GenomicAlignments,Data analytics,R,3
+geosphere,Data analytics,R,3
+ggdendro,Data analytics,R,3
+ggdist,Data analytics,R,3
+ggside,Data analytics,R,3
+ggspatial,Data analytics,R,3
+ggtree,Data analytics,R,3
+GLMMadaptive,Data analytics,R,3
+GPArotation,Data analytics,R,3
+gplots,Data analytics,R,3
+hexbin,Data analytics,R,3
+huggingface_hub,Data analytics,Python,3
+imagecodecs,Data analytics,Python,3
+imbalanced-learn,Data analytics,Python,3
+imutils,Data analytics,Python,3
+keplergl,Data analytics,Python,3
+kneed,Data analytics,Python,3
+langchain-core,Data analytics,Python,3
+langchain-openai,Data analytics,Python,3
+langchain-text-splitters,Data analytics,Python,3
+leafem,Data analytics,R,3
+leafmap,Data analytics,Python,3
+lifelines,Data analytics,Python,3
+lightgbm,Data analytics,Python,3
+lightkurve,Data analytics,Python,3
+lightning,Data analytics,Python,3
+lightning-utilities,Data analytics,Python,3
+limma,Data analytics,R,3
+logistf,Data analytics,R,3
+logitr,Data analytics,R,3
+mapproj,Data analytics,R,3
+mediapipe,Data analytics,Python,3
+medpy,Data analytics,Python,3
+metaplus,Data analytics,R,3
+mizani,Data analytics,Python,3
+mlogit,Data analytics,R,3
+mmrm,Data analytics,R,3
+mne-qt-browser,Data analytics,Python,3
+moments,Data analytics,R,3
+morecantile,Data analytics,Python,3
+msm,Data analytics,R,3
+mvnfast,Data analytics,R,3
+napari,Data analytics,Python,3
+nestedLogit,Data analytics,R,3
+network,Data analytics,R,3
+networkD3,Data analytics,R,3
+nglview,Data analytics,Python,3
+partykit,Data analytics,R,3
+plm,Data analytics,R,3
+pydeck,Data analytics,Python,3
+pygraphviz,Data analytics,Python,3
+pynndescent,Data analytics,Python,3
+pyntcloud,Data analytics,Python,3
+pyspark,Data analytics,Python,3
+python-casacore,Data analytics,Python,3
+python-igraph,Data analytics,Python,3
+refet,Data analytics,Python,3
+reproject,Data analytics,Python,3
+rgl,Data analytics,R,3
+rio-cogeo,Data analytics,Python,3
+rio-tiler,Data analytics,Python,3
+rsample,Data analytics,R,3
+Rtsne,Data analytics,R,3
+rworldmap,Data analytics,R,3
+safetensors,Data analytics,Python,3
+scikit-optimize,Data analytics,Python,3
+sep,Data analytics,Python,3
+seqinr,Data analytics,R,3
+seriation,Data analytics,R,3
+slicerator,Data analytics,Python,3
+sna,Data analytics,R,3
+SnowballC,Data analytics,R,3
+specutils,Data analytics,Python,3
+stopwords,Data analytics,R,3
+tensorflow-estimator,Data analytics,Python,3
+tidygraph,Data analytics,R,3
+topicmodels,Data analytics,R,3
+torch_geometric,Data analytics,Python,3
+tsam,Data analytics,Python,3
+uwot,Data analytics,R,3
+wordcloud,Data analytics,Python,3
+yardstick,Data analytics,R,3
+zuko,Data analytics,Python,3
+api,,C++,3
+art,,Python,3
+benchmarks,,C++,3
+c,,C,3
+chk,,R,3
+components,,C++,3
+dl,,C++,3
+external,,C++,3
+gcamdata,,R,3
+gridGraphics,,R,3
+integration,,C++,3
+interface-meta,,Python,3
+modules,,Python,3
+palmerpengUIns,,R,3
+parallelMap,,R,3
+patrick,,R,3
+periodictable,,Python,3
+serp,,R,3
+UnitTests,,C++,3
+colourpicker,UI,R,2
+dash-renderer,UI,Python,2
+fastprogress,UI,Python,2
+Flask-Cors,UI,Python,2
+Flask-SocketIO,UI,Python,2
+getPass,UI,R,2
+imgUI,UI,C++,2
+ipycanvas,UI,Python,2
+jupyterlab_pygments,UI,Python,2
+jupyter-server-ydoc,UI,Python,2
+jupyter-ydoc,UI,Python,2
+keyboard,UI,Python,2
+maplibre,UI,Python,2
+markdown-callouts,UI,Python,2
+markdown-exec,UI,Python,2
+plyer,UI,Python,2
+pybv,UI,Python,2
+PyGObject,UI,Python,2
+pyperclip,UI,Python,2
+pyppeteer,UI,Python,2
+pyqt5-qt5,UI,Python,2
+pyqtdarktheme,UI,Python,2
+pyqtwebengine,UI,Python,2
+pyreadline3,UI,Python,2
+PySide6_Addons,UI,Python,2
+PySide6_Essentials,UI,Python,2
+python-telegram-bot,UI,Python,2
+pyvirtualdisplay,UI,Python,2
+qimage2ndarray,UI,Python,2
+Qt,UI,C++,2
+qtawesome,UI,Python,2
+shinydashboardPlus,UI,R,2
+shinyFiles,UI,R,2
+streamlit-folium,UI,Python,2
+trame-client,UI,Python,2
+trame-server,UI,Python,2
+wxWidgets,UI,C++,2
+cyclonedx-python-lib,Software analytics,Python,2
+deptry,Software analytics,Python,2
+diff-cover,Software analytics,Python,2
+dparse,Software analytics,Python,2
+line_profiler,Software analytics,Python,2
+pytest-arraydiff,Software analytics,Python,2
+pytest-flakefinder,Software analytics,Python,2
+pytype,Software analytics,Python,2
+aiosmtpd,Software,Python,2
+ament_cmake_gtest,Software,C++,2
+argh,Software,Python,2
+astor,Software,Python,2
+astroscrappy,Software,Python,2
+async-generator,Software,Python,2
+audioread,Software,Python,2
+backports-asyncio-runner,Software,Python,2
+Bfd,Software,C++,2
+binaryornot,Software,Python,2
+bindings,Software,C++,2
+boolean-py,Software,Python,2
+boost_system,Software,C++,2
+boost-filesystem,Software,C++,2
+bs4,Software,Python,2
+charset_normalizer,Software,Python,2
+ci-info,Software,Python,2
+class-registry,Software,Python,2
+confection,Software,Python,2
+covdefaults,Software,Python,2
+cppimport,Software,Python,2
+csscompressor,Software,Python,2
+CURL,Software,C++,2
+cymem,Software,Python,2
+datetime,Software,Python,2
+dbus-python,Software,Python,2
+ddt,Software,Python,2
+debugme,Software,R,2
+docopt-ng,Software,Python,2
+doFuture,Software,R,2
+duecredit,Software,Python,2
+dunamai,Software,Python,2
+easydev,Software,Python,2
+editorconfig,Software,Python,2
+elementpath,Software,Python,2
+ezdxf,Software,Python,2
+fake-useragent,Software,Python,2
+faust-cchardet,Software,Python,2
+ffmpeg,Software,Python,2
+filetype,Software,Python,2
+flake8-import-order,Software,Python,2
+gevent,Software,Python,2
+gomp,Software,C,2
+google-api-core,Software,Python,2
+google-cloud-resource-manager,Software,Python,2
+googletest-bUIld,Software,C++,2
+grpc-google-iam-v1,Software,Python,2
+hash,Software,R,2
+HeapDict,Software,Python,2
+hpack,Software,Python,2
+htmlmin2,Software,Python,2
+hunspell,Software,R,2
+hyperframe,Software,Python,2
+immutabledict,Software,Python,2
+intervals,Software,R,2
+ipython_genutils,Software,Python,2
+JlCxx,Software,C++,2
+jsbeautifier,Software,Python,2
+jsmin,Software,Python,2
+jsonargparse,Software,Python,2
+langcodes,Software,Python,2
+language-data,Software,Python,2
+lark-parser,Software,Python,2
+lgr,Software,R,2
+LibDL,Software,C++,2
+LibXml2,Software,C,2
+license-expression,Software,Python,2
+lockfile,Software,Python,2
+logzero,Software,Python,2
+marisa-trie,Software,Python,2
+mkdocs-minify-plugin,Software,Python,2
+mmh3,Software,Python,2
+murmurhash,Software,Python,2
+nbqa,Software,Python,2
+numbagg,Software,Python,2
+numpy-typing-compat,Software,Python,2
+objsize,Software,Python,2
+opentelemetry-api,Software,Python,2
+opentelemetry-exporter-otlp,Software,Python,2
+opentelemetry-sdk,Software,Python,2
+opentelemetry-semantic-conventions,Software,Python,2
+oyaml,Software,Python,2
+packageurl-python,Software,Python,2
+parmap,Software,Python,2
+parsedate,Software,R,2
+path,Software,Python,2
+pathlib2,Software,Python,2
+paws.common,Software,R,2
+plum-dispatch,Software,Python,2
+preshed,Software,Python,2
+pycocotools,Software,Python,2
+pyenchant,Software,Python,2
+PyQt5-sip,Software,Python,2
+pytest-cache,Software,Python,2
+pytest-django,Software,Python,2
+pytest-pep8,Software,Python,2
+pytest-random-order,Software,Python,2
+pytest-remotedata,Software,Python,2
+pytest-subprocess,Software,Python,2
+python-magic,Software,Python,2
+pyupgrade,Software,Python,2
+pyvistaqt,Software,Python,2
+rapidjsonr,Software,R,2
+RcppThread,Software,R,2
+rJava,Software,R,2
+rlist,Software,R,2
+Rsolnp,Software,R,2
+sacremoses,Software,Python,2
+safety,Software,Python,2
+scandir,Software,Python,2
+scriv,Software,Python,2
+setproctitle,Software,Python,2
+Slicer,Software,C++,2
+snakecase,Software,R,2
+spacy-legacy,Software,Python,2
+spacy-loggers,Software,Python,2
+spdlog,Software,C++,2
+sqlalchemy-utils,Software,Python,2
+srsly,Software,Python,2
+stdc++fs,Software,C++,2
+stopit,Software,Python,2
+super-collections,Software,Python,2
+testfixtures,Software,Python,2
+Testing,Software,C++,2
+thinc,Software,Python,2
+tokenize-rt,Software,Python,2
+torchtestcase,Software,Python,2
+treelib,Software,Python,2
+types-setuptools,Software,Python,2
+types-urllib3,Software,Python,2
+urltools,Software,R,2
+util,Software,C++,2
+V8,Software,R,2
+verspec,Software,Python,2
+YamlCpp,Software,C++,2
+yaspin,Software,Python,2
+ypy-websocket,Software,Python,2
+zeep,Software,Python,2
+zlib,Software,C++,2
+zope-event,Software,Python,2
+anyascii,RIS,Python,2
+apidoc,RIS,Python,2
+avro-python3,RIS,Python,2
+azure-storage-blob,RIS,Python,2
+Base,RIS,C++,2
+BBmisc,RIS,R,2
+bibclean,RIS,Python,2
+bibtex,RIS,R,2
+bidsschematools,RIS,Python,2
+bluesky,RIS,Python,2
+boost-program-options,RIS,C++,2
+boost-system,RIS,C++,2
+brainflow,RIS,Python,2
+broom.mixed,RIS,R,2
+cloudpathlib,RIS,Python,2
+clustermq,RIS,R,2
+cogapp,RIS,Python,2
+datapackage,RIS,Python,2
+DiagrammeRsvg,RIS,R,2
+earthaccess,RIS,Python,2
+eeglabio,RIS,Python,2
+etelemetry,RIS,Python,2
+fitsio,RIS,Python,2
+geojsonio,RIS,R,2
+GeoTIFF,RIS,C++,2
+google-api-python-client,RIS,Python,2
+google-auth-httplib2,RIS,Python,2
+googleCloudStorageR,RIS,R,2
+guzzle_sphinx_theme,RIS,Python,2
+httplib2,RIS,Python,2
+huxtable,RIS,R,2
+ipfshttpclient,RIS,Python,2
+ipynb-py-convert,RIS,Python,2
+jpeg,RIS,R,2
+jsonld,RIS,R,2
+jupyterlab-myst,RIS,Python,2
+jupyter-server-fileid,RIS,Python,2
+markdown-katex,RIS,Python,2
+mercantile,RIS,Python,2
+mirai,RIS,R,2
+mkdocs-video,RIS,Python,2
+mne-bids,RIS,Python,2
+MplusAutomation,RIS,R,2
+msmb_theme,RIS,Python,2
+myst-parser[linkify],RIS,Python,2
+mzR,RIS,R,2
+nanoparquet,RIS,R,2
+nbsphinx_link,RIS,Python,2
+netcdf,RIS,C++,2
+officer,RIS,R,2
+ogo.png,RIS,C,2
+olefile,RIS,Python,2
+openneuro-py,RIS,Python,2
+paws.storage,RIS,R,2
+pip-reqUIrements-parser,RIS,Python,2
+planetary-computer,RIS,Python,2
+prov,RIS,Python,2
+pybtex-apa-style,RIS,Python,2
+pyexcel,RIS,Python,2
+pyfaidx,RIS,Python,2
+pylatexenc,RIS,Python,2
+pymatgen-analysis-defects,RIS,Python,2
+pynvml,RIS,Python,2
+pyotp,RIS,Python,2
+pypdf,RIS,Python,2
+py-serializable,RIS,Python,2
+pytables,RIS,Python,2
+python-markdown-math,RIS,Python,2
+pyvisa,RIS,Python,2
+pyxdf,RIS,Python,2
+qiskit_ibm_runtime,RIS,Python,2
+qs,RIS,R,2
+rclcpp,RIS,C++,2
+renku-sphinx-theme,RIS,Python,2
+reno,RIS,Python,2
+rentrez,RIS,R,2
+schwimmbad,RIS,Python,2
+secretbase,RIS,R,2
+segyio,RIS,Python,2
+setuptools_scm_git_archive,RIS,Python,2
+simpervisor,RIS,Python,2
+sphinx_click,RIS,Python,2
+sphinx_fontawesome,RIS,Python,2
+sphinx_markdown_tables,RIS,Python,2
+sphinx_mdinclude,RIS,Python,2
+sphinx_mdolab_theme,RIS,Python,2
+sphinx_togglebutton,RIS,Python,2
+sphinx-autodoc-annotation,RIS,Python,2
+sphinx-comments,RIS,Python,2
+sphinxcontrib.apidoc,RIS,Python,2
+sphinxcontrib_googleanalytics,RIS,Python,2
+sphinxcontrib-googleanalytics,RIS,Python,2
+sphinxcontrib-httpdomain,RIS,Python,2
+sphinxcontrib-svg2pdfconverter,RIS,Python,2
+sphinxcontrib-youtube,RIS,Python,2
+sphinx-external-toc,RIS,Python,2
+sphinx-hoverxref,RIS,Python,2
+sphinx-immaterial,RIS,Python,2
+sphinx-jupyterbook-latex,RIS,Python,2
+sphinx-multitoc-numbering,RIS,Python,2
+sphinx-multiversion,RIS,Python,2
+sphinx-paramlinks,RIS,Python,2
+sphinx-press-theme,RIS,Python,2
+sphinx-sitemap,RIS,Python,2
+sphinx-toggleprompt,RIS,Python,2
+spiceypy,RIS,Python,2
+SQLite3,RIS,C,2
+ssddata,RIS,R,2
+std_msgs,RIS,C++,2
+templateflow,RIS,Python,2
+tensorboardX,RIS,Python,2
+TIFF,RIS,C++,2
+tinydb,RIS,Python,2
+tufte,RIS,R,2
+txtplot,RIS,R,2
+txtq,RIS,R,2
+uproot,RIS,Python,2
+uritemplate,RIS,Python,2
+useful,RIS,R,2
+visualization_msgs,RIS,C++,2
+wk,RIS,R,2
+XlsxWriter,RIS,Python,2
+absolufy-imports,Process,Python,2
+ament_lint_auto,Process,C++,2
+args,Process,C++,2
+autoconf,Process,Python,2
+biomformat,Process,R,2
+cibUIldwheel,Process,Python,2
+docker,Process,Python,2
+doit,Process,Python,2
+flake8-polyfill,Process,Python,2
+nose2,Process,Python,2
+packrat,Process,R,2
+patool,Process,Python,2
+poetry-dynamic-versioning,Process,Python,2
+poetry-plugin-export,Process,Python,2
+pryr,Process,R,2
+pygithub,Process,Python,2
+pytest-dependency,Process,Python,2
+pytest-github-actions-annotate-failures,Process,Python,2
+release-version,Process,Python,2
+rq,Process,Python,2
+rtds-action,Process,Python,2
+rversions,Process,R,2
+sphinx-exec-code,Process,Python,2
+versioneer,Process,Python,2
+xopen,Process,R,2
+zstd,Process,C,2
+accelerate,Modeling and simulation,Python,2
+amgxwrapper,Modeling and simulation,C++,2
+apsimx,Modeling and simulation,R,2
+array_api_compat,Modeling and simulation,Python,2
+astroplan,Modeling and simulation,Python,2
+autograd,Modeling and simulation,Python,2
+batman-package,Modeling and simulation,Python,2
+blis,Modeling and simulation,Python,2
+cardiac-geometries,Modeling and simulation,Python,2
+CarrierCapture.jl,Modeling and simulation,Python,2
+castor,Modeling and simulation,R,2
+celerite,Modeling and simulation,Python,2
+ceres,Modeling and simulation,C++,2
+clarabel,Modeling and simulation,Python,2
+cogent3,Modeling and simulation,Python,2
+control,Modeling and simulation,Python,2
+coolprop,Modeling and simulation,Python,2
+cupy-cuda12x,Modeling and simulation,Python,2
+diffrax,Modeling and simulation,Python,2
+discretize,Modeling and simulation,Python,2
+ducc0,Modeling and simulation,Python,2
+easyunfold,Modeling and simulation,Python,2
+ecos,Modeling and simulation,C++,2
+Eigen,Modeling and simulation,C++,2
+evd,Modeling and simulation,R,2
+expint,Modeling and simulation,R,2
+expm,Modeling and simulation,R,2
+fenics-plotly,Modeling and simulation,Python,2
+FFTW3,Modeling and simulation,C++,2
+filterpy,Modeling and simulation,Python,2
+flUIds,Modeling and simulation,Python,2
+gsl,Modeling and simulation,C,2
+GSL,Modeling and simulation,C++,2
+gslcblas,Modeling and simulation,C,2
+gym,Modeling and simulation,Python,2
+hipblas,Modeling and simulation,C++,2
+hipsparse,Modeling and simulation,C++,2
+iapws,Modeling and simulation,Python,2
+impedance,Modeling and simulation,Python,2
+INLA,Modeling and simulation,R,2
+itk-core,Modeling and simulation,Python,2
+itk-filtering,Modeling and simulation,Python,2
+itk-numerics,Modeling and simulation,Python,2
+jax-cuda12-pjrt,Modeling and simulation,Python,2
+lalsUIte,Modeling and simulation,Python,2
+lcapy,Modeling and simulation,Python,2
+material,Modeling and simulation,Python,2
+math,Modeling and simulation,C++,2
+mcmc,Modeling and simulation,R,2
+MDAnalysis,Modeling and simulation,Python,2
+mesh,Modeling and simulation,C++,2
+minpack.lm,Modeling and simulation,R,2
+mosek,Modeling and simulation,Python,2
+myokit,Modeling and simulation,Python,2
+NEURON,Modeling and simulation,Python,2
+ngsolve,Modeling and simulation,Python,2
+nimble,Modeling and simulation,R,2
+NLopt,Modeling and simulation,C++,2
+nonrad,Modeling and simulation,Python,2
+novas,Modeling and simulation,Python,2
+novas_de405,Modeling and simulation,Python,2
+numDeriv,Modeling and simulation,R,2
+NumPy,Modeling and simulation,C++,2
+openpnm,Modeling and simulation,Python,2
+PCL,Modeling and simulation,C++,2
+pettingzoo,Modeling and simulation,Python,2
+polytope,Modeling and simulation,Python,2
+PyAstronomy,Modeling and simulation,Python,2
+pybamm,Modeling and simulation,Python,2
+pymc3,Modeling and simulation,Python,2
+pys2let,Modeling and simulation,Python,2
+py-sc-fermi,Modeling and simulation,Python,2
+pyssht,Modeling and simulation,Python,2
+pyswarms,Modeling and simulation,Python,2
+pytest-harvest,Modeling and simulation,Python,2
+python-semantic-release,Modeling and simulation,Python,2
+qiskit,Modeling and simulation,Python,2
+Radiation,Modeling and simulation,C++,2
+RSpectra,Modeling and simulation,R,2
+rustworkx,Modeling and simulation,Python,2
+RWiener,Modeling and simulation,R,2
+salib,Modeling and simulation,Python,2
+sdmTMB,Modeling and simulation,R,2
+Seqinfo,Modeling and simulation,R,2
+sgp4,Modeling and simulation,Python,2
+shakenbreak,Modeling and simulation,Python,2
+simpy,Modeling and simulation,Python,2
+skyfield,Modeling and simulation,Python,2
+slam,Modeling and simulation,R,2
+sparse,Modeling and simulation,Python,2
+sqlitedict,Modeling and simulation,Python,2
+svglib,Modeling and simulation,Python,2
+swiftsimio,Modeling and simulation,Python,2
+symengine,Modeling and simulation,Python,2
+tensorly,Modeling and simulation,Python,2
+tidySEM,Modeling and simulation,R,2
+bridgesampling,Integrative analysis,R,2
+cobalt,Integrative analysis,R,2
+emmet-core,Integrative analysis,Python,2
+lcmm,Integrative analysis,R,2
+NetCDF,Integrative analysis,C++,2
+python3,Integrative analysis,C++,2
+ROI,Integrative analysis,R,2
+cuda,Hardware,C,2
+cudart,Hardware,C,2
+hip,Hardware,C++,2
+jax-cuda12-plugin,Hardware,Python,2
+nvidia-cuda-nvcc-cu12,Hardware,Python,2
+omp,Hardware,C++,2
+OpenCL,Hardware,C++,2
+roc,Hardware,C++,2
+optht,Data analytics ,Python,2
+airway,Data analytics,R,2
+albumentations,Data analytics,Python,2
+animation,Data analytics,R,2
+antropy,Data analytics,Python,2
+antspyx,Data analytics,Python,2
+astropy_healpix,Data analytics,Python,2
+awkward,Data analytics,Python,2
+bbmle,Data analytics,R,2
+betagen,Data analytics,Python,2
+biglm,Data analytics,R,2
+blavaan,Data analytics,R,2
+blme,Data analytics,R,2
+bootES,Data analytics,R,2
+breakDown,Data analytics,R,2
+catboost,Data analytics,Python,2
+cattrs,Data analytics,Python,2
+censReg,Data analytics,R,2
+cfgrib,Data analytics,Python,2
+cgam,Data analytics,R,2
+chart-studio,Data analytics,Python,2
+cmasher,Data analytics,Python,2
+cmcrameri,Data analytics,Python,2
+ComplexUpset,Data analytics,R,2
+cplm,Data analytics,R,2
+cvTools,Data analytics,R,2
+dask-expr,Data analytics,Python,2
+datashape,Data analytics,Python,2
+dbscan,Data analytics,Python,2
+dfidx,Data analytics,R,2
+dicom2nifti,Data analytics,Python,2
+diptest,Data analytics,R,2
+dipy,Data analytics,Python,2
+dscribe,Data analytics,Python,2
+dynamicTreeCut,Data analytics,R,2
+dynetx,Data analytics,Python,2
+eccodes,Data analytics,C,2
+edgeR,Data analytics,R,2
+esda,Data analytics,Python,2
+estimatr,Data analytics,R,2
+extinction,Data analytics,Python,2
+fastdtw,Data analytics,Python,2
+fastDummies,Data analytics,R,2
+fast-histogram,Data analytics,Python,2
+fastmatch,Data analytics,R,2
+fda,Data analytics,R,2
+flox,Data analytics,Python,2
+ftfy,Data analytics,Python,2
+fuzzyjoin,Data analytics,R,2
+gapminder,Data analytics,R,2
+geemap,Data analytics,Python,2
+geoviews,Data analytics,Python,2
+gganimate,Data analytics,R,2
+ggbio,Data analytics,R,2
+ggcorrplot,Data analytics,R,2
+ggfittext,Data analytics,R,2
+ggnewscale,Data analytics,R,2
+ggsci,Data analytics,R,2
+ggsignif,Data analytics,R,2
+ggVennDiagram,Data analytics,R,2
+giotto-tda,Data analytics,Python,2
+glmtoolbox,Data analytics,R,2
+goftest,Data analytics,R,2
+google-cloud-aiplatform,Data analytics,Python,2
+google-genai,Data analytics,Python,2
+gpyreg,Data analytics,Python,2
+gstat,Data analytics,R,2
+gsw,Data analytics,R,2
+gtsummary,Data analytics,R,2
+h2o,Data analytics,R,2
+haldensify,Data analytics,R,2
+haversine,Data analytics,Python,2
+hdbscan,Data analytics,Python,2
+heatmaply,Data analytics,R,2
+imagehash,Data analytics,Python,2
+inequality,Data analytics,Python,2
+ipygany,Data analytics,Python,2
+ipyvtklink,Data analytics,Python,2
+ivreg,Data analytics,R,2
+jax-tqdm,Data analytics,Python,2
+jieba,Data analytics,Python,2
+jwst,Data analytics,Python,2
+langchain-community,Data analytics,Python,2
+lastools,Data analytics,C++,2
+leidenalg,Data analytics,Python,2
+Levenshtein,Data analytics,Python,2
+lfe,Data analytics,R,2
+liac-arff,Data analytics,Python,2
+libfmp,Data analytics,Python,2
+lonboard,Data analytics,Python,2
+mapview,Data analytics,R,2
+matplotlib-label-lines,Data analytics,Python,2
+matplotlib-venn,Data analytics,Python,2
+MatrixGenerics,Data analytics,R,2
+merDeriv,Data analytics,R,2
+metpy,Data analytics,Python,2
+Metrics,Data analytics,R,2
+microbiome,Data analytics,R,2
+mkdocs-awesome-pages-plugin,Data analytics,Python,2
+mlbench,Data analytics,R,2
+mle.tools,Data analytics,R,2
+mlflow,Data analytics,Python,2
+mlpack,Data analytics,C++,2
+mlr,Data analytics,R,2
+mlr3,Data analytics,R,2
+mlr3misc,Data analytics,R,2
+mocpy,Data analytics,Python,2
+monai,Data analytics,Python,2
+morphopy,Data analytics,Python,2
+motifStack,Data analytics,R,2
+mp-api,Data analytics,Python,2
+mpl-scatter-density,Data analytics,Python,2
+MsCoreUtils,Data analytics,R,2
+multcomp,Data analytics,R,2
+naniar,Data analytics,R,2
+NbClust,Data analytics,R,2
+nc-time-axis,Data analytics,Python,2
+nFactors,Data analytics,R,2
+nitime,Data analytics,Python,2
+nnls,Data analytics,R,2
+nnTensor,Data analytics,R,2
+nortest,Data analytics,R,2
+numpy-indexed,Data analytics,Python,2
+odc-geo,Data analytics,Python,2
+onnx,Data analytics,Python,2
+openml,Data analytics,Python,2
+openTSNE,Data analytics,Python,2
+osmdata,Data analytics,R,2
+ovito,Data analytics,Python,2
+pandas-flavor,Data analytics,Python,2
+panelr,Data analytics,R,2
+paradox,Data analytics,R,2
+perfplot,Data analytics,Python,2
+persim,Data analytics,Python,2
+pheatmap,Data analytics,R,2
+phylolm,Data analytics,R,2
+PIMS,Data analytics,Python,2
+plot3D,Data analytics,R,2
+porespy,Data analytics,Python,2
+pretty_midi,Data analytics,Python,2
+pROC,Data analytics,R,2
+PROreg,Data analytics,R,2
+pvclust,Data analytics,R,2
+pwlf,Data analytics,Python,2
+pyglm,Data analytics,Python,2
+pyknos,Data analytics,Python,2
+pymbar,Data analytics,Python,2
+PyOpenGL_accelerate,Data analytics,Python,2
+python-Levenshtein,Data analytics,Python,2
+python-picard,Data analytics,Python,2
+pytorch_lightning,Data analytics,Python,2
+pytorch-lightning,Data analytics,Python,2
+pyvis,Data analytics,Python,2
+Rfast,Data analytics,R,2
+ripser,Data analytics,Python,2
+rmap,Data analytics,R,2
+rnaturalearthdata,Data analytics,R,2
+rouge-score,Data analytics,Python,2
+RPostgreSQL,Data analytics,R,2
+Rtree,Data analytics,Python,2
+sampleSelection,Data analytics,R,2
+scanpy,Data analytics,Python,2
+scikit-opt,Data analytics,Python,2
+Seurat,Data analytics,R,2
+sigpy,Data analytics,Python,2
+SingleCellExperiment,Data analytics,R,2
+sjPlot,Data analytics,R,2
+sjstats,Data analytics,R,2
+skorch,Data analytics,Python,2
+slicer,Data analytics,Python,2
+sparsepca,Data analytics,R,2
+spdep,Data analytics,R,2
+speedglm,Data analytics,R,2
+sphinx-thebe,Data analytics,Python,2
+stats4,Data analytics,R,2
+survminer,Data analytics,R,2
+svylme,Data analytics,R,2
+tarchetypes,Data analytics,R,2
+TDA,Data analytics,R,2
+tedana,Data analytics,Python,2
+termplotlib,Data analytics,Python,2
+torchio,Data analytics,Python,2
+trackpy,Data analytics,Python,2
+truncdist,Data analytics,R,2
+truncnorm,Data analytics,R,2
+truncreg,Data analytics,R,2
+umap,Data analytics,R,2
+UpSetR,Data analytics,R,2
+urca,Data analytics,R,2
+velociraptor,Data analytics,Python,2
+VennDiagram,Data analytics,R,2
+WeightIt,Data analytics,R,2
+wfdb,Data analytics,Python,2
+xrft,Data analytics,Python,2
+yt,Data analytics,Python,2
+party,Data analytics,R,2
+randomForestSRC,Data analytics,R,2
+${TEST_DIR},,C++,2
+all,,Python,2
+applications,,C++,2
+apps,,C++,2
+archive,,R,2
+arkhe,,R,2
+arro3-core,,Python,2
+attempt,,R,2
+base,,R,2
+beniget,,Python,2
+binding,,C++,2
+bz2,,C++,2
+clock,,R,2
+codemeta,,R,2
+contrib,,C++,2
+conversion,,C++,2
+cookiecutter,,Python,2
+coop,,R,2
+Core,,C++,2
+dada2,,R,2
+darkdetect,,Python,2
+data,,C++,2
+dd,,C++,2
+deepdiff,,Python,2
+dependency-groups,,Python,2
+doc8,,Python,2
+Docs,,C++,2
+downloader,,R,2
+e13tools,,Python,2
+ee_extra,,Python,2
+evel,,C++,2
+examples EXCLUDE_FROM_ALL,,C++,2
+flake8-pytest-style,,Python,2
+flake8-quotes,,Python,2
+flaky,,Python,2
+folio,,R,2
+fontBitstreamVera,,R,2
+fontLiberation,,R,2
+future.batchtools,,R,2
+"gtest""
+    EXCLUDE_FROM_ALL",,C++,2
+h2,,Python,2
+hal9001,,R,2
+hjson,,Python,2
+hoardr,,R,2
+ibs,,C++,2
+interp,,R,2
+inux-gnu,,C,2
+io,,C++,2
+ir,,C++,2
+janeaustenr,,R,2
+jdcal,,Python,2
+lazrs,,Python,2
+legacy-api-wrap,,Python,2
+LINK_PUBLIC,,C++,2
+man,,C++,2
+mapca,,Python,2
+minerva,,R,2
+misc,,C++,2
+msmb_data,,Python,2
+msmbUIlder,,Python,2
+netdispatch,,Python,2
+nycflights13,,R,2
+openap,,Python,2
+opera-utils,,Python,2
+ordered_set,,Python,2
+Particle,,C++,2
+plugins,,C++,2
+PMCMRplus,,R,2
+pmtiles,,Python,2
+poisson,,C++,2
+pyphen,,Python,2
+pytest-check,,Python,2
+qqplotr,,R,2
+qs2,,R,2
+rdist,,R,2
+recipes,,R,2
+report,,R,2
+rex,,R,2
+share,,C++,2
+showimage,,R,2
+Source,,C++,2
+source,,C++,2
+spacy-lookups-data,,Python,2
+strex,,R,2
+strucchange,,R,2
+tinysnapshot,,R,2
+Tracy,,C++,2
+tune,,R,2
+types-paramiko,,Python,2
+unit_test,,C++,2
+universals,,R,2
+Utils,,C++,2
+version_information,,Python,2
+vl-convert-python,,Python,2
+weasel,,Python,2
+xlwt,,Python,2
+xml,,C++,2
+y-py,,Python,2
+piva,UI,Python,1
+mkdocs-coverage,UI,Python,1
+mkdocs-document-dates,UI,Python,1
+mkdocs-markdownextradata-plugin,UI,Python,1
+pywebview,UI,Python,1
+atlas-ftag-tools,Software analytics,Python,1
+binarysearchfile,Software,Python,1
+cbor2,Software,Python,1
+craterpy,Software,Python,1
+crccheck,Software,Python,1
+docker-pycreds,Software,Python,1
+drawsvg,Software,Python,1
+﻿accessible-pygments,Software,Python,1
+jsonref,Software,Python,1
+minijinja,Software,Python,1
+mkl-service,Software,Python,1
+opentelemetry-exporter-otlp-proto-common,Software,Python,1
+opentelemetry-exporter-otlp-proto-grpc,Software,Python,1
+opentelemetry-exporter-otlp-proto-http,Software,Python,1
+opentelemetry-proto,Software,Python,1
+pydantic-xml,Software,Python,1
+pytest_notebook,Software,Python,1
+pytest-deadfixtures,Software,Python,1
+pytest-dotenv,Software,Python,1
+pytest-recording,Software,Python,1
+PyYaml,Software,Python,1
+pyyaml-include,Software,Python,1
+roman-datamodels,Software,Python,1
+stdatamodels,Software,Python,1
+tum-esm-utils,Software,Python,1
+types-Deprecated,Software,Python,1
+types-redis,Software,Python,1
+types-ujson,Software,Python,1
+uvicorn[standard],Software,Python,1
+bagit,RIS,Python,1
+cffconvert,RIS,Python,1
+crds,RIS,Python,1
+dlisio,RIS,Python,1
+feedparser,RIS,Python,1
+gwcs,RIS,Python,1
+mne-lsl,RIS,Python,1
+paho-mqtt,RIS,Python,1
+pypdf2,RIS,Python,1
+pystow,RIS,Python,1
+python-frontmatter,RIS,Python,1
+pyzotero,RIS,Python,1
+s3path,RIS,Python,1
+sgmllib3k,RIS,Python,1
+sphinx_autorun,RIS,Python,1
+sphinx_autosummary_accessors,RIS,Python,1
+sphinxcontrib.redirects,RIS,Python,1
+tenta,RIS,Python,1
+tiledb,RIS,Python,1
+ushahidi_sphinx_rtd_theme,RIS,Python,1
+virgodc,RIS,Python,1
+sphinxawesome-theme,RIS,Python,1
+approvaltests,Process,Python,1
+delocate,Process,Python,1
+retry,Process,Python,1
+tqdm-joblib,Process,Python,1
+contique,Modeling and simulation,Python,1
+dna_features_viewer_lite,Modeling and simulation,Python,1
+drizzlepac,Modeling and simulation,Python,1
+einsumt,Modeling and simulation,Python,1
+flash-attn,Modeling and simulation,Python,1
+flopy,Modeling and simulation,Python,1
+gstools,Modeling and simulation,Python,1
+hcipy,Modeling and simulation,Python,1
+mango-agents,Modeling and simulation,Python,1
+ndsplines,Modeling and simulation,Python,1
+numbalsoda,Modeling and simulation,Python,1
+opt_einsum,Modeling and simulation,Python,1
+pastas,Modeling and simulation,Python,1
+PICOS,Modeling and simulation,Python,1
+PuLP,Modeling and simulation,Python,1
+pypsa,Modeling and simulation,Python,1
+qlayers,Modeling and simulation,Python,1
+spherical-geometry,Modeling and simulation,Python,1
+stpsf,Modeling and simulation,Python,1
+tensortrax,Modeling and simulation,Python,1
+tweakwcs,Modeling and simulation,Python,1
+webbpsf,Modeling and simulation,Python,1
+windpowerlib,Modeling and simulation,Python,1
+serial,Hardware,Python,1
+data_slicer,Data analytics ,Python,1
+igor2,Data analytics ,Python,1
+anthropic,Data analytics,Python,1
+antimeridian,Data analytics,Python,1
+basemap,Data analytics,Python,1
+biotite,Data analytics,Python,1
+brainglobe-atlasapi,Data analytics,Python,1
+brainglobe-heatmap,Data analytics,Python,1
+brainrender,Data analytics,Python,1
+brainspace,Data analytics,Python,1
+cohere,Data analytics,Python,1
+comet_ml,Data analytics,Python,1
+datamapplot,Data analytics,Python,1
+deep-forest,Data analytics,Python,1
+demandlib,Data analytics,Python,1
+drizzle,Data analytics,Python,1
+feret,Data analytics,Python,1
+fooof,Data analytics,Python,1
+gene-fetch,Data analytics,Python,1
+ginjax,Data analytics,Python,1
+hsi-wizard,Data analytics,Python,1
+litellm,Data analytics,Python,1
+mistralai,Data analytics,Python,1
+mne-connectivity,Data analytics,Python,1
+mrmr_selection,Data analytics,Python,1
+neurocaps,Data analytics,Python,1
+neuromaps,Data analytics,Python,1
+nolds,Data analytics,Python,1
+nptdms,Data analytics,Python,1
+pybispectra,Data analytics,Python,1
+pyemu,Data analytics,Python,1
+pynrrd,Data analytics,Python,1
+pyod,Data analytics,Python,1
+pyparrm,Data analytics,Python,1
+python-resize-image,Data analytics,Python,1
+quanteda.textstats,Data analytics,R,1
+rdata,Data analytics,Python,1
+readtext,Data analytics,R,1
+rembg,Data analytics,Python,1
+scikit-lexicographical-trees,Data analytics,Python,1
+scikit-longitudinal,Data analytics,Python,1
+skops,Data analytics,Python,1
+SpecsVerification,Data analytics,R,1
+spectral,Data analytics,Python,1
+standard-precip,Data analytics,Python,1
+surfplot,Data analytics,Python,1
+svgpath2mpl,Data analytics,Python,1
+topic-wizard,Data analytics,Python,1
+weblogo,Data analytics,Python,1
+welly,Data analytics,Python,1
+""" ""ddc"" SYSTEM",,C++,1
+""" ""googletest"" SYSTEM",,C++,1
+""" ""kokkos"" SYSTEM",,C++,1
+""" ""kokkos-kernels"" SYSTEM",,C++,1
+""" ""koliop"" SYSTEM",,C++,1
+"""matplotlib"",",,Python,1
+"""nibabel"",",,Python,1
+"""nilearn"",",,Python,1
+"""numpy"",",,Python,1
+"""openpyxl"",",,Python,1
+"""pandas"",",,Python,1
+"""pathlib"",",,Python,1
+"""scipy"",",,Python,1
+"""seaborn"",",,Python,1
+${_dir},,C++,1
+${AMREX_HYDRO_SUBMOD_LOCATION},,C++,1
+${app_dir},,C++,1
+${BINDIR_LOC},,C++,1
+${blue_framework_SOURCE_DIR} ${blue_framework_BINARY_DIR},,C++,1
+${cc_SOURCE_DIR} ${cc_BINARY_DIR} EXCLUDE_FROM_ALL,,C++,1
+${component},,C++,1
+${dep_gtest_SOURCE_DIR} ${dep_gtest_BINARY_DIR} EXCLUDE_FROM_ALL,,C++,1
+${dep_liblas_SOURCE_DIR} ${dep_liblas_BINARY_DIR} EXCLUDE_FROM_ALL,,C++,1
+${dir},,C++,1
+${entry},,C++,1
+${example},,C++,1
+${file_in},,C++,1
+${format},,C++,1
+"${googletest_SOURCE_DIR}
+      ${googletest_BINARY_DIR}
+      EXCLUDE_FROM_ALL",,C++,1
+${lib},,C++,1
+${libphysica_SOURCE_DIR},,C++,1
+${NOAHMP_HOME} ${NOAHMP_BIN},,C++,1
+${path},,C++,1
+${PROJECT_NAME},,C++,1
+${pybind11_SOURCE_DIR} ${pybind11_BINARY_DIR},,C++,1
+"${pybind11_sources_SOURCE_DIR}
+    ${pybind11_sources_BINARY_DIR}",,C++,1
+${schema},,C++,1
+${SRC_DIR},,C++,1
+${subdir},,C++,1
+${SUNDIALS_SUBMOD_LOCATION},,C++,1
+${TESTS_DIR},,C++,1
+${vmtk_directory},,C++,1
+${zlib_SOURCE_DIR} ${zlib_BINARY_DIR} EXCLUDE_FROM_ALL,,C++,1
+${zlib-ng_SOURCE_DIR} ${zlib-ng_BINARY_DIR} EXCLUDE_FROM_ALL,,C++,1
+",
+",,Python,1
+.[all],,Python,1
+.[binder],,Python,1
+.[dev],,Python,1
+.[full],,Python,1
+__vtkname__,,Python,1
+01_1DFFT,,C++,1
+02_2DFFT,,C++,1
+03_NDFFT,,C++,1
+04_batchedFFT,,C++,1
+05_1DFFT_HOST_DEVICE,,C++,1
+06_1DFFT_reuse_plans,,C++,1
+07_unmanaged_views,,C++,1
+08_inplace_FFT,,C++,1
+09_derivative,,C++,1
+10_HasegawaWakatani,,C++,1
+11dof,,C++,1
+11dof-gpu,,C++,1
+18dof,,C++,1
+18dof-gpu,,C++,1
+24dof,,C++,1
+24dof-gpu,,C++,1
+3dfier,,C++,1
+3rd_imgUI,,C++,1
+3rd_party,,C++,1
+ABecLaplacian_C,,C++,1
+ABL,,C++,1
+about-time,,Python,1
+abseil-cpp EXCLUDE_FROM_ALL,,C++,1
+abses,,Python,1
+ACCFFT,,C++,1
+acres,,Python,1
+acrod,,Python,1
+actisleep-tracker,,Python,1
+Actuators,,C++,1
+adabelief-tf,,Python,1
+add_delete_skels,,C++,1
+addict,,Python,1
+ade4,,R,1
+adephylo,,R,1
+adespatial,,R,1
+adiak,,C++,1
+adjustText,,Python,1
+adjusttext,,Python,1
+ads,,Python,1
+Advection,,C++,1
+advection,,C++,1
+Advection_AmrCore,,C++,1
+afscgap,,Python,1
+afterglowpy,,Python,1
+ag5Tools,,R,1
+AGN,,C++,1
+agricolae,,R,1
+AICcmodavg,,R,1
+AIgarMIC,,Python,1
+aigarmic,,Python,1
+aimsim_core,,Python,1
+aiodns,,Python,1
+aiohttp-apispec,,Python,1
+aiohttp-client-cache,,Python,1
+aioredis,,Python,1
+aioshutil,,Python,1
+aiounittest,,Python,1
+ajar,,Python,1
+albucore,,Python,1
+alchemlyb,,Python,1
+alchemtest,,Python,1
+ALEPlot,,R,1
+algo,,C++,1
+algo_ext,,C++,1
+algorithms,,C++,1
+alifedata_phyloinformatics_convert,,Python,1
+alive_progress,,Python,1
+alive-progress,,Python,1
+allensdk,,Python,1
+allure-pytest,,Python,1
+allure-python-commons,,Python,1
+alluvial,,R,1
+altair-tiles,,Python,1
+altdoc,,R,1
+alto,,R,1
+alvadescpy,,Python,1
+amap,,R,1
+amazon-braket-pennylane-plugin,,Python,1
+amdhip64,,C,1
+ament_cmake_python,,C++,1
+amerika,,R,1
+amgcl,,C++,1
+AMGX,,C++,1
+ampl_module_base,,Python,1
+ampl_module_highs,,Python,1
+Amplifier,,C++,1
+amplpy,,Python,1
+amply,,Python,1
+Amr,,C++,1
+AmrCore,,C++,1
+amrdata,,C++,1
+AMR-density,,C++,1
+AMR-zoom,,C++,1
+anaconda,,Python,1
+analysis,,C++,1
+Analysis,,C++,1
+analytical,,C++,1
+ANCOMBC,,R,1
+anesthetic,,Python,1
+ang-cjk,,C++,1
+annexremote,,Python,1
+AnnotationDbi,,R,1
+annoy,,Python,1
+antio,,Python,1
+antlr,,C++,1
+APEX,,C++,1
+ap-features,,Python,1
+apispec,,Python,1
+aplpy,,Python,1
+app,,C++,1
+appeears,,R,1
+appenv,,C++,1
+applesoss,,Python,1
+application,,C++,1
+ApplyButterworthHighpass1D,,C++,1
+app-model,,Python,1
+apportionment,,Python,1
+approximation,,C++,1
+apscheduler,,Python,1
+APScheduler,,Python,1
+apyori,,Python,1
+arby,,Python,1
+archetypal,,Python,1
+archivist,,R,1
+archspec,,Python,1
+arcticpy,,Python,1
+areal,,C++,1
+argue,,Python,1
+arithmetic,,C++,1
+arm,,R,1
+armadillo,,C++,1
+array-api-compat,,Python,1
+arules,,R,1
+arviz-base,,Python,1
+arxiv,,Python,1
+ascends,,Python,1
+ascii_frame,,Python,1
+asdf-astropy,,Python,1
+asgard,,C++,1
+ASGS.foyer,,R,1
+Asio,,C++,1
+asreview,,Python,1
+asreview-datatools,,Python,1
+assertive.base,,R,1
+assertive.properties,,R,1
+assertive.types,,R,1
+assertpy,,Python,1
+assertr,,R,1
+assimp,,C++,1
+assortnet,,R,1
+ast-comments,,Python,1
+asteroid_sphinx_theme,,Python,1
+astroalign,,Python,1
+astromodels,,Python,1
+astropy-sphinx-theme,,Python,1
+astrostarfish,,Python,1
+asyncio,,Python,1
+async-property,,Python,1
+async-retriever,,Python,1
+atari_py,,Python,1
+atest,,C++,1
+atest.tar.gz,,C++,1
+atex-extra,,C++,1
+atexpdf,,C,1
+atex-recommended,,C++,1
+atlas_puppet,,C++,1
+atlas_simbicon,,C++,1
+atomicAdd,,C++,1
+atomics,,Python,1
+atomman,,Python,1
+atooms,,Python,1
+atpublic,,Python,1
+AUC,,R,1
+Audi,,C++,1
+audioop-lts,,Python,1
+auditor,,R,1
+auditwheel,,Python,1
+authlib,,Python,1
+autoarray,,Python,1
+auto-changelog,,Python,1
+autocommand,,Python,1
+autodiff,,C++,1
+autoemulate,,Python,1
+autofit,,Python,1
+autogalaxy,,Python,1
+automata-lib,,Python,1
+autometric,,R,1
+autoroot,,Python,1
+av,,Python,1
+available,,C++,1
+aweSOM,,Python,1
+awscli,,Python,1
+azure-batch,,Python,1
+azure-storage-common,,Python,1
+B1,,C++,1
+babelgene,,R,1
+babette,,R,1
+backend,,Python,1
+backports.csv,,Python,1
+backports.functools-lru-cache,,Python,1
+backports-datetime-fromisoformat,,Python,1
+backports-strenum,,Python,1
+backports-zoneinfo,,Python,1
+BART,,R,1
+bartCause,,R,1
+barycorrpy,,Python,1
+basedpyright,,Python,1
+bash_kernel,,Python,1
+bash-kernel,,Python,1
+bashlex,,Python,1
+Basu,,C++,1
+batchgenerators,,Python,1
+batchtools,,R,1
+BayesFM,,R,1
+bayesQR,,R,1
+Bchron,,R,1
+bdata,,Python,1
+bde,,R,1
+bdsmatrix,,R,1
+beastier,,R,1
+beautier,,R,1
+BeautifulSoup4,,Python,1
+bed-reader,,Python,1
+beiwe-forest,,Python,1
+bestglm,,R,1
+betapart,,R,1
+bfloat16,,C++,1
+BFpack,,R,1
+bib2df,,R,1
+biddy,,C,1
+bifacial_radiance,,Python,1
+bigmemory,,R,1
+bin,,C++,1
+bindr,,R,1
+binom,,R,1
+bintrees,,Python,1
+Bio,,Python,1
+Biobase,,R,1
+BiocSingular,,R,1
+BiocVersion,,R,1
+biogears,,C++,1
+biogears-common,,C++,1
+biomaRt,,R,1
+biomartr,,R,1
+biom-format,,Python,1
+biopeaks,,Python,1
+biopsykit,,Python,1
+Biopython,,Python,1
+bioread,,Python,1
+bioservices,,Python,1
+biotmleData,,R,1
+biped_stand,,C++,1
+birk,,R,1
+BISON,,C++,1
+bitblock,,C++,1
+bitsandbytes,,Python,1
+biwavelet,,R,1
+blackd,,Python,1
+blas EXCLUDE_FROM_ALL,,C++,1
+blaze,,C++,1
+BlazeIterative,,C++,1
+bleach[css],,Python,1
+blender-addon-tester,,Python,1
+bleurt,,Python,1
+bliss-bind,,Python,1
+blist,,Python,1
+blockbinary,,C++,1
+blockdecimal,,C++,1
+blockfraction,,C++,1
+blockmatrix,,R,1
+blocksignificand,,C++,1
+blocktriple,,C++,1
+blosc,,Python,1
+blosc2,,Python,1
+bluebonnet,,Python,1
+BlueFramework,,C++,1
+BlueFramework.Application,,C++,1
+BlueFramework.Core,,C++,1
+BlueFramework.Engine,,C++,1
+BlueFramework.ImageProcessing,,C++,1
+BlueFramework.Rasterizer,,C++,1
+bluepy,,Python,1
+bluepysnap,,Python,1
+bmi-c,,Python,1
+bmi-cxx,,Python,1
+bmi-fortran,,Python,1
+bmi-tester,,Python,1
+body,,C++,1
+BoltzTraP2,,Python,1
+Bomex,,C++,1
+bond,,C++,1
+bondcpp,,C++,1
+boost_filesystem,,C++,1
+boost_log,,C++,1
+boost_program_options,,C++,1
+boost_python3,,C++,1
+boost_thread,,C++,1
+boost-asio,,C++,1
+boost-chrono,,C++,1
+boost-date-time,,C++,1
+boost-geometry,,C++,1
+boost-locale,,C++,1
+BoostNumericBindings,,C++,1
+boost-property-tree,,C++,1
+boost-signals2,,C++,1
+boost-ublas,,C++,1
+boost-uUId,,C++,1
+bootnet,,R,1
+bootstrapped,,Python,1
+Boruta,,Python,1
+boto,,Python,1
+botorch,,Python,1
+Boundary,,C++,1
+boundary,,C++,1
+BoundaryLayer,,C++,1
+bounded-pool-executor,,Python,1
+box_stacking,,C++,1
+box2d-py,,Python,1
+boxes,,C++,1
+bqplot-image-gl,,Python,1
+brainglobe-space,,Python,1
+brglm,,R,1
+briefcase,,Python,1
+broman,,R,1
+broom.helpers,,R,1
+Brotli,,Python,1
+brotlicffi,,Python,1
+BSDA,,R,1
+bsicons,,R,1
+bsmschema,,Python,1
+bspline,,C++,1
+bsplus,,R,1
+bstats,,R,1
+btl EXCLUDE_FROM_ALL,,C++,1
+Bubble,,C++,1
+bUIld-backend,,Python,1
+bUIld-tools,,C++,1
+bUIltin_interfaces,,C++,1
+bump,,Python,1
+bumps,,Python,1
+bundle,,C++,1
+butcher,,R,1
+BZip2,,C++,1
+c_generation,,C++,1
+C_laplacian,,C,1
+c++,,C++,1
+c++lib,,C++,1
+c3d,,Python,1
+CacheControl,,Python,1
+cached_interpolate,,Python,1
+cached_method,,Python,1
+cached_property,,Python,1
+cached-method,,Python,1
+cachey,,Python,1
+cadabra2,,C++,1
+CADET,,C++,1
+cadet-cli,,C++,1
+cads-api-client,,Python,1
+cad-to-shapely,,Python,1
+cai2,,Python,1
+cAIC4,,R,1
+Cairo,,R,1
+CairoSVG,,Python,1
+calibrate,,R,1
+caliscope,,Python,1
+CAMERA,,R,1
+cantera,,Python,1
+captum,,Python,1
+capturer,,Python,1
+cardiac,,Python,1
+carrier,,R,1
+cart_pole,,C++,1
+cartes,,Python,1
+carve,,C++,1
+casex,,Python,1
+caskade,,Python,1
+casting,,C++,1
+catalyst,,Python,1
+Catch,,C++,1
+catch2,,C++,1
+category-encoders,,Python,1
+catkin,,C++,1
+caTools,,R,1
+cattle_lca,,Python,1
+cazy-parser,,Python,1
+cbcbeat,,Python,1
+CCD,,C++,1
+ccdproc,,Python,1
+CCfits,,C++,1
+c-compiler,,Python,1
+ccp-performance,,Python,1
+ccxt,,Python,1
+cdflib,,Python,1
+cdp-backend,,Python,1
+cdp-data,,Python,1
+CDSE,,R,1
+ceed,,C,1
+ceilopyter,,Python,1
+celery[redis],,Python,1
+celluloid,,Python,1
+Cerberus,,Python,1
+cereal,,C++,1
+cerf,,C++,1
+certipy,,Python,1
+cf_xarray,,Python,1
+CFC,,R,1
+cfitsio,,C++,1
+cfloat,,C++,1
+cfunits,,Python,1
+cf-xarray,,Python,1
+cgal,,C++,1
+cgal_traits,,C++,1
+changepoint,,R,1
+Channel_Test,,C++,1
+channels_redis,,Python,1
+chaos,,C++,1
+chaospy,,Python,1
+Chaste,,C++,1
+Chaste_COMMON_DEPS,,C++,1
+chaste_pychaste,,C++,1
+chebyshev,,C++,1
+check-wheel-contents,,Python,1
+chemicals,,Python,1
+chemotools,,Python,1
+cheroot,,Python,1
+CherryPy,,Python,1
+chirps,,R,1
+choix,,Python,1
+CHOLMOD,,C++,1
+choreographer,,Python,1
+circadian-scp-upload,,Python,1
+circUIt_optimizer,,C++,1
+circUIt_profiler,,C++,1
+cJSON,,C,1
+cjson,,C,1
+Ckmeans.1d.dp,,R,1
+cl,,Python,1
+CLANG_FORMAT,,C++,1
+clang-format,,Python,1
+clang-format-docs,,Python,1
+clang-tidy,,Python,1
+ClassDiscovery,,R,1
+clbool,,C++,1
+clean_up_annotations,,Python,1
+cleantext,,Python,1
+clearml,,Python,1
+cleo,,Python,1
+cleverdict,,Python,1
+CLI11,,C++,1
+click_completion,,Python,1
+click-log,,Python,1
+click-option-group,,Python,1
+click-rich-help,,Python,1
+client,,C,1
+client_server,,C++,1
+clients,,C++,1
+climr,,R,1
+cliqueMS,,R,1
+clisymbols,,R,1
+cln,,C++,1
+closure,,C++,1
+cloudnetpy_qc,,Python,1
+cloup,,Python,1
+clue,,R,1
+clustree,,R,1
+clValid,,R,1
+clyent,,Python,1
+CMA,,C++,1
+cmaes,,Python,1
+CMake,,C++,1
+cmake-doc-extractor,,C++,1
+cmd,,C++,1
+cmdstanr,,R,1
+cmeel,,Python,1
+cmultiscale,,C,1
+CNS,,C++,1
+coacd,,Python,1
+cobaya,,Python,1
+codeclimate-test-reporter,,Python,1
+codegen,,C++,1
+codemetar,,R,1
+coercion,,C++,1
+coiled,,Python,1
+colander,,Python,1
+collapsibleTree,,R,1
+collision,,C++,1
+collisions,,C++,1
+coloraide,,Python,1
+colorclade,,Python,1
+colored,,Python,1
+colorhash,,Python,1
+colorpalette,,Python,1
+colorspacious,,Python,1
+colossus,,Python,1
+colour-runner,,Python,1
+combat,,Python,1
+combi_example,,C++,1
+combi_example_faults,,C++,1
+combi_workers_only,,C++,1
+combinat,,R,1
+combine_pvalues_discrete,,Python,1
+commands,,C++,1
+commensurability,,Python,1
+commitlint,,Python,1
+CommonMark,,Python,1
+compare,,R,1
+compiler-launcher,,C++,1
+complex,,C++,1
+compositions,,R,1
+CompQuadForm,,R,1
+compression,,C++,1
+concepts,,Python,1
+condMVNorm,,R,1
+CondUIt,,C++,1
+conesearch-alchemy,,Python,1
+ConfigArgParse,,Python,1
+configmypy,,Python,1
+configspace,,Python,1
+ConfigSpace,,Python,1
+confluent_kafka,,Python,1
+confuse,,Python,1
+constants,,C++,1
+constraint,,C++,1
+constraints,,C++,1
+construct,,Python,1
+contextlib2,,Python,1
+contexttimer,,Python,1
+contextvars,,Python,1
+contfrac,,R,1
+continuum,,Python,1
+contribs,,C++,1
+controllers,,C++,1
+conversions,,C++,1
+convertdate,,Python,1
+coord_transformations,,C++,1
+CoordinateCleaner,,R,1
+copernicusmarine,,Python,1
+coptpy,,Python,1
+copula,,R,1
+core_tutorial,,C++,1
+coreComponents,,C++,1
+CoreProgs,,C++,1
+corncob,,R,1
+corpcor,,R,1
+correlation_lib,,C++,1
+Couette_PoiseUIlle,,C++,1
+country-converter,,Python,1
+courts-db,,Python,1
+coverage[toml],,Python,1
+coverage_config,,C++,1
+COVID19,,R,1
+cplex,,Python,1
+cpp,,C,1
+cpp ${RRTMGP_BIN},,C++,1
+CPPUNIT,,C++,1
+cptcity,,R,1
+crashtest,,Python,1
+crate,,Python,1
+crc,,Python,1
+crc32c,,Python,1
+crch,,R,1
+createxdmf,,C++,1
+crew,,R,1
+Criterion,,C++,1
+cronutils,,Python,1
+crop_lca,,Python,1
+crosshair-tool,,Python,1
+crsuggest,,R,1
+cryptojwt,,Python,1
+crystal_toolkit,,Python,1
+crystal-toolkit,,Python,1
+csg,,C++,1
+csg-tutorials,,C++,1
+CSparse,,C++,1
+cssselect,,Python,1
+csv-diff,,Python,1
+ctbench,,C++,1
+ctbench-compile-opts,,C++,1
+CUB,,C++,1
+cub,,C++,1
+cublas,,C,1
+cuda_hip,,C++,1
+cudaDebrisFlowSolverPybind,,C++,1
+cudaFloodSolversPybind,,C++,1
+cudaLandslideSolverPybind,,C++,1
+cufft,,C++,1
+cufftw,,C++,1
+cufinufft,,Python,1
+cupy-cuda11x,,Python,1
+curand,,C,1
+Curses,,C++,1
+cusparse,,C,1
+custom_types,,C++,1
+customtkinter,,Python,1
+cute-ranking,,Python,1
+cutint,,C++,1
+cutpointr,,R,1
+cvmatrix,,Python,1
+cweqgen,,Python,1
+Cxx,,C++,1
+cxx,,C++,1
+cxx-compiler,,Python,1
+cyclic,,Python,1
+cyclocomp,,R,1
+cyclonedx-bom,,Python,1
+cyclophaser,,Python,1
+cyclopts,,Python,1
+cylinder_fitting,,Python,1
+cython-lint,,Python,1
+CytobankAPI,,R,1
+cytriangle,,Python,1
+cz-conventional-gitmoji,,Python,1
+d2spy,,Python,1
+daal,,Python,1
+dagitty,,R,1
+dagster,,Python,1
+daiqUIri,,Python,1
+dams,,R,1
+daqp,,Python,1
+darglint,,Python,1
+dart,,C++,1
+dartpy,,C++,1
+dash-table-experiments,,Python,1
+dash-uploader,,Python,1
+dask[dataframe],,Python,1
+dask[delayed],,Python,1
+dask[distributed],,Python,1
+dask[full],,Python,1
+dask_geopandas,,Python,1
+dask-image,,Python,1
+dask-ml,,Python,1
+data_types,,C++,1
+databricks-sdk,,Python,1
+dataclass_bUIlder,,Python,1
+dataclass-bUIlder,,Python,1
+dataclasses_json,,Python,1
+dataclassish,,Python,1
+dataflows-tabulator,,Python,1
+dataintegrityfingerprint,,Python,1
+datamods,,R,1
+DataProcessing,,C++,1
+dataretrieval,,Python,1
+data-science-types,,Python,1
+datasieve,,Python,1
+datastructures,,C++,1
+dbarts,,R,1
+dbns,,C++,1
+dc,,C++,1
+Dcgp,,C++,1
+dcgp,,C++,1
+dcgpy,,C++,1
+dclone,,R,1
+dcm2,,R,1
+dcm2niix,,Python,1
+dcmdata,,R,1
+dcmle,,R,1
+dcmstan,,R,1
+dcor,,Python,1
+dd_cascade,,C++,1
+DDC,,C++,1
+dearpygUI,,Python,1
+debtcollector,,Python,1
+Decay,,C++,1
+decaylanguage,,Python,1
+decimal,,C++,1
+DECIPHER,,R,1
+decopatch,,Python,1
+decorators,,C++,1
+decorit,,Python,1
+decoupledibpm,,C++,1
+deepaas,,Python,1
+deepaas-cli,,Python,1
+deepaas-run,,Python,1
+deepdish,,Python,1
+deeplabcut-live,,Python,1
+deep-sort-realtime,,Python,1
+DelayedArray,,R,1
+DelayedMatrixStats,,R,1
+deldir,,R,1
+dem,,C++,1
+demo,,C++,1
+demos,,C++,1
+demos EXCLUDE_FROM_ALL,,C++,1
+dendropy,,Python,1
+dense,,C++,1
+DensityCurrent,,C++,1
+dependencies,,C++,1
+depinfo,,Python,1
+deps,,C++,1
+deptree,,Python,1
+DerivedQuantities,,C++,1
+DescTools,,R,1
+desplot,,R,1
+details,,R,1
+DETECTRON,,Python,1
+detectseparation,,R,1
+detoxify,,Python,1
+device_hooks,,C++,1
+devices,,C++,1
+dflags,,C++,1
+dfloat,,C++,1
+DFO-LS,,Python,1
+dfoptim,,R,1
+dgbowl-schemas,,Python,1
+DHARMa,,R,1
+dichromat,,R,1
+dicom_parser,,Python,1
+dict2xml,,Python,1
+did,,R,1
+differt2d,,Python,1
+differt-core,,Python,1
+diffviewer,,R,1
+dir.expiry,,R,1
+DirichletReg,,R,1
+dirmult,,R,1
+disclap,,R,1
+discotec,,C++,1
+DiscreteWeibull,,R,1
+disk.frame,,R,1
+diskcache,,Python,1
+dismo,,R,1
+distinctipy,,Python,1
+distrax,,Python,1
+distributed[full],,Python,1
+distributed_advection,,C++,1
+distributed_third_level,,C++,1
+distribution,,C++,1
+diverse-seq,,Python,1
+divest,,R,1
+django-bootstrap4,,Python,1
+django-celery-results,,Python,1
+django-debug-toolbar,,Python,1
+django-environ,,Python,1
+django-filter,,Python,1
+django-health-check,,Python,1
+django-nose,,Python,1
+django-pandas,,Python,1
+djangorestframework,,Python,1
+djangorestframework-simplejwt,,Python,1
+"django-stubs[1-15-0,1.15.0]",,Python,1
+django-stubs-ext,,Python,1
+django-tables2,,Python,1
+django-widget-tweaks,,Python,1
+dl-cloud,,Python,1
+dllist,,Python,1
+dlm,,C++,1
+DLT,,C,1
+dmgbUIld,,Python,1
+dm-haiku,,Python,1
+dnaapler,,Python,1
+dna-features-viewer,,Python,1
+dnaio,,Python,1
+dnest4,,C++,1
+dnn,,C++,1
+doBy,,R,1
+doc EXCLUDE_FROM_ALL,,C++,1
+doc2dash,,Python,1
+dockerspawner,,Python,1
+docopts,,Python,1
+docrep,,Python,1
+docstr-coverage,,Python,1
+docstring-parser-fork,,Python,1
+docs-versions-menu,,Python,1
+doct,,Python,1
+doctr,,Python,1
+Documentation,,Python,1
+dodgy,,Python,1
+DogboneAnalytic,,C++,1
+dogpile.cache,,Python,1
+dogpile-cache,,Python,1
+DOLFIN,,C++,1
+DOLFINX,,C++,1
+dolfinx_traits,,C++,1
+dominate,,Python,1
+domir,,R,1
+doMPI,,R,1
+donfig,,Python,1
+doped,,Python,1
+doppy,,Python,1
+doSNOW,,R,1
+dotmap,,Python,1
+dotty-dict,,Python,1
+DoubleGyre,,C++,1
+DoublyPeriodic,,C++,1
+downstream,,Python,1
+dpcontracts,,Python,1
+dpcpp,,C++,1
+dplR,,R,1
+drag_and_drop,,C++,1
+drc,,R,1
+drf-spectacular,,Python,1
+drifter,,R,1
+DrivenTurbulence,,C++,1
+driver,,C++,1
+Driver,,C++,1
+drms,,Python,1
+dropbox,,Python,1
+DRR,,R,1
+drtmle,,R,1
+dsp,,C++,1
+ds-store,,Python,1
+dtt,,R,1
+dtwc bin,,C++,1
+dtwc++,,C++,1
+ducc,,C++,1
+duckdb-engine,,Python,1
+dulwich,,Python,1
+dune,,C++,1
+dune_traits,,C++,1
+dune-common,,C++,1
+dune-functions,,C++,1
+dunn.test,,R,1
+durationpy,,Python,1
+dustgoggles,,Python,1
+dustmaps,,Python,1
+dynamics,,C++,1
+dynamic-security,,C,1
+dynasor,,Python,1
+dynlm,,R,1
+eagleSqlTools,,Python,1
+EarlyBinding,,C++,1
+earthengine_api,,Python,1
+easy_mpl,,Python,1
+easy3d,,C++,1
+easystats,,R,1
+EB,,C++,1
+EB_SquareCylinder,,C++,1
+EBImage,,R,1
+ecabc,,Python,1
+ecpint,,C++,1
+ecr,,R,1
+Ecume,,R,1
+edgedb,,Python,1
+editdistance,,Python,1
+edlib,,Python,1
+edpsources,,C++,1
+edt,,Python,1
+ee-extra,,Python,1
+eerepr,,Python,1
+EFAutilities,,R,1
+effects,,R,1
+efloat,,C++,1
+EGAnet,,R,1
+egend,,C,1
+eha,,R,1
+eigen,,C++,1
+einsum,,R,1
+einteger,,C++,1
+ekat ${EKAT_BIN},,C++,1
+EKF_LIB,,C++,1
+EKF_NODE_LIB,,C++,1
+EKF_UTL,,C++,1
+EkmanSpiral,,C++,1
+elasticnet,,R,1
+elasticsearch[async],,Python,1
+ele,,Python,1
+ElementEmbeddings,,Python,1
+elementembeddings,,Python,1
+elephas,,Python,1
+elevatr,,R,1
+elliptic,,R,1
+elreal,,C++,1
+embind,,C++,1
+emd,,Python,1
+emoji,,Python,1
+emojifont,,R,1
+empty,,C++,1
+empymod,,Python,1
+encoding,,C++,1
+energy_pandas,,Python,1
+engineering,,C++,1
+english,,R,1
+ENMeval,,R,1
+enum_tools,,Python,1
+enviPat,,R,1
+enviPick,,R,1
+EOS,,C++,1
+EOSPAC,,C++,1
+eo-tides,,Python,1
+epc,,Python,1
+epiclibcpp,,Python,1
+eppy,,Python,1
+epyt-flow,,Python,1
+EQL,,R,1
+erddapy,,Python,1
+ereal,,C++,1
+err,,R,1
+error-grids,,Python,1
+esbonio,,Python,1
+escapism,,Python,1
+esoreader,,Python,1
+espatools,,Python,1
+espbm,,Python,1
+ESPRESSO,,C++,1
+ESPRESSOPP,,C++,1
+ess,,R,1
+essential_generators,,Python,1
+essential-generators,,Python,1
+estimability,,R,1
+etc,,C++,1
+ete3,,Python,1
+Etherlab,,C++,1
+etsencrypt.md,,C,1
+eulerr,,R,1
+eurostat,,R,1
+eval,,C++,1
+eve,,C++,1
+Eventlet,,Python,1
+events,,Python,1
+everett,,Python,1
+ewmhlib,,Python,1
+ewstools,,Python,1
+exaNBody,,C++,1
+exhale,,Python,1
+exotic_ld,,Python,1
+exotic-ld,,Python,1
+exouprf,,Python,1
+expansion,,C++,1
+EXPAT,,C++,1
+ExploreModelMatrix,,R,1
+ExpressBindingGenerator,,C++,1
+exprtk,,C++,1
+expUI,,C++,1
+exputil,,C++,1
+exrex,,Python,1
+ext,,C++,1
+extensions,,C++,1
+extern,,C++,1
+externalComponents,,C++,1
+extrafont,,R,1
+eyecite,,Python,1
+ezyrb,,Python,1
+F_Interfaces,,C++,1
+f2s,,C++,1
+f90nml,,Python,1
+fabada,,Python,1
+face-alignment,,Python,1
+facenet-pytorch,,Python,1
+FactoMineR,,R,1
+factorization,,C++,1
+factory-boy,,Python,1
+Faddeeva,,C++,1
+faicons,,Python,1
+failtest,,C++,1
+faithful,,C++,1
+fake-bpy-module-latest,,Python,1
+faker,,Python,1
+fakeredis,,Python,1
+falcon,,Python,1
+faraway,,R,1
+fast_hdbscan,,Python,1
+fastapi[all],,Python,1
+fastapi-cache2,,Python,1
+fast-diff-match-patch,,Python,1
+fasterize,,R,1
+fastexcel,,Python,1
+fastglm,,R,1
+FastGP,,R,1
+fastICA,,R,1
+fastkde,,Python,1
+FastKNN,,R,1
+fastnumbers,,Python,1
+fast-pytorch-kmeans,,Python,1
+fasttime,,R,1
+fast-twed,,Python,1
+fat-forensics[all],,Python,1
+fau-colors,,Python,1
+FCL,,C++,1
+fcl,,C++,1
+fcl_interface,,C++,1
+FD,,R,1
+fe,,C++,1
+feather-format,,Python,1
+FedData,,R,1
+feisr,,R,1
+fenics,,C++,1
+fenics-basix,,Python,1
+fenics-pulse,,Python,1
+fenics-ufl,,Python,1
+fetch,,C++,1
+ffmpy,,Python,1
+fft,,C++,1
+FFT,,C++,1
+fftw3_omp,,C++,1
+fGarch,,R,1
+ficus,,Python,1
+fido2,,Python,1
+field,,C++,1
+figaro,,Python,1
+FigureMaker,,C++,1
+fileio,,C++,1
+filematrix,,R,1
+files,,Python,1
+FileSystem,,C++,1
+find_package,,C++,1
+findiff,,Python,1
+findlibs,,Python,1
+findspark,,Python,1
+fingerprint,,R,1
+finvader,,Python,1
+firebase-admin,,Python,1
+firedrake,,Python,1
+FireWorks,,Python,1
+first,,Python,1
+fishersrc,,Python,1
+fixpnt,,C++,1
+flake8_docstrings,,Python,1
+flake8-absolute-import,,Python,1
+flake8-annotations,,Python,1
+flake8-blind-except,,Python,1
+flake8-bUIltins,,Python,1
+flake8-colors,,Python,1
+flake8-isort,,Python,1
+Flake8-pyproject,,Python,1
+flake8-typing-imports,,Python,1
+flake8-unused-arguments,,Python,1
+flask_sock,,Python,1
+flask-babel,,Python,1
+flask-compress,,Python,1
+Flask-Compress,,Python,1
+Flask-HTTPAuth,,Python,1
+Flask-Login,,Python,1
+Flask-Mail,,Python,1
+Flask-MonitoringDashboard,,Python,1
+flask-orjson,,Python,1
+flask-restful,,Python,1
+flask-socketio,,Python,1
+flask-sqlalchemy,,Python,1
+Flask-SQLAlchemy,,Python,1
+Flask-WTF,,Python,1
+flatten_dict,,Python,1
+FLEX,,C++,1
+flexdashboard,,R,1
+flexsolve,,Python,1
+flexsurv,,R,1
+flint,,C++,1
+flit-core,,Python,1
+floatcascade,,C++,1
+floating-point,,C++,1
+FlowInABox,,C++,1
+flowjax,,Python,1
+flowmc,,Python,1
+fluprodia,,Python,1
+flux,,C++,1
+fmesher,,R,1
+fmilibcpp,,C++,1
+FMPy,,Python,1
+fmpy,,Python,1
+fmriprep,,Python,1
+fmsb,,R,1
+fmt EXCLUDE_FROM_ALL,,C++,1
+fMultivar,,R,1
+fnft,,C,1
+FNN,,R,1
+foamlib,,Python,1
+fomac,,C++,1
+forcefield,,C++,1
+Forcing,,C++,1
+format,,C++,1
+formats,,C++,1
+fortran,,C++,1
+fortran-compiler,,Python,1
+fossil,,R,1
+foxes-opt,,Python,1
+fpbench,,C++,1
+fpc,,R,1
+fpdf2,,Python,1
+fpga,,C++,1
+fracdiff,,R,1
+fRAT,,Python,1
+frechet,,R,1
+free_properties,,Python,1
+freeqdsk,,Python,1
+freesasa,,Python,1
+Freetype,,C++,1
+freetype-py,,Python,1
+freqtrade-client,,Python,1
+fresh,,R,1
+Friction,,C++,1
+FRK,,R,1
+frontend,,C++,1
+fslpy,,Python,1
+fslr,,R,1
+fsspec[http],,Python,1
+ft-pandas-ta,,Python,1
+fuelcell,,Python,1
+funcsigs,,Python,1
+function,,C++,1
+functions,,C++,1
+functools32,,Python,1
+fungible,,R,1
+furl,,Python,1
+futures,,Python,1
+fwb,,R,1
+G2O,,C++,1
+g3read,,Python,1
+GA,,R,1
+galpy,,Python,1
+gamair,,R,1
+gamlss.data,,R,1
+gcamreader,,Python,1
+gcc,,C++,1
+gcn-kafka,,Python,1
+gcov,,C++,1
+geeadd,,Python,1
+geedim,,Python,1
+geefcc,,Python,1
+geetools,,Python,1
+geigen,,R,1
+geiger,,R,1
+gemma2,,R,1
+gempy,,Python,1
+gendocs,,Python,1
+gene_distributed,,C++,1
+gene_distributed_linear,,C++,1
+gene_distributed_third_level,,C++,1
+genecpint,,C++,1
+genefilter,,R,1
+GenerateBModeFromRF,,C++,1
+GenerateDisplacementFromFrames,,C++,1
+GenerateDisplacementFromTimeSeries,,C++,1
+generate-setup-file,,Python,1
+Generator,,C++,1
+generator,,R,1
+geneticalgorithm,,Python,1
+genicam,,Python,1
+genMCMCDiag,,R,1
+GenomicFeatures,,R,1
+geoarrow-c,,Python,1
+geoarrow-pandas,,Python,1
+geoarrow-pyarrow,,Python,1
+geocoder,,Python,1
+geocube,,Python,1
+geodata,,R,1
+geodist,,R,1
+geographiclib,,Python,1
+geoindex-rs,,Python,1
+geolib,,Python,1
+GEOmap,,R,1
+geomdl,,Python,1
+geometric_shapes,,C++,1
+geometries,,R,1
+geometry_msgs,,C++,1
+geometryRTheta,,C++,1
+geometryVparMu,,C++,1
+geometryXVx,,C++,1
+geometryXY,,C++,1
+geometryXYVxVy,,C++,1
+geoR,,R,1
+george,,Python,1
+geos,,Python,1
+get-annotations,,Python,1
+getdaft,,Python,1
+getting_started,,C++,1
+gewurz,,C++,1
+gffutils,,Python,1
+gflags,,C++,1
+gflex,,Python,1
+gfortran,,C++,1
+gfp,,C++,1
+ggalluvial,,R,1
+ggborderline,,R,1
+ggdag,,R,1
+ggfortify,,R,1
+ggfun,,R,1
+ggh4x,,R,1
+gghalves,,R,1
+ggimage,,R,1
+ggmap,,R,1
+GGMncv,,R,1
+ggnetwork,,R,1
+ggokabeito,,R,1
+ggplotify,,R,1
+ggpp,,R,1
+ggsankeyfier,,R,1
+ggseqlogo,,R,1
+ggstar,,R,1
+ggstatsplot,,R,1
+ggvenn,,R,1
+ggwordcloud,,R,1
+ghc_filesystem,,C++,1
+ghoul,,C++,1
+GiNaC,,C++,1
+ginga,,Python,1
+Ginkgo,,C++,1
+ginkgo,,C++,1
+ginkgo_cuda,,C++,1
+ginkgo_device,,C++,1
+ginkgo_dpcpp,,C++,1
+ginkgo_hip,,C++,1
+ginkgo_omp,,C++,1
+ginkgo_reference,,C++,1
+giotto-ph,,Python,1
+git2r,,R,1
+git-changelog,,Python,1
+gizmo-analysis,,Python,1
+gj,,Python,1
+GJRM,,R,1
+glcontext,,Python,1
+glfw,,C++,1
+glibmm,,C++,1
+GLIBMM3,,C++,1
+GLIBMM4,,C++,1
+glm2,,R,1
+glmulti,,R,1
+globals,,R,1
+glpk,,Python,1
+glutess,,C++,1
+glymur,,Python,1
+gmnl,,R,1
+gmock,,C++,1
+gmp,,C++,1
+GMPXX,,C++,1
+gmr,,Python,1
+Gmsh,,C++,1
+gnm,,R,1
+Gnuplot,,C++,1
+goatools,,Python,1
+"gobbli[augment,tokenize,interactive]",,Python,1
+goblin_cbm_runner,,Python,1
+gofit,,Python,1
+Gooey,,Python,1
+google_cloud_aiplatform,,Python,1
+google-ai-generativelanguage,,Python,1
+google-api-core[grpc],,Python,1
+google-cloud-firestore,,Python,1
+google-generativeai,,Python,1
+googlePolylines,,R,1
+googletest,,C++,1
+"googletest-bUIld
+                   EXCLUDE_FROM_ALL",,C++,1
+googleVis,,R,1
+gower,,R,1
+gpaw,,Python,1
+Gperftools,,C++,1
+gpindex,,R,1
+gpjax,,Python,1
+gpytorch,,Python,1
+gradient-free-optimizers,,Python,1
+gradio,,Python,1
+gradio-client,,Python,1
+grad-june,,Python,1
+gRain,,R,1
+grandalf,,Python,1
+graphbin,,Python,1
+graphbin2,,Python,1
+graphemeu,,Python,1
+graphene,,Python,1
+grapher,,C++,1
+grapherator,,R,1
+GraphicsMagick,,C++,1
+graphlib-backport,,Python,1
+graphql-core,,Python,1
+graphql-relay,,Python,1
+grassland_production,,Python,1
+Gravity,,C++,1
+gRbase,,R,1
+greatcirclepaths,,Python,1
+grequests,,Python,1
+grf,,R,1
+Grib,,C++,1
+grid_tutorial,,C++,1
+gridBase,,R,1
+gridformat,,C++,1
+grimbert,,Python,1
+GROMACS,,C++,1
+groupICA,,R,1
+grpcio-tools,,Python,1
+gsd,,Python,1
+GSelection,,R,1
+gslx,,C++,1
+gsw-xarray,,Python,1
+gtfparse,,Python,1
+gtkmm,,C++,1
+GTKMM3,,C++,1
+gudhi,,Python,1
+GUniFrac,,R,1
+gurobi-logtools,,Python,1
+gwemopt,,Python,1
+gwosc,,Python,1
+gwpy,,Python,1
+gymnasium-notices,,Python,1
+gyroaverage,,C++,1
+h3ppy,,Python,1
+h5grove,,Python,1
+h5io,,Python,1
+h5py-wrapper,,Python,1
+h5si,,C++,1
+habanero,,Python,1
+halo-analysis,,Python,1
+hardcoded_design,,C++,1
+harmony-py,,Python,1
+hciplot,,Python,1
+hdecompose,,Python,1
+HDF,,C++,1
+hdf5_hl,,C,1
+hdfdict,,Python,1
+HDInterval,,R,1
+hdmf,,Python,1
+healpix-alchemy,,Python,1
+heapdict,,Python,1
+heartpy,,Python,1
+HeatCool,,C++,1
+hedgehog,,R,1
+heightmap,,C++,1
+hello_world,,C++,1
+hexSticker,,R,1
+hgvs,,Python,1
+hickle,,Python,1
+hickleable,,Python,1
+hidapi,,Python,1
+hidecan,,R,1
+HighFive,,C++,1
+HighFive EXCLUDE_FROM_ALL,,C++,1
+hijri-converter,,Python,1
+hikload,,Python,1
+HiPart,,Python,1
+hipfft,,C++,1
+hiphive,,Python,1
+hitandrun,,R,1
+HOGBEN,,Python,1
+hoggorm,,Python,1
+hoggormplot,,Python,1
+Homepage,,Python,1
+homopy,,Python,1
+hooks,,C++,1
+hoomd,,Python,1
+howto,,C++,1
+HPX,,C++,1
+hpx_base_libraries,,C++,1
+hpx_full,,C++,1
+hpx_interface,,C++,1
+hpx_interface_wrap_main,,C++,1
+hpx_precompiled_headers,,C++,1
+hpx_private_flags,,C++,1
+hpx_public_flags,,C++,1
+HPXInternal,,C++,1
+hrv-analysis,,Python,1
+hsluv,,Python,1
+htcondor,,Python,1
+htm2txt,,R,1
+html2image,,Python,1
+htmldate,,Python,1
+httpcode,,R,1
+httpretty,,Python,1
+https://github.com/astropy/astroquery/archive/master.zip,,Python,1
+hubo_puppet,,C++,1
+hug,,Python,1
+human_joint_limits,,C++,1
+hupper,,Python,1
+hvpy,,Python,1
+hw,,C++,1
+Hwloc,,C++,1
+HWLOC,,C++,1
+hybrid_dynamics,,C++,1
+hydra-colorlog,,Python,1
+Hydro,,C++,1
+HydroTests,,C++,1
+hyper2,,R,1
+hypercoast,,Python,1
+hypergeo,,R,1
+hyperscan,,Python,1
+hypothesis-crosshair,,Python,1
+HYPREDRV,,C,1
+﻿cffi,,Python,1
+﻿torch,,Python,1
+iam-units,,Python,1
+ibgcc,,C++,1
+ibpm,,C++,1
+ibraries,,C++,1
+iBreakDown,,R,1
+ibs.info,,C++,1
+ibs-only-L,,C++,1
+ibs-only-l,,C++,1
+ibs-only-other,,C++,1
+ibs-private,,C,1
+ibstdc++,,C++,1
+IBVerbs,,C++,1
+icons,,Python,1
+ICs,,C++,1
+IdealMiniGrid,,C++,1
+identify_stream_usage,,C++,1
+idspy-dictionaries,,Python,1
+idspy-toolkit,,Python,1
+ieee754,,C++,1
+IfcBridgeGenerator,,C++,1
+IfcTunnelGenerator,,C++,1
+ight.pdf,,C++,1
+ijson,,Python,1
+ikpls,,Python,1
+ImageIO,,C++,1
+ImageMagick,,C++,1
+imbalanced_learn,,Python,1
+imblearn,,Python,1
+imglyb,,Python,1
+immutables,,Python,1
+importmagic,,Python,1
+import-profiler,,Python,1
+impunity,,Python,1
+imputeLCMD,,R,1
+imu_integration,,C++,1
+imucal,,Python,1
+indexed-gzip,,Python,1
+indicomb2,,Python,1
+indicspecies,,R,1
+ineinfo,,C++,1
+ine-length,,C,1
+iNEXT,,R,1
+inflection,,Python,1
+influxdb-client,,Python,1
+ingredients,,R,1
+init,,C++,1
+Initialization,,C++,1
+injector,,Python,1
+inkstone,,Python,1
+inlabru,,R,1
+inline,,R,1
+in-n-out,,Python,1
+inotify,,Python,1
+inp,,C++,1
+inqUIrer,,Python,1
+inscriptis,,Python,1
+insegel,,Python,1
+installer,,Python,1
+instantiate,,R,1
+intake,,Python,1
+integer,,C++,1
+IntegratedTests,,C++,1
+Integration,,C++,1
+intel-cmplr-lib-ur,,Python,1
+interaction,,C++,1
+interactions,,R,1
+interactive,,C++,1
+interactive_markers,,C++,1
+internal,,C++,1
+InternalForces,,C++,1
+interpax,,Python,1
+interval_search,,Python,1
+intervaltree,,Python,1
+IO,,C++,1
+iomp5,,C++,1
+ipaddr,,Python,1
+ipaddress,,R,1
+IPOPT,,C++,1
+iprogress,,Python,1
+ips,,R,1
+iptools,,R,1
+ipyanchorviz,,Python,1
+ipyannotate,,Python,1
+ipydatawidgets,,Python,1
+iPython,,Python,1
+Ipython,,Python,1
+IPython[all],,Python,1
+ipywidgets-jsonschema,,Python,1
+Iridescence,,C++,1
+irlba,,R,1
+is-annotated,,Python,1
+iSEE,,R,1
+iSEEu,,R,1
+IsentropicVortex,,C++,1
+ISOcodes,,R,1
+isort[reqUIrements],,Python,1
+isosurfaces,,Python,1
+isoweek,,Python,1
+issues,,Python,1
+itables,,Python,1
+iterify,,Python,1
+iterpop,,Python,1
+iterpy,,Python,1
+itertools,,R,1
+ITKCommon,,C++,1
+ITKFFT,,C++,1
+itk-io,,Python,1
+ITKIOImageBase,,C++,1
+ITKIOTransformInsightLegacy,,C++,1
+ITKLabelMap,,C++,1
+itk-meshtopolydata,,Python,1
+itk-registration,,Python,1
+itk-segmentation,,Python,1
+ITKTransform,,C++,1
+ITKTransformFactory,,C++,1
+itkwidgets,,Python,1
+itsadug,,R,1
+ivehtml,,C,1
+iwopy,,Python,1
+ixmp4,,Python,1
+janus,,Python,1
+jaraco.collections,,Python,1
+jaraco.context,,Python,1
+jaraco.functools,,Python,1
+jaraco.text,,Python,1
+jaspBase,,R,1
+jaspGraphs,,R,1
+jax_camera_model,,C++,1
+jaxbind,,Python,1
+jax-jumpy,,Python,1
+jaxoplanet,,Python,1
+JBrowseR,,R,1
+jellyfish,,Python,1
+jenkspy,,Python,1
+jetto-tools,,Python,1
+jfa,,R,1
+jgcricolors,,R,1
+jinjar,,R,1
+JM,,R,1
+joinem,,Python,1
+joint_constraints,,C++,1
+jointDiag,,R,1
+jqr,,R,1
+jsmfsb,,Python,1
+json,,C++,1
+jsoncpp,,C++,1
+jsondiff,,Python,1
+jsonify,,R,1
+json-maj,,Python,1
+jsonpath_ng,,Python,1
+jsonpath-ng,,Python,1
+jsonschema[format-nongpl],,Python,1
+jsonschema-path,,Python,1
+juggling,,C++,1
+Julia,,C++,1
+juliacall,,Python,1
+julian,,Python,1
+juliapkg,,Python,1
+jupysql,,Python,1
+jupyter_bokeh,,Python,1
+JUPYTER_NBCONVERT,,C++,1
+jupyter_UI_poll,,Python,1
+jupyter-contrib-core,,Python,1
+jupyter-dash,,Python,1
+jupyter-highlight-selected-word,,Python,1
+jupyterhub,,Python,1
+jupyterkernel,,C++,1
+jupyterlab_widgets,,Python,1
+jupyterlab-execute-time,,Python,1
+jupyterlite_sphinx,,Python,1
+jupyter-nbextensions-configurator,,Python,1
+jupyter-packaging,,Python,1
+jupyter-scatter,,Python,1
+jupyter-telemetry,,Python,1
+jwcrypto,,Python,1
+kaggle,,Python,1
+kallisto,,Python,1
+kappaSize,,R,1
+karto_sdk,,C++,1
+kartoSlamToolbox,,C++,1
+karyoploteR,,R,1
+katex,,R,1
+kcombu_bss,,Python,1
+kdensity,,R,1
+kdtree,,C++,1
+Keras,,Python,1
+keras-nightly,,Python,1
+keras-preprocessing,,Python,1
+keras-tcn,,Python,1
+keras-tuner,,Python,1
+keyname,,Python,1
+keyrings.alt,,Python,1
+keys,,R,1
+khroma,,R,1
+kinship2,,R,1
+Kivy,,Python,1
+kknn,,R,1
+kokkos,,C++,1
+KokkosKernels,,C++,1
+korean-lunar-calendar,,Python,1
+kornia,,Python,1
+KPIC,,R,1
+kpp,,C,1
+krippendorff,,Python,1
+kSamples,,R,1
+kubernetes,,Python,1
+kuka_iiwa,,C++,1
+l2x-synthetic,,Python,1
+labelled,,R,1
+labjack-ljm,,Python,1
+labvision,,Python,1
+laeken,,R,1
+landcover_assignment,,Python,1
+landcover_lca,,Python,1
+LandSurfaceModel,,C++,1
+LandXMLViewer,,C++,1
+langchain_google_genai,,Python,1
+langchain-experimental,,Python,1
+langchain-google-genai,,Python,1
+langchain-google-vertexai,,Python,1
+langchain-mistralai,,Python,1
+langdetect,,Python,1
+language_tags,,Python,1
+language-tags,,Python,1
+lapack,,C++,1
+lapack EXCLUDE_FROM_ALL,,C++,1
+lapacke,,C++,1
+LaplacesDemon,,R,1
+LargeModel,,C++,1
+LargeTransientModel,,C++,1
+lars,,R,1
+LASlib,,C++,1
+lattices,,Python,1
+lavaanPlot,,R,1
+lavaSearch2,,R,1
+lazy_import,,Python,1
+lazydocs,,Python,1
+LCMCR,,R,1
+lcpsolver,,C++,1
+lda,,R,1
+ldap3,,Python,1
+ldatuning,,R,1
+ldrb,,Python,1
+leaflet.extras,,R,1
+leaflet.extras2,,R,1
+leaflet.providers,,R,1
+leafsync,,R,1
+lefthook,,Python,1
+legacy-cgi,,Python,1
+lemon,,R,1
+lenstronomy,,Python,1
+lessR,,R,1
+levmar,,Python,1
+lexid,,Python,1
+lfda,,R,1
+lhs,,R,1
+libcadet,,C++,1
+libcadet_nonlinalg_static,,C++,1
+libcst,,Python,1
+LibDataChannel,,C++,1
+libgeotiff ${dep_libgeo_BINARY_DIR} EXCLUDE_FROM_ALL,,C++,1
+libigl,,Python,1
+libint2,,C++,1
+LiblineaR,,R,1
+libobscura,,C++,1
+libphysica,,C++,1
+libpq,,C++,1
+LIBPROJ,,C++,1
+libs,,C++,1
+libssa,,Python,1
+libstempo,,Python,1
+libtiff ${dep_libtiff_BINARY_DIR} EXCLUDE_FROM_ALL,,C++,1
+libtobiiglassesctrl,,Python,1
+libwebsockets,,C,1
+Libxc,,C++,1
+libxil,,C++,1
+License,,Python,1
+lifecycle_msgs,,C++,1
+Ligaments,,C++,1
+lightly,,Python,1
+lightshow,,Python,1
+ligo.skymap,,Python,1
+limSolve,,R,1
+linear-operator,,Python,1
+LinearSolvers,,C++,1
+linear-tsv,,Python,1
+lineax,,Python,1
+linecache2,,Python,1
+linetools,,Python,1
+lintegrate,,Python,1
+lipo,,Python,1
+listenv,,R,1
+lit,,Python,1
+litedown,,R,1
+littleutils,,Python,1
+Liver,,C++,1
+LiverMarkups,,C++,1
+LiverResections,,C++,1
+LiverSegments,,C++,1
+LiverVolumetry,,C++,1
+livestock_generation,,Python,1
+llist,,Python,1
+lm.beta,,R,1
+lml,,Python,1
+LMP,,C++,1
+lns,,C++,1
+loading,,C++,1
+lobstr,,R,1
+localization_slam_toolbox,,C++,1
+log,,C++,1
+Logbook,,Python,1
+Logging,,C++,1
+logging2,,Python,1
+Logic,,C++,1
+logistro,,Python,1
+logitnorm,,R,1
+logoizer@,,Python,1
+lomap2,,Python,1
+longmemo,,R,1
+LongMemoryTS,,R,1
+loompy,,Python,1
+lorenz-phase-space,,Python,1
+lpSolveAPI,,R,1
+lqmm,,R,1
+lru-dict,,Python,1
+lsa,,R,1
+lsetcurving,,C++,1
+lspline,,R,1
+lsr,,R,1
+ltlf2dfa,,Python,1
+Lua,,C++,1
+lua-5.3.5,,C++,1
+lunar,,R,1
+lupa,,Python,1
+lutz,,R,1
+lxml-html-clean,,Python,1
+LyA,,C++,1
+LyA_AGN,,C++,1
+LyA_Neutrinos,,C++,1
+lzma,,C,1
+M3C,,R,1
+mabwiser,,Python,1
+mac-alias,,Python,1
+macfsevents,,Python,1
+madforhooks,,Python,1
+madmom,,Python,1
+madupite,,C++,1
+magicgUI,,Python,1
+magma,,C,1
+mailR,,R,1
+main,,C++,1
+make,,Python,1
+makefun,,Python,1
+mallet,,,1
+mallob_core,,C++,1
+manim,,Python,1
+manimpango,,Python,1
+manual_annotator,,Python,1
+mapbox-earcut,,Python,1
+mapedit,,R,1
+Mapple,,C++,1
+maptiles,,R,1
+maptools,,R,1
+mariadb,,Python,1
+marimo,,Python,1
+marisa,,C,1
+markdown_inline_graphviz_extension,,Python,1
+markdown-inline-graphviz-extension,,Python,1
+markov-clustering,,Python,1
+marshmallow-enum,,Python,1
+marshmallow-jsonschema,,Python,1
+marshmallow-sqlalchemy,,Python,1
+mass-spec-utils,,Python,1
+MatchIt,,R,1
+matchms,,Python,1
+math_eqUIvalence,,Python,1
+math_tools,,C++,1
+Mathematica,,C++,1
+mathematics,,C++,1
+mathjaxr,,R,1
+matid,,Python,1
+matminer,,Python,1
+matplotlib_venn,,Python,1
+matrices,,C++,1
+matrix,,C++,1
+matrix_generator,,C++,1
+matrix_statistics,,C++,1
+matrix_tools,,C++,1
+matrixcalc,,R,1
+maturin,,Python,1
+mauricer,,R,1
+maxLik,,R,1
+mayavi,,Python,1
+mb,,Python,1
+mbend,,R,1
+mcclust,,R,1
+MCL,,R,1
+MCMCpack,,R,1
+mcmcse,,R,1
+MCMCvis,,R,1
+mdanalysistests,,Python,1
+MDRUN_MPI,,C++,1
+mdutils,,Python,1
+mdx_gh_links,,Python,1
+mdx_truly_sane_lists,,Python,1
+mdx-include,,Python,1
+mechkit,,Python,1
+MedPy,,Python,1
+MelodieTable,,Python,1
+memory_profiler,,Python,1
+memray,,Python,1
+mendeleev,,Python,1
+merlin,,C++,1
+merTools,,R,1
+Mesa,,Python,1
+mesa[rec],,Python,1
+mesa-geo,,Python,1
+mesa-viz-tornado,,Python,1
+meshcut,,Python,1
+meshplex,,Python,1
+message_filters,,C++,1
+message-timestamp,,C,1
+MetaClean,,R,1
+MetaCleanData,,R,1
+metacoag,,Python,1
+metacoder,,R,1
+metadat,,R,1
+metap,,R,1
+metar,,Python,1
+metfRag,,R,1
+methcomp,,Python,1
+METIS,,C++,1
+MetPy,,Python,1
+mfem,,C++,1
+MFEM,,C++,1
+mfem_traits,,C++,1
+mffpy,,Python,1
+mfx,,R,1
+mhurdle,,R,1
+mia,,R,1
+mido,,Python,1
+mimalloc,,C++,1
+mindoptpy,,Python,1
+miniaudio,,Python,1
+minimal,,C++,1
+MiniSB,,C++,1
+minqa,,R,1
+mip-solvers,,C++,1
+mir_eval,,Python,1
+mir-eval,,Python,1
+Misc,,C++,1
+missForest,,R,1
+mistletoe,,Python,1
+mix,,R,1
+mixed_chain,,C++,1
+mixOmics,,R,1
+mixtools,,R,1
+mkdocs-autolinks-plugin,,Python,1
+mkdocs-bootswatch,,Python,1
+mkdocs-callouts,,Python,1
+mkdocs-exclude,,Python,1
+mkdocs-gallery,,Python,1
+mkdocs-include-markdown-plugin,,Python,1
+mkdocs-mermaid2-plugin,,Python,1
+mkdocs-nbconvert,,Python,1
+mkdocs-section-index,,Python,1
+mkdocs-simple-hooks,,Python,1
+mkdocs-static-i18n,,Python,1
+mkdocstrings-crystal,,Python,1
+mkdocs-windmill,,Python,1
+mkgendocs,,Python,1
+mkl_core,,C,1
+mkl_intel_lp64,,C,1
+mkl_sequential,,C,1
+mknotebooks,,Python,1
+mktestdocs,,Python,1
+ml_collections,,Python,1
+mlabtex,,Python,1
+mlflow-skinny,,Python,1
+mlir,,C++,1
+MLmetrics,,R,1
+mlmRev,,R,1
+mlr3data,,R,1
+mlr3learners,,R,1
+mlr3measures,,R,1
+mlr3oml,,R,1
+mlr3pipelines,,R,1
+mlxtend,,Python,1
+mmand,,R,1
+mmesh,,C++,1
+mmtf-python,,Python,1
+MMWRweek,,R,1
+mne-nirs,,Python,1
+mnormt,,R,1
+MOAB,,C++,1
+mockr,,R,1
+modeest,,R,1
+model,,C++,1
+Model,,C++,1
+model_performance,,Python,1
+model_traits,,C++,1
+modeldata,,R,1
+model-predict-2d,,Python,1
+model-train-2d,,Python,1
+ModelTraits,,C++,1
+moderngl,,Python,1
+moderngl-window,,Python,1
+modes,,R,1
+modin,,Python,1
+mogp-emulator,,Python,1
+molmass,,Python,1
+momepy,,Python,1
+Momocs,,R,1
+mongoengine,,Python,1
+mongoquery,,Python,1
+Monitors,,C++,1
+moranpycess,,Python,1
+morphio,,Python,1
+MortalityLaws,,R,1
+mosqUItto_ctrl,,C,1
+mosqUItto_passwd,,C,1
+MotifDb,,R,1
+motion_planning,,C++,1
+moto,,Python,1
+"moto[server,s3]",,Python,1
+MovingTerrain,,C++,1
+mpdaf,,Python,1
+mpfr,,C++,1
+mpi,,C++,1
+mpi_cmake_modules,,C++,1
+mpi_parallelisation,,C++,1
+mpi4pyd,,Python,1
+mpir,,C++,1
+mpl_interactions,,Python,1
+mpl-animators,,Python,1
+mpld3,,Python,1
+mpldatacursor,,Python,1
+mpl-font,,Python,1
+mplstereonet,,Python,1
+mpltern,,Python,1
+mpsort,,Python,1
+MQT,,C++,1
+mqt-core-dd-eval,,C++,1
+MRML,,C++,1
+MRMLDM,,C++,1
+mRMRe,,R,1
+MS2Quant,,R,1
+MS2Tox,,R,1
+MsBackendMgf,,R,1
+MsDataHub,,R,1
+msgpack-numpy,,Python,1
+msigdbdf,,R,1
+msigdbr,,R,1
+mslex,,Python,1
+msmexplorer,,Python,1
+MSnbase,,R,1
+mss,,Python,1
+MSSA,,C++,1
+mstate,,R,1
+MT,,C++,1
+multcompView,,R,1
+multgee,,R,1
+multicollections,,Python,1
+multigrid,,C++,1
+multipatch,,C++,1
+multiurl,,Python,1
+multiwayvcov,,R,1
+mup,,Python,1
+Muscles,,C++,1
+music,,C++,1
+music21,,Python,1
+mvrsquared,,R,1
+mwa-pb,,Python,1
+mwdust,,Python,1
+mwrpy,,Python,1
+mypy_extensions,,Python,1
+mysql,,Python,1
+mysql-connector-python,,Python,1
+n,,C++,1
+na,,C++,1
+nakagami,,R,1
+name,,C++,1
+nameparser,,Python,1
+nanomesh,,Python,1
+nanonext,,R,1
+napari-console,,Python,1
+napari-ome-zarr,,Python,1
+napari-plugin-engine,,Python,1
+napari-svg,,Python,1
+nasapower,,R,1
+native,,C++,1
+NativePetric,,Python,1
+nativepetric,,Python,1
+nav_msgs,,C++,1
+nav2_costmap_2d,,C++,1
+nav2_msgs,,C++,1
+nav2_voxel_grid,,C++,1
+navierstokes,,C++,1
+nb-black,,Python,1
+nbgitpuller,,Python,1
+NBPSeq,,R,1
+nccut,,Python,1
+ncempy,,Python,1
+ncls,,Python,1
+ncompare,,Python,1
+ncplot,,Python,1
+nctoolkit,,Python,1
+nd2reader,,Python,1
+ndindex,,Python,1
+neatnet,,Python,1
+neleval,,Python,1
+nemosis,,Python,1
+nempy,,Python,1
+neo,,Python,1
+nep_cpu,,C++,1
+nestcheck,,Python,1
+netgen-mesher,,Python,1
+netgen-occt,,Python,1
+netifaces,,Python,1
+netplot,,R,1
+networktools,,R,1
+NetworkX,,Python,1
+networkx[default],,Python,1
+neuralnet,,R,1
+neuraloperator,,Python,1
+neural-pipeline-search,,Python,1
+neurdflib,,Python,1
+neurokit,,Python,1
+neurokit2,,Python,1
+New,,C++,1
+nexusformat,,Python,1
+nexus-rpc,,Python,1
+ngstrefftz,,C++,1
+nhanesA,,R,1
+niaarm,,Python,1
+niapy,,Python,1
+nifpga,,Python,1
+nifpga-fast-fifo-recv,,Python,1
+NIFTI,,C++,1
+nifticlib,,C++,1
+nilspodlib,,Python,1
+nitransforms,,Python,1
+niworkflows,,Python,1
+NlcOptim,,R,1
+nleqslv,,R,1
+nlohmann-json,,C++,1
+nlopt,,Python,1
+NLP,,,1
+nLTT,,R,1
+nnunet,,Python,1
+noaodatalab,,Python,1
+nodejs-wheel-binaries,,Python,1
+nodes,,C++,1
+nonnest2,,R,1
+nontarget,,R,1
+norbert,,Python,1
+normflows,,Python,1
+notebooks,,Python,1
+np,,R,1
+npe2,,Python,1
+nplr,,R,1
+nrelpy,,Python,1
+nrel-pysam,,Python,1
+nrt-data,,Python,1
+nsparse,,C++,1
+ntdownload,,Python,1
+numba_mpi,,Python,1
+numba-mpi,,Python,1
+numba-stats,,Python,1
+number,,C++,1
+number-parser,,Python,1
+numdifftools,,Python,1
+numeric,,C++,1
+numericalscheme,,C++,1
+numfi,,Python,1
+numpydoc=0.7,,Python,1
+numpy-quaternion,,Python,1
+nutpie,,Python,1
+NVHPC,,C++,1
+nvidia-nvshmem-cu12,,Python,1
+nvrtc,,C,1
+nvToolsExt,,C,1
+nvtx,,C++,1
+oad-balancer,,C++,1
+oaiharvest,,Python,1
+oaqc,,R,1
+oauthenticator,,Python,1
+obonet,,Python,1
+ocal,,C++,1
+occa,,C,1
+oceansdb,,Python,1
+ocedata,,R,1
+octomap,,C++,1
+octomap_msgs,,C++,1
+odc-loader,,Python,1
+odc-stac,,Python,1
+ode,,C++,1
+oeel,,Python,1
+Off,,C++,1
+og,,C++,1
+ogb,,Python,1
+ohenery,,R,1
+oip,,C++,1
+olca-schema,,Python,1
+ome-zarr,,Python,1
+omf,,Python,1
+omfvista,,Python,1
+omnibelt,,Python,1
+omnipyseed,,Python,1
+omnizart,,Python,1
+ompr,,R,1
+ompr.roi,,R,1
+oneDPL,,C++,1
+ong,,C++,1
+ong-long,,C,1
+opcode,,C++,1
+ope,,Python,1
+openair,,R,1
+openapi-core,,Python,1
+openapi-schema-validator,,Python,1
+openapi-spec-validator,,Python,1
+OpenBabel2,,C++,1
+OpenBabel3,,C++,1
+OpenCASCADE,,C++,1
+OpenCV,,C++,1
+opencv_contrib_python,,Python,1
+opencv_core,,C++,1
+opencv_highgUI,,C++,1
+opencv_imgcodecs,,C++,1
+opencv_imgproc,,C++,1
+opencv-stubs,,Python,1
+opendrift,,Python,1
+OpenDSSC,,C++,1
+openeo,,R,1
+openff-interchange-base,,Python,1
+openff-toolkit-base,,Python,1
+OpenInfraPlatform.Base,,C++,1
+OpenInfraPlatform.Core,,C++,1
+OpenInfraPlatform.Rendering,,C++,1
+OpenInfraPlatform.UI,,C++,1
+openmd_core,,C++,1
+openmd_parallel,,C++,1
+openmd_single,,C++,1
+openmdao,,Python,1
+openmm,,Python,1
+OpenMx,,R,1
+OpenPIV,,Python,1
+openrouteservice,,Python,1
+openseespy,,Python,1
+openslide-python,,Python,1
+openspace-core,,C++,1
+opentelemetry-distro,,Python,1
+opentsdb-py,,Python,1
+opentsne,,Python,1
+openvino,,Python,1
+operational_space_control,,C++,1
+operators,,C++,1
+ophyd,,Python,1
+OPM,,C++,1
+opm-common,,C++,1
+opmsimulators,,C++,1
+opsvis,,Python,1
+opticommpy,,Python,1
+optimade,,Python,1
+optimg,,R,1
+optimistix,,Python,1
+optimization,,C++,1
+optimizer,,C++,1
+optional-dependencies,,Python,1
+opytional,,Python,1
+orbax-checkpoint,,Python,1
+ordbetareg,,R,1
+ordereddict,,Python,1
+orderedmultidict,,Python,1
+org.Hs.eg.db,,R,1
+oset,,Python,1
+osmextract,,R,1
+outcome,,Python,1
+outdated,,Python,1
+overpy,,Python,1
+oxpy,,C++,1
+p,,C,1
+P4EST,,C++,1
+p4est,,C++,1
+pabutools,,Python,1
+package-mode,,Python,1
+padelpy,,Python,1
+padr,,R,1
+pagedown,,R,1
+Pagmo,,C++,1
+paiargparse,,Python,1
+PairedData,,R,1
+pak,,R,1
+paletteer,,R,1
+pamela,,Python,1
+panda3d,,Python,1
+panda3d-gltf,,Python,1
+panda3d-simplepbr,,Python,1
+pandarallel,,Python,1
+Pandas,,Python,1
+pandas_flavor,,Python,1
+PAPI,,C++,1
+paraconf,,C++,1
+paraconfpp,,C++,1
+paramonte,,Python,1
+parasail,,Python,1
+parcels,,Python,1
+parhugin,,Python,1
+parmed,,Python,1
+PARMESAN,,C++,1
+parsec,,Python,1
+particle,,Python,1
+ParticleAdvection,,C++,1
+ParticleDetection,,Python,1
+ParticlesOverWoA,,C++,1
+passagemath-plot,,Python,1
+passagemath-standard,,Python,1
+PassiveTorques,,C++,1
+passport,,R,1
+pastasoss,,Python,1
+pastecs,,R,1
+pastedeploy,,Python,1
+pathable,,Python,1
+pathlib-abc,,Python,1
+pathvalidate,,Python,1
+patRoonData,,R,1
+paws.application.integration,,R,1
+paws.compute,,R,1
+paws.security.identity,,R,1
+payload-modification,,C,1
+pbjam,,Python,1
+pbmcapply,,R,1
+pbs,,Python,1
+PBSmapping,,R,1
+pbv,,R,1
+pcaPP,,R,1
+PCDimension,,R,1
+PCICt,,R,1
+PCRE,,C++,1
+pdal,,Python,1
+pdat,,Python,1
+pdb2sql,,Python,1
+pde,,C++,1
+pde_solvers,,C++,1
+pdfcropmargins,,Python,1
+PDI,,C++,1
+pdocs,,Python,1
+PeakUtils,,Python,1
+pec,,R,1
+pengwann,,Python,1
+pennylane,,Python,1
+pennylane-lightning,,Python,1
+pennylane-lightning-kokkos,,Python,1
+pennylane-sphinx-theme,,Python,1
+penqUIns,,Python,1
+perf_test,,C++,1
+performance_test,,C++,1
+PerfStubs,,C++,1
+Perfusion,,C++,1
+Perl,,C++,1
+permute,,R,1
+perry,,R,1
+pesummary,,Python,1
+PETSc4py,,C++,1
+pfft-python,,Python,1
+pftools,,Python,1
+PhaseSpace,,C++,1
+PhenoGraph,,Python,1
+phenograph,,Python,1
+phiml,,Python,1
+phonopy,,Python,1
+phreeqpython,,Python,1
+phylobase,,R,1
+phyloseqGraphTest,,R,1
+phylotrackpy,,Python,1
+phylox,,Python,1
+phyr,,R,1
+PhysicalActivity,,R,1
+physt,,Python,1
+phytools,,R,1
+pickydict,,Python,1
+picos,,Python,1
+pidgey,,Python,1
+pinecone,,Python,1
+pint-pulsar,,Python,1
+pints,,Python,1
+pint-xarray,,Python,1
+pip-api,,Python,1
+pip-audit,,Python,1
+pip-autoremove,,Python,1
+pip-check-reqs,,Python,1
+pip-chill,,Python,1
+pipenv,,Python,1
+pipreqs,,Python,1
+piqp,,Python,1
+pitot,,Python,1
+pixell,,Python,1
+pkg-config,,Python,1
+pkgnet,,R,1
+Plasma,,C++,1
+plaster,,Python,1
+plaster-pastedeploy,,Python,1
+platipy,,Python,1
+playground,,C++,1
+playwright,,Python,1
+plogr,,R,1
+plotext,,Python,1
+Plotfile,,C++,1
+plotly_express,,Python,1
+plotrix,,R,1
+plplot,,C++,1
+PLTable,,Python,1
+pluginlib,,C++,1
+plumber,,R,1
+plyfile,,Python,1
+pmesh,,Python,1
+pmsampsize,,R,1
+PNETCDF,,C++,1
+poetry-bumpversion,,Python,1
+poetry-core,,Python,1
+poibin,,R,1
+point_cloud,,C++,1
+PointCloud,,C++,1
+PointCloudProcessing,,C++,1
+pointcloudset,,Python,1
+pointpats,,Python,1
+Poisson,,C++,1
+pokrok,,Python,1
+polars-runtime-32,,Python,1
+polars-st,,Python,1
+polspline,,R,1
+Polychrome,,R,1
+polyclip,,R,1
+polycor,,R,1
+polyhedra,,C++,1
+polyhedron,,C++,1
+polypartition,,C++,1
+pomp,,R,1
+popbio,,R,1
+popclass,,Python,1
+portend,,Python,1
+portray,,Python,1
+posit,,C++,1
+posit2,,C++,1
+posito,,C++,1
+postcodes-io-api,,Python,1
+posthog,,Python,1
+pot,,Python,1
+powerlaw,,Python,1
+pp,,C++,1
+ppcor,,R,1
+pprintast,,Python,1
+pprintpp,,Python,1
+pprofile,,Python,1
+ppsr,,R,1
+pqdm,,Python,1
+PracTools,,R,1
+precice-profiling,,Python,1
+pre-commit-hooks,,Python,1
+preconditioner,,C++,1
+preflibtools,,Python,1
+prefsampling,,Python,1
+pretty_errors,,Python,1
+prettycode,,R,1
+pretty-errors,,Python,1
+pretty-midi,,Python,1
+prettypyplot,,Python,1
+PRIDE,,Python,1
+pridepy,,Python,1
+prince,,Python,1
+printr,,R,1
+procgen,,Python,1
+proDA,,R,1
+prodlim,,R,1
+Production,,C++,1
+profmem,,R,1
+ProfParser,,C++,1
+profvis,,R,1
+proglog,,Python,1
+progs,,C++,1
+PROJ,,C++,1
+project_options,,C++,1
+project_warnings,,C++,1
+projects,,C++,1
+prometheus_client,,Python,1
+prop,,C++,1
+properties,,C++,1
+proselint,,Python,1
+prospector,,Python,1
+prospector[with-mypy],,Python,1
+ProtGenerics,,R,1
+Protobuf,,C++,1
+protocol,,Python,1
+proxsUIte,,Python,1
+proxyfmu,,C++,1
+psims,,Python,1
+psrqpy,,Python,1
+psycopg_binary,,Python,1
+psycopg-binary,,Python,1
+ptemcee_for_orbitize,,Python,1
+pthreads,,C,1
+Pthreads4W,,C,1
+ptw,,R,1
+pubchempy,,Python,1
+pulp[highs],,Python,1
+puremagic,,Python,1
+pvfactors,,Python,1
+pvgeo,,Python,1
+pvl,,Python,1
+pvmismatch,,Python,1
+pwr,,R,1
+py2app,,Python,1
+py2opsin,,Python,1
+py3dep,,Python,1
+py3Dmol,,Python,1
+py3dmol,,Python,1
+py4j,,Python,1
+pyabf,,Python,1
+pyahocorasick,,Python,1
+pyaml,,Python,1
+pyannote.audio,,Python,1
+pyannote.core,,Python,1
+pyannote.database,,Python,1
+pyannote.metrics,,Python,1
+pyannote-banyan,,Python,1
+pyarabic,,Python,1
+Pyarrow,,Python,1
+pyarrow-hotfix,,Python,1
+pyarrow-stubs,,Python,1
+pyasdf,,Python,1
+pyasdl,,Python,1
+pyasyncore,,Python,1
+PyAutoGUI,,Python,1
+pybammsolvers,,Python,1
+pybedtools,,Python,1
+pybullet,,Python,1
+PyBWE,,Python,1
+pycapacity,,Python,1
+pycares,,Python,1
+pycddlib-standalone,,Python,1
+pyclipper,,Python,1
+pyclustering,,Python,1
+pycoingecko,,Python,1
+pycollada,,Python,1
+pyconify,,Python,1
+pycountry,,Python,1
+pycrs,,Python,1
+pycryptodome,,Python,1
+pycryptodomex,,Python,1
+pydantic[email],,Python,1
+pydantic_core,,Python,1
+pydantic_settings,,Python,1
+pydantic-compat,,Python,1
+pydantic-extra-types,,Python,1
+pydeface,,Python,1
+pydefect,,Python,1
+pydevtool,,Python,1
+pydmd,,Python,1
+pydoe,,Python,1
+pydot3k,,Python,1
+pydotplus,,Python,1
+pydyf,,Python,1
+pyEDFlib,,Python,1
+pyedflib,,Python,1
+pyee,,Python,1
+pyentrp,,Python,1
+pyepics,,Python,1
+PyERFA,,Python,1
+pyexcel-io,,Python,1
+pyexcel-xls,,Python,1
+pyexcel-xlsx,,Python,1
+pyEXP,,C++,1
+pyFFTW,,Python,1
+pyflUIdsynth,,Python,1
+pyflwdir,,Python,1
+PyFoam,,Python,1
+pygad,,Python,1
+pygal,,Python,1
+pygaljs,,Python,1
+pygalmesh,,Python,1
+pygam,,Python,1
+pygcn,,Python,1
+pygdal,,Python,1
+pygedm,,Python,1
+pygeoogc,,Python,1
+pygeos,,Python,1
+pygeosx,,C++,1
+pygeoutils,,Python,1
+pygfunction,,Python,1
+pygimli,,Python,1
+PyGithub,,Python,1
+pygltflib,,Python,1
+pygments-ansi-color,,Python,1
+pygmo,,Python,1
+pygobject,,Python,1
+pygtail,,Python,1
+pygtrie,,Python,1
+pyia,,Python,1
+pyimagej,,Python,1
+pyimpspec,,Python,1
+pyinform,,Python,1
+pyinstaller_versionfile,,Python,1
+pyjanitor,,Python,1
+pykalman,,Python,1
+pykalman-py311-update,,Python,1
+pykeops,,Python,1
+pyld,,Python,1
+py-linq,,Python,1
+pylint-celery,,Python,1
+pylint-django,,Python,1
+pylint-exit,,Python,1
+pylint-flask-sqlalchemy,,Python,1
+pylint-plugin-utils,,Python,1
+pyloidal,,Python,1
+pylru,,Python,1
+pymatviz,,Python,1
+pymc3-ext,,Python,1
+PyMCubes,,Python,1
+pymedphys,,Python,1
+PyMeeus,,Python,1
+py-minisign,,Python,1
+py-modelrunner,,Python,1
+pymolPy3,,Python,1
+pymonctl,,Python,1
+PyMPDATA,,Python,1
+PyMPDATA-examples,,Python,1
+Pympler,,Python,1
+pymrio,,Python,1
+PyMySQL,,Python,1
+pymzml,,Python,1
+pync,,Python,1
+pynetdicom,,Python,1
+pynhd,,Python,1
+pynisher,,Python,1
+pynose,,Python,1
+pynput,,Python,1
+pynteny,,Python,1
+pynvim,,Python,1
+pynwb,,Python,1
+pyobjc,,Python,1
+pyobjc-framework-accessibility,,Python,1
+pyobjc-framework-accounts,,Python,1
+pyobjc-framework-addressbook,,Python,1
+pyobjc-framework-adservices,,Python,1
+pyobjc-framework-adsupport,,Python,1
+pyobjc-framework-applescriptkit,,Python,1
+pyobjc-framework-applescriptobjc,,Python,1
+pyobjc-framework-applicationservices,,Python,1
+pyobjc-framework-apptrackingtransparency,,Python,1
+pyobjc-framework-audiovideobridging,,Python,1
+pyobjc-framework-authenticationservices,,Python,1
+pyobjc-framework-automaticassessmentconfiguration,,Python,1
+pyobjc-framework-automator,,Python,1
+pyobjc-framework-avfoundation,,Python,1
+pyobjc-framework-avkit,,Python,1
+pyobjc-framework-avrouting,,Python,1
+pyobjc-framework-backgroundassets,,Python,1
+pyobjc-framework-browserenginekit,,Python,1
+pyobjc-framework-businesschat,,Python,1
+pyobjc-framework-calendarstore,,Python,1
+pyobjc-framework-callkit,,Python,1
+pyobjc-framework-carbon,,Python,1
+pyobjc-framework-cfnetwork,,Python,1
+pyobjc-framework-cinematic,,Python,1
+pyobjc-framework-classkit,,Python,1
+pyobjc-framework-cloudkit,,Python,1
+pyobjc-framework-collaboration,,Python,1
+pyobjc-framework-colorsync,,Python,1
+pyobjc-framework-contacts,,Python,1
+pyobjc-framework-contactsUI,,Python,1
+pyobjc-framework-coreaudio,,Python,1
+pyobjc-framework-coreaudiokit,,Python,1
+pyobjc-framework-corebluetooth,,Python,1
+pyobjc-framework-coredata,,Python,1
+pyobjc-framework-corehaptics,,Python,1
+pyobjc-framework-corelocation,,Python,1
+pyobjc-framework-coremedia,,Python,1
+pyobjc-framework-coremediaio,,Python,1
+pyobjc-framework-coremidi,,Python,1
+pyobjc-framework-coreml,,Python,1
+pyobjc-framework-coremotion,,Python,1
+pyobjc-framework-coreservices,,Python,1
+pyobjc-framework-corespotlight,,Python,1
+pyobjc-framework-coretext,,Python,1
+pyobjc-framework-corewlan,,Python,1
+pyobjc-framework-cryptotokenkit,,Python,1
+pyobjc-framework-datadetection,,Python,1
+pyobjc-framework-devicecheck,,Python,1
+pyobjc-framework-devicediscoveryextension,,Python,1
+pyobjc-framework-dictionaryservices,,Python,1
+pyobjc-framework-discrecording,,Python,1
+pyobjc-framework-discrecordingUI,,Python,1
+pyobjc-framework-diskarbitration,,Python,1
+pyobjc-framework-dvdplayback,,Python,1
+pyobjc-framework-eventkit,,Python,1
+pyobjc-framework-exceptionhandling,,Python,1
+pyobjc-framework-executionpolicy,,Python,1
+pyobjc-framework-extensionkit,,Python,1
+pyobjc-framework-externalaccessory,,Python,1
+pyobjc-framework-fileprovider,,Python,1
+pyobjc-framework-fileproviderUI,,Python,1
+pyobjc-framework-findersync,,Python,1
+pyobjc-framework-fsevents,,Python,1
+pyobjc-framework-fskit,,Python,1
+pyobjc-framework-gamecenter,,Python,1
+pyobjc-framework-gamecontroller,,Python,1
+pyobjc-framework-gamekit,,Python,1
+pyobjc-framework-gameplaykit,,Python,1
+pyobjc-framework-healthkit,,Python,1
+pyobjc-framework-imagecapturecore,,Python,1
+pyobjc-framework-inputmethodkit,,Python,1
+pyobjc-framework-installerplugins,,Python,1
+pyobjc-framework-instantmessage,,Python,1
+pyobjc-framework-intents,,Python,1
+pyobjc-framework-intentsUI,,Python,1
+pyobjc-framework-iobluetooth,,Python,1
+pyobjc-framework-iobluetoothUI,,Python,1
+pyobjc-framework-iosurface,,Python,1
+pyobjc-framework-ituneslibrary,,Python,1
+pyobjc-framework-kernelmanagement,,Python,1
+pyobjc-framework-latentsemanticmapping,,Python,1
+pyobjc-framework-launchservices,,Python,1
+pyobjc-framework-libdispatch,,Python,1
+pyobjc-framework-libxpc,,Python,1
+pyobjc-framework-linkpresentation,,Python,1
+pyobjc-framework-localauthentication,,Python,1
+pyobjc-framework-localauthenticationembeddedUI,,Python,1
+pyobjc-framework-mailkit,,Python,1
+pyobjc-framework-mapkit,,Python,1
+pyobjc-framework-mediaaccessibility,,Python,1
+pyobjc-framework-mediaextension,,Python,1
+pyobjc-framework-medialibrary,,Python,1
+pyobjc-framework-mediaplayer,,Python,1
+pyobjc-framework-mediatoolbox,,Python,1
+pyobjc-framework-metal,,Python,1
+pyobjc-framework-metalfx,,Python,1
+pyobjc-framework-metalkit,,Python,1
+pyobjc-framework-metalperformanceshaders,,Python,1
+pyobjc-framework-metalperformanceshadersgraph,,Python,1
+pyobjc-framework-metrickit,,Python,1
+pyobjc-framework-mlcompute,,Python,1
+pyobjc-framework-modelio,,Python,1
+pyobjc-framework-multipeerconnectivity,,Python,1
+pyobjc-framework-naturallanguage,,Python,1
+pyobjc-framework-netfs,,Python,1
+pyobjc-framework-network,,Python,1
+pyobjc-framework-networkextension,,Python,1
+pyobjc-framework-notificationcenter,,Python,1
+pyobjc-framework-opendirectory,,Python,1
+pyobjc-framework-osakit,,Python,1
+pyobjc-framework-oslog,,Python,1
+pyobjc-framework-passkit,,Python,1
+pyobjc-framework-pencilkit,,Python,1
+pyobjc-framework-phase,,Python,1
+pyobjc-framework-photos,,Python,1
+pyobjc-framework-photosUI,,Python,1
+pyobjc-framework-preferencepanes,,Python,1
+pyobjc-framework-pushkit,,Python,1
+pyobjc-framework-quartz,,Python,1
+pyobjc-framework-qUIcklookthumbnailing,,Python,1
+pyobjc-framework-replaykit,,Python,1
+pyobjc-framework-safariservices,,Python,1
+pyobjc-framework-safetykit,,Python,1
+pyobjc-framework-scenekit,,Python,1
+pyobjc-framework-screencapturekit,,Python,1
+pyobjc-framework-screensaver,,Python,1
+pyobjc-framework-screentime,,Python,1
+pyobjc-framework-scriptingbridge,,Python,1
+pyobjc-framework-searchkit,,Python,1
+pyobjc-framework-security,,Python,1
+pyobjc-framework-securityfoundation,,Python,1
+pyobjc-framework-securityinterface,,Python,1
+pyobjc-framework-securityUI,,Python,1
+pyobjc-framework-sensitivecontentanalysis,,Python,1
+pyobjc-framework-servicemanagement,,Python,1
+pyobjc-framework-sharedwithyou,,Python,1
+pyobjc-framework-sharedwithyoucore,,Python,1
+pyobjc-framework-shazamkit,,Python,1
+pyobjc-framework-social,,Python,1
+pyobjc-framework-soundanalysis,,Python,1
+pyobjc-framework-speech,,Python,1
+pyobjc-framework-spritekit,,Python,1
+pyobjc-framework-storekit,,Python,1
+pyobjc-framework-symbols,,Python,1
+pyobjc-framework-syncservices,,Python,1
+pyobjc-framework-systemconfiguration,,Python,1
+pyobjc-framework-systemextensions,,Python,1
+pyobjc-framework-threadnetwork,,Python,1
+pyobjc-framework-uniformtypeidentifiers,,Python,1
+pyobjc-framework-usernotifications,,Python,1
+pyobjc-framework-usernotificationsUI,,Python,1
+pyobjc-framework-videosubscriberaccount,,Python,1
+pyobjc-framework-videotoolbox,,Python,1
+pyobjc-framework-virtualization,,Python,1
+pyobjc-framework-vision,,Python,1
+pyobjc-framework-webkit,,Python,1
+pyodbc,,Python,1
+Pyomo,,Python,1
+pyOpenBCI,,Python,1
+pyopenbci,,Python,1
+pyopengl-accelerate,,Python,1
+pyopensky,,Python,1
+pyOpenSSL,,Python,1
+pypdb,,Python,1
+PyPDF2,,Python,1
+pypeit,,Python,1
+pypet2bids,,Python,1
+PyPI,,Python,1
+pypistats,,Python,1
+pypng,,Python,1
+pypoly2tri,,Python,1
+pypoman,,Python,1
+pyprecice,,Python,1
+pyprind,,Python,1
+pyprobe-data,,Python,1
+pyprop8,,Python,1
+pyqrcode,,Python,1
+PyQt3D,,Python,1
+PyQt5-stubs,,Python,1
+pyqt6-qt6,,Python,1
+PyQt6-Qt6,,Python,1
+pyqt6-sip,,Python,1
+pyqtconfig,,Python,1
+pyquaternion,,Python,1
+pyquery,,Python,1
+pyradiosky,,Python,1
+pyramid,,Python,1
+pyramid_jinja2,,Python,1
+pyramid_openapi3,,Python,1
+pyramid_rewrite,,Python,1
+pyramid_skosprovider,,Python,1
+pyramid_tm,,Python,1
+pyramid-debugtoolbar,,Python,1
+pyramid-jinja2,,Python,1
+pyramid-mako,,Python,1
+pyramid-openapi3,,Python,1
+pyramid-rewrite,,Python,1
+pyramid-skosprovider,,Python,1
+pyramid-tm,,Python,1
+pyread_eagle,,Python,1
+pyro-api,,Python,1
+pyrodigal,,Python,1
+pyrokinetics-plugin-examples,,Python,1
+pyromat,,Python,1
+pyrootutils,,Python,1
+pyroute2,,Python,1
+Pyrsistent,,Python,1
+pysal,,Python,1
+pysaml2,,Python,1
+pyscreeze,,Python,1
+PySDM-examples,,Python,1
+pysedm,,Python,1
+PySide6-Essentials,,Python,1
+pyslalib,,Python,1
+pysmarts,,Python,1
+pysmiles,,Python,1
+pyspice,,Python,1
+py-spy,,Python,1
+pysqa,,Python,1
+pystack3d-napari,,Python,1
+pystackreg,,Python,1
+pystospa,,C++,1
+pyswarm,,Python,1
+pyswmm,,Python,1
+pyteomics,,Python,1
+pytesseract,,Python,1
+pytest_cov,,Python,1
+pytest_socket,,Python,1
+pytest-aiohttp,,Python,1
+pytest-astropy-header,,Python,1
+pytest-beartype,,Python,1
+pytest-clarity,,Python,1
+pytest-console-scripts,,Python,1
+pytest-custom-exit-code,,Python,1
+pytest-datafiles,,Python,1
+pytest-describe,,Python,1
+pytest-emoji,,Python,1
+pytest-expecter,,Python,1
+pytest-fail-slow,,Python,1
+pytest-filter-subpackage,,Python,1
+pytest-forked,,Python,1
+pytest-localserver,,Python,1
+pytest-memray,,Python,1
+pytest-mypy,,Python,1
+pytest-playwright,,Python,1
+pytest-pretty,,Python,1
+pytest-profiling,,Python,1
+pytest-raises,,Python,1
+pytest-random,,Python,1
+pytest-retry,,Python,1
+pytest-rng,,Python,1
+pytest-ruff,,Python,1
+pytest-socket,,Python,1
+pytest-spark,,Python,1
+pytest-sphinx,,Python,1
+pytest-vcr,,Python,1
+python_dateutil,,Python,1
+python3.4,,C++,1
+python-benedict,,Python,1
+python-calamine,,Python,1
+python-cmr,,Python,1
+python-copasi,,Python,1
+python-docx,,Python,1
+python-engineio,,Python,1
+python-gdcm,,Python,1
+python-gnupg,,Python,1
+python-keycloak,,Python,1
+python-libsbml,,Python,1
+python-ligo-lw,,Python,1
+python-logstash,,Python,1
+python-louvain,,Python,1
+python-magic-bin,,Python,1
+pythonnet,,Python,1
+python-nexus,,Python,1
+python-nightscout,,Python,1
+python-rapidjson,,Python,1
+python-snap7,,Python,1
+python-socketio,,Python,1
+python-termstyle,,Python,1
+python-ulid,,Python,1
+python-xlib,,Python,1
+pythreejs,,Python,1
+pytmd,,Python,1
+pytoml,,Python,1
+pytoolconfig,,Python,1
+pytorchcv,,Python,1
+pytorch-ignite,,Python,1
+pytransform3d,,Python,1
+pyts,,Python,1
+pytzdata,,Python,1
+PyVISA,,Python,1
+pyvisa-py,,Python,1
+pyvista-xarray,,Python,1
+pyvkfft,,Python,1
+pyvsnr,,Python,1
+pywaterflood,,Python,1
+pywbt,,Python,1
+pywdpa,,Python,1
+pywinbox,,Python,1
+pywinctl,,Python,1
+pyxdg,,Python,1
+pyxid,,Python,1
+pyxlsb,,Python,1
+pyYAML,,Python,1
+pyyaml_env_tag,,Python,1
+pyzstd,,Python,1
+qasm3,,C++,1
+qasync,,Python,1
+QCC_DB_LIB,,C++,1
+qd,,C++,1
+qd_cascade,,C++,1
+qdarkstyle,,Python,1
+qdmi,,C++,1
+QFeatures,,R,1
+qhull,,C++,1
+Qhull,,C++,1
+QHULL,,C++,1
+qir,,C++,1
+qiskit-aer,,Python,1
+qiskit-algorithms,,Python,1
+qiskit-experiments,,Python,1
+qiskit-ibm-experiment,,Python,1
+qiskit-ibm-runtime,,Python,1
+qiskit-optimization,,Python,1
+qiskit-sphinx-theme,,Python,1
+qmcpy,,Python,1
+qpalm,,Python,1
+qpax,,Python,1
+qpcR,,R,1
+qpsolvers,,Python,1
+qpsolvers[open-source-solvers],,Python,1
+qrcode,,Python,1
+QSimpleUpdater,,C++,1
+qsnr,,C++,1
+QT,,C++,1
+Qt4,,C++,1
+Qt5Core,,C++,1
+Qt6,,C++,1
+qt6-tools,,Python,1
+qtgallery,,Python,1
+QThreads,,C++,1
+qtl2,,R,1
+qt-material,,Python,1
+QtXlsxWriter,,C++,1
+quaac,,Python,1
+QuadMath,,C++,1
+quadrature,,C++,1
+quantities,,Python,1
+quantization,,C++,1
+quantmod,,R,1
+quartodoc,,Python,1
+quaternion_interpolation,,C++,1
+quax,,Python,1
+quax-blocks,,Python,1
+quaxed,,Python,1
+qudida,,Python,1
+questionr,,R,1
+QUIckJSR,,R,1
+qUIre,,C++,1
+qutip,,Python,1
+R.matlab,,R,1
+r2d3,,R,1
+R2jags,,R,1
+r4ss,,R,1
+radio-beam,,Python,1
+RAMClustR,,R,1
+ramp,,Python,1
+randisi,,C++,1
+randomNames,,R,1
+ranges,,C++,1
+rank-bm25,,Python,1
+ransac,,C++,1
+RapidJSON,,C++,1
+rapidtide,,Python,1
+rarfile,,Python,1
+rARPACK,,R,1
+rastervision,,Python,1
+rastervision-aws-batch,,Python,1
+rastervision-aws-s3,,Python,1
+rastervision-core,,Python,1
+rastervision-pipeline,,Python,1
+rastervision-pytorch-backend,,Python,1
+rastervision-pytorch-learner,,Python,1
+ratelim,,Python,1
+ratelimiter,,Python,1
+rational,,C++,1
+rawpy,,Jupyter Notebook,1
+ray[debug],,Python,1
+RBDL,,C++,1
+RBDyn,,C++,1
+RBGL,,R,1
+rbiouml,,R,1
+rbokeh,,R,1
+RCaNmodel,,R,1
+rcdk,,R,1
+Rcgmin,,R,1
+rcites,,R,1
+rclcpp_components,,C++,1
+rclcpp_lifecycle,,C++,1
+rclpy,,C++,1
+RcppDist,,R,1
+RcppRoll,,R,1
+RcppSimdJson,,R,1
+RcppTOML,,R,1
+rcrossref,,R,1
+rcslice,,Python,1
+rcssmin,,Python,1
+Rdatasets,,R,1
+rdcmchecks,,R,1
+RDCOMClient,,R,1
+Rdimtools,,R,1
+RDMACM,,C++,1
+re,,C++,1
+re2,,R,1
+Readline,,C++,1
+readline,,C++,1
+readODS,,R,1
+readthedocs-sphinx-ext,,Python,1
+real_time_tools,,C++,1
+rebound,,Python,1
+rectangle-packer,,Python,1
+redbaron,,Python,1
+redis-server,,Python,1
+Redistribute,,C++,1
+redux,,R,1
+ref_index,,Python,1
+reference,,C++,1
+reference_fmus,,C++,1
+regioneR,,R,1
+regions,,Python,1
+RegTests,,C++,1
+rejson,,Python,1
+relations,,R,1
+Relaxometry,,C++,1
+reliability,,Python,1
+remotior-sensus,,Python,1
+rempsyc,,R,1
+rename_images,,Python,1
+renard-pipeline,,Python,1
+renderer,,C++,1
+Rendering,,C++,1
+reorder,,C++,1
+reporters-db,,Python,1
+Repository,,Python,1
+Represent,,Python,1
+Requests,,Python,1
+requests_ftp,,Python,1
+requests_toolbelt,,Python,1
+requests-html,,Python,1
+requests-mock,,Python,1
+reqUIrements-detector,,Python,1
+reqUIrements-parser,,Python,1
+reqUIres,,Python,1
+rerddap,,R,1
+rerun,,C++,1
+resampy,,Python,1
+resdata,,Python,1
+reservoir,,R,1
+resources,,C++,1
+rfc3161ng,,Python,1
+rfc3987,,Python,1
+rgbif,,R,1
+rgcam,,R,1
+rgeoboundaries,,R,1
+Rglpk,,R,1
+Rgraphviz,,R,1
+rh5,,C++,1
+rh5v2,,C++,1
+rhdf5,,R,1
+rhdf5filters,,R,1
+Rhdf5lib,,R,1
+rheia,,Python,1
+rhino3dm,,Python,1
+rhino-shapley-interop,,Python,1
+RhpcBLASctl,,R,1
+richdem,,Python,1
+riesling,,C++,1
+rigid_chain,,C++,1
+rigid_cubes,,C++,1
+rigid_loop,,C++,1
+rigid_shapes,,C++,1
+RigidBody,,C++,1
+rio,,R,1
+rio-vrt,,Python,1
+rje,,R,1
+rl,,C++,1
+rmapshaper,,R,1
+rmcorr,,R,1
+Rmisc,,R,1
+Rmpfr,,R,1
+rms-vax,,Python,1
+RMTstat,,R,1
+rn,,C++,1
+RNetCDF,,R,1
+RNifti,,R,1
+RNiftyReg,,R,1
+RoadXMLViewer,,C++,1
+roboschool,,Python,1
+robot_models,,C++,1
+RobStatTM,,R,1
+robustHD,,R,1
+robustica,,Python,1
+robustlmm,,R,1
+Rock,,C++,1
+ROCR,,R,1
+rocsolver,,C++,1
+RodTracker,,Python,1
+ROI.plugin.cbc,,R,1
+ROI.plugin.glpk,,R,1
+roman,,Python,1
+romano,,C++,1
+romspline,,Python,1
+roots,,C++,1
+rootSolve,,R,1
+rootutils,,Python,1
+rope,,Python,1
+ROS_INF,,C++,1
+ROS_LIB,,C++,1
+ROS_UTL,,C++,1
+rosbags,,Python,1
+rosenbrock,,C++,1
+rosidl_default_generators,,C++,1
+rostest,,C++,1
+rotation_error,,C++,1
+rotl,,R,1
+routingpy,,Python,1
+rovigatti,,C++,1
+rowan,,Python,1
+rpackageutils,,R,1
+RPC,,C++,1
+rpgpy,,Python,1
+rply,,C++,1
+rpm,,C++,1
+RPostgres,,R,1
+RPushbullet,,R,1
+rpyc,,Python,1
+rq-dashboard,,Python,1
+rrcovNA,,R,1
+RRF,,R,1
+rs1090,,Python,1
+rsa_mpi,,C++,1
+rsconnect,,R,1
+rsdmx,,R,1
+rsm,,R,1
+RSocrata,,R,1
+rstackdeque,,R,1
+rstatix,,R,1
+rstcheck-core,,Python,1
+rstpm2,,R,1
+rtdists,,R,1
+rtds_action,,Python,1
+rticles,,R,1
+rtlab-asyncip,,C++,1
+rtmlib,,Python,1
+rtoml,,Python,1
+RTriangle,,R,1
+rt-utils,,Python,1
+rtweet,,R,1
+ruamel_yaml,,Python,1
+RUnit,,R,1
+run-pooltool,,Python,1
+runtime,,C++,1
+rvg,,R,1
+rviz_common,,C++,1
+rviz_default_plugins,,C++,1
+rviz_ogre_vendor,,C++,1
+rviz_rendering,,C++,1
+Rvmmin,,R,1
+rw,,C++,1
+RWeka,,R,1
+rworldxtra,,R,1
+rx,,Python,1
+Ryacas,,R,1
+ryu,,Python,1
+sacred,,Python,1
+sads,,R,1
+safe,,Python,1
+safe-assert,,Python,1
+safety-schemas,,Python,1
+safitty,,Python,1
+samewords,,Python,1
+samplics,,Python,1
+sampling,,C++,1
+sanic,,Python,1
+sanic_limiter,,Python,1
+sanic-cors,,Python,1
+Sanitizers,,C,1
+sankee,,Python,1
+sasmodels,,Python,1
+sb3_contrib,,Python,1
+sb3-contrib,,Python,1
+sbmlsh,,Python,1
+sbtools,,R,1
+SC,,C++,1
+sc,,C++,1
+ScalarAdvDiff,,C++,1
+ScaledMatrix,,R,1
+scalene,,Python,1
+scaling,,C++,1
+scam,,R,1
+ScanConvertCurvilinearArray,,C++,1
+ScanConvertPhasedArray3D,,C++,1
+ScanConvertSliceSeries,,C++,1
+scater,,R,1
+scatterplot3d,,R,1
+scenario_assessment,,Python,1
+scenes,,C++,1
+schedule,,Python,1
+Schemas,,C++,1
+scico,,R,1
+science,,C++,1
+SciencePlots,,Python,1
+scikit_image,,Python,1
+scikit-bio,,Python,1
+scikit-bUIld-core,,Python,1
+scikit-fda,,Python,1
+scikit-fmm,,Python,1
+scikit-rf,,Python,1
+scikit-spatial,,Python,1
+scilogger,,Python,1
+scimap-clustering,,Python,1
+scimap-mcmicro,,Python,1
+scimap-merge-h5ad,,Python,1
+scipp,,Python,1
+scipt,,Python,1
+SciPy,,C++,1
+scisave,,Python,1
+scispacy,,Python,1
+scitokens,,Python,1
+scitrack,,Python,1
+scnlib,,C++,1
+sconecmd,,C++,1
+sconehfd,,C++,1
+sconelib,,C++,1
+sconestudio,,C++,1
+sconeunittests,,C++,1
+scoop,,Python,1
+SCOREC,,C++,1
+Scorer,,C++,1
+scp,,Python,1
+scri,,Python,1
+script,,Python,1
+scripts,,C++,1
+scripts EXCLUDE_FROM_ALL,,C++,1
+scrubr,,R,1
+scuttle,,R,1
+sdcflows,,Python,1
+sdnotify,,Python,1
+se_2_3,,C++,1
+se2,,C++,1
+se3,,C++,1
+SEAHORS,,R,1
+Seamount,,C++,1
+seas,,R,1
+secondarycoolantprops,,Python,1
+sectionproperties,,Python,1
+seekpath,,Python,1
+seewave,,R,1
+segment_anything,,Python,1
+segmentation-models-pytorch,,Python,1
+segysak,,Python,1
+selalib_distributed,,C++,1
+selectolax,,Python,1
+selenium-requests,,Python,1
+semantic-version,,Python,1
+sendgrid,,Python,1
+SENSEI,,C++,1
+sensemakr,,R,1
+sensor_msgs,,C++,1
+SeqAn,,C++,1
+seqLogo,,R,1
+sequana_sphinxext,,Python,1
+sequences,,C++,1
+Sequences,,C++,1
+sesame2spiner,,C++,1
+session_info,,Python,1
+setigen,,Python,1
+setoptconf-tmp,,Python,1
+settings,,R,1
+SeuratObject,,R,1
+sfdct,,R,1
+sfdmap2,,Python,1
+sgal3,,C++,1
+shades,,R,1
+shape,,C++,1
+shape_msgs,,C++,1
+SHAPELIB,,C++,1
+shared_memory,,C++,1
+sharedmem,,Python,1
+sheep_lca,,Python,1
+shelved-cache,,Python,1
+shiboken2,,Python,1
+shiny.i18n,,R,1
+shinyAce,,R,1
+shinyalert,,R,1
+shinyFeedback,,R,1
+shinyhelper,,R,1
+shinystan,,R,1
+shmem,,C++,1
+Shoc,,C++,1
+shortuUId,,Python,1
+showtext,,R,1
+showtextdb,,R,1
+shtns,,Python,1
+shutup,,Python,1
+sigfig,,Python,1
+signs,,R,1
+SIM_INF,,C++,1
+SIM_LIB,,C++,1
+SimDesign,,R,1
+simpeg,,Python,1
+simple_frames,,C++,1
+simple_openid_connect,,Python,1
+simpleaudio,,Python,1
+simpleeval,,Python,1
+simpleitk,,Python,1
+simplekml,,Python,1
+SimpleModel,,C++,1
+simple-openapi-client,,Python,1
+simple-pid,,Python,1
+simplesam,,Python,1
+SimpleVDFModel,,C++,1
+simple-websocket,,Python,1
+simsurvey,,Python,1
+Simulation,,C++,1
+simulation,,C++,1
+simulation_event_handler,,C++,1
+simulators,,C++,1
+singularity-eos,,C++,1
+singularity-eos_Interface,,C++,1
+singularity-hpc,,Python,1
+sip-python,,Python,1
+sire,,Python,1
+SkewHyperbolic,,R,1
+skfeature-chappers,,Python,1
+skia-pathops,,Python,1
+skimage,,Python,1
+skimpy,,Python,1
+skimr,,R,1
+skiplistcollections,,Python,1
+skll,,,1
+skosprovider,,Python,1
+skosprovider_getty,,Python,1
+skosprovider_rdf,,Python,1
+skosprovider_sqlalchemy,,Python,1
+skosprovider-getty,,Python,1
+skosprovider-rdf,,Python,1
+skosprovider-sqlalchemy,,Python,1
+skrebate,,Python,1
+SL,,C++,1
+sl3,,R,1
+SlicerExecutionModel,,C++,1
+Slint,,C++,1
+slitronomy,,Python,1
+slixmpp,,Python,1
+SLURM,,C++,1
+sly,,Python,1
+smac,,Python,1
+smact,,Python,1
+small_gicp,,C++,1
+smithers,,Python,1
+smriprep,,Python,1
+snacli,,Python,1
+snaphu,,Python,1
+sncosmo,,Python,1
+snewpy,,Python,1
+sniffer,,Python,1
+snk-cli,,Python,1
+snow,,R,1
+snowflake-snowpark-python,,Python,1
+snowglobes_data,,Python,1
+snub,,Python,1
+snuggs,,Python,1
+so2,,C++,1
+so3,,C++,1
+sodium,,R,1
+soft_bodies,,C++,1
+"solara-server[dev,starlette]",,Python,1
+solara-UI[all],,Python,1
+solarfactors,,Python,1
+solar-system-ephemerides,,Python,1
+solcore,,Python,1
+solveFromFiles,,C++,1
+solver,,C++,1
+Solver,,C++,1
+solvers,,C++,1
+sorn,,C++,1
+sotu,,R,1
+SoundFile,,Python,1
+sourcery,,Python,1
+sourmash,,Python,1
+soxr,,Python,1
+spacetime,,C++,1
+spacetrack,,Python,1
+spaghetti,,Python,1
+spam,,R,1
+SPARQLTransformer,,Python,1
+sparse_blas,,C++,1
+sparse_dot_mkl,,Python,1
+sparseMatrixStats,,R,1
+sparsestack,,Python,1
+spatialpandas,,Python,1
+SpatialPosition,,R,1
+spatstat,,R,1
+spatstat.explore,,R,1
+spatstat.model,,R,1
+spatstat.random,,R,1
+spbabel,,R,1
+spbench EXCLUDE_FROM_ALL,,C++,1
+spbla,,C++,1
+spData,,R,1
+specialized,,C++,1
+speciesinfo,,C++,1
+speclite,,Python,1
+Spectra,,R,1
+spectrapepper,,Python,1
+spectres,,Python,1
+speechpy,,Python,1
+speed_test,,C++,1
+spex,,R,1
+spgrep,,Python,1
+sphere,,C++,1
+spheres,,C++,1
+SPHINX,,C++,1
+sphinx_book_theme,,Python,1
+sphinx_lfs_content,,Python,1
+sphinx_minipres,,Python,1
+sphinx_panels,,Python,1
+sphinx_py3doc_enhanced_theme,,Python,1
+sphinx_pyproject,,Python,1
+sphinx_subfigure,,Python,1
+sphinx_tabs,,Python,1
+sphinx-astrorefs,,Python,1
+sphinx-autodoc-defaultargs,,Python,1
+sphinx-autosummary-accessors,,Python,1
+sphinxbootstrap4theme,,Python,1
+sphinxcontrib,,Python,1
+sphinxcontrib.applehelp,,Python,1
+sphinxcontrib.jquery,,Python,1
+sphinxcontrib.mermaid,,Python,1
+sphinxcontrib.towncrier,,Python,1
+sphinxcontrib_addmetahtml,,Python,1
+sphinxcontrib_bibtex,,Python,1
+sphinxcontrib_spelling,,Python,1
+sphinxcontrib-asciinema,,Python,1
+sphinxcontrib-autoprogram,,Python,1
+sphinxcontrib-datatemplates,,Python,1
+sphinxcontrib-fulltoc,,Python,1
+sphinxcontrib-github-alt,,Python,1
+sphinxcontrib-images,,Python,1
+sphinxcontrib-katex,,Python,1
+sphinxcontrib-matlabdomain,,Python,1
+sphinxcontrib-openapi,,Python,1
+sphinxcontrib-rust,,Python,1
+sphinxcontrib-svg2pdfconverter[Cairosvg],,Python,1
+sphinxcontrib-tikz,,Python,1
+sphinx-docstring-typing,,Python,1
+sphinxext.opengraph,,Python,1
+sphinxext_altair,,Python,1
+sphinxext-altair,,Python,1
+sphinx-github-style,,Python,1
+sphinx-material,,Python,1
+sphinx-nbexamples,,Python,1
+sphinxprettysearchresults,,Python,1
+sphinx-pyproject,,Python,1
+sphinx-removed-in,,Python,1
+sphinx-reredirects,,Python,1
+Sphinx-Substitution-Extensions,,Python,1
+sphinx-theme,,Python,1
+sphinx-tippy,,Python,1
+sphinx-typlog-theme,,Python,1
+spice,,C++,1
+spice SYSTEM,,C++,1
+SpiecEasi,,R,1
+spiner,,C++,1
+spiner_test,,C++,1
+splancs,,R,1
+splashR,,R,1
+splatter,,R,1
+spleeter,,Python,1
+splot,,Python,1
+spmodel,,R,1
+spmv,,C++,1
+spot,,C++,1
+sps,,R,1
+spsComps,,R,1
+sqlalchemy_repr,,Python,1
+sqlalchemy_utils,,Python,1
+SQLAlchemy-Utils,,Python,1
+sqldf,,R,1
+SQLITE3,,C++,1
+SquallLine_2D,,C++,1
+Src,,C++,1
+src discotec,,C++,1
+SRS,,R,1
+srt,,Python,1
+ss3sim,,R,1
+ssqueezepy,,Python,1
+stable_baselines3,,Python,1
+stable-baselines3,,Python,1
+stabs,,R,1
+stackstac,,Python,1
+StandardMathLibrary,,C++,1
+stanio,,Python,1
+starlette_exporter,,Python,1
+starred-astro,,Python,1
+statannotations,,Python,1
+static_scenario_generator,,Python,1
+Stats,,C++,1
+statsExpressions,,R,1
+std_srvs,,C++,1
+STDEXEC,,C++,1
+stellarcollapse2spiner,,C++,1
+stestr,,Python,1
+stl,,C++,1
+stl_reader,,C++,1
+stm,,,1
+stop,,C++,1
+storr,,R,1
+strauss,,Python,1
+stream,,C++,1
+stream-pose-ml,,Python,1
+STRINGdb,,R,1
+striprtf,,Python,1
+subprocess32,,Python,1
+subspace_writer,,C++,1
+suds-py3,,Python,1
+sUItcase-nomad-camels-hdf5,,Python,1
+sUItesparse,,C++,1
+summarytools,,R,1
+sumo,,Python,1
+suncalc,,Python,1
+sundials,,C++,1
+SuperCell_3D,,C++,1
+superheat,,R,1
+SuperLU,,C++,1
+superlu,,C++,1
+superqt,,Python,1
+SuppDists,,R,1
+SurvMetrics,,R,1
+Susceptibility,,C++,1
+SVE,,C++,1
+svgelements,,Python,1
+svgPanZoom,,R,1
+svgpathtools,,Python,1
+svgutils,,Python,1
+svml,,C++,1
+SWI2_ex1,,C++,1
+SWI2_ex2,,C++,1
+SWI2_ex3,,C++,1
+swifft_static,,C++,1
+swiftgalaxy,,Python,1
+swifttools,,Python,1
+swmm-toolkit,,Python,1
+symfc,,Python,1
+synchronizer,,C++,1
+synxflow,,C++,1
+syrupy,,Python,1
+sysfonts,,R,1
+sysidentpy,,Python,1
+sz,,C,1
+SZ3c,,C,1
+t,,Python,1
+T8,,C++,1
+t8_fortran_interface,,C++,1
+t8example,,C++,1
+tableHTML,,R,1
+tableschema,,Python,1
+tagcloud,,R,1
+takum,,C++,1
+TA-Lib,,Python,1
+ta-lib,,Python,1
+tapered,,C++,1
+targets,,R,1
+taskipy,,Python,1
+tasks,,C++,1
+taxa,,R,1
+taxonomy-resolver,,Python,1
+taxopy,,Python,1
+taylor,,C++,1
+TaylorGreenVortex,,C++,1
+taywee,,C++,1
+tcltk,,R,1
+tcmlib,,Python,1
+td,,C++,1
+td_cascade,,C++,1
+TDAstats,,R,1
+tdqm,,Python,1
+tdtax,,Python,1
+technical,,Python,1
+teeplot,,Python,1
+teiphy,,Python,1
+TemperatureSource,,C++,1
+tempora,,Python,1
+temporalio,,Python,1
+tensor,,C++,1
+tensorA,,R,1
+tensorflow_addons,,Python,1
+tensorflow_hub,,Python,1
+tensorflow-cpu,,Python,1
+tensorflow-intel,,Python,1
+tensorflow-macos,,Python,1
+tensorflow-probability,,Python,1
+tensorly_sphinx_theme,,Python,1
+tensorly-torch,,Python,1
+tensorstore,,Python,1
+Test,,C++,1
+TEST,,Python,1
+test EXCLUDE_FROM_ALL,,C++,1
+test_BioDeg,,C++,1
+test_driver,,C++,1
+testcontainers,,Python,1
+testflo,,Python,1
+testing,,C++,1
+testing_tools,,C++,1
+testit,,R,1
+tests EXCLUDE_FROM_ALL,,C++,1
+testsUIte,,C++,1
+tetgen,,C++,1
+texext,,Python,1
+text2vec,,R,1
+textdata,,,1
+textdescriptives,,Python,1
+textual,,Python,1
+textwrapper,,Python,1
+textx,,Python,1
+tf_keras,,Python,1
+tf2,,C++,1
+tf2_geometry_msgs,,C++,1
+tf2_ros,,C++,1
+tf2_sensor_msgs,,C++,1
+TFBSTools,,R,1
+TFEL,,C++,1
+tfel,,C++,1
+tf-keras,,Python,1
+the,,C++,1
+thefuzz,,Python,1
+thermo,,Python,1
+the-well,,Python,1
+third_level_manager,,C++,1
+third_party,,C++,1
+thirdparty,,C++,1
+third-party-license-file-generator,,Python,1
+This,,C++,1
+threejs,,R,1
+threeML,,Python,1
+thresholdmodeling,,Python,1
+thrift,,Python,1
+thrustsort_cpu,,C,1
+thrustsort_gpu,,C,1
+tibert,,Python,1
+tidepool-data-science-project,,Python,1
+tidy_headers,,Python,1
+tidycensus,,R,1
+tidynamics,,Python,1
+tidync,,R,1
+tidytable,,R,1
+tidytree,,R,1
+TiffFile,,Python,1
+tigris,,R,1
+time_series,,C++,1
+time-machine,,Python,1
+timeout-decorator,,Python,1
+timescale,,Python,1
+timeseriesflattener,,Python,1
+TimeStep,,C++,1
+timestepper,,C++,1
+timm,,Python,1
+tinkertoy,,C++,1
+tinycc,,Python,1
+tinyhtml5,,Python,1
+tinynetrc,,Python,1
+tinynumpy,,Python,1
+tinyplot,,R,1
+tinyxml2,,C++,1
+TIRPC,,C++,1
+tk,,Jupyter Notebook,1
+tl,,C++,1
+tldextract,,Python,1
+tl-optional,,C++,1
+tmaptools,,R,1
+tmle,,R,1
+tmvnsim,,R,1
+tool,,C++,1
+toolbox_common,,C++,1
+Tools,,C++,1
+toOrdinal,,R,1
+topojson,,Python,1
+toqito,,Python,1
+torch_optimizer,,Python,1
+torch_scatter,,Python,1
+torch_sparse,,Python,1
+torchani,,Python,1
+torch-cluster,,Python,1
+torchdata,,Python,1
+torchdiffeq,,Python,1
+torchensemble,,Python,1
+torcheval,,Python,1
+torchfile,,Python,1
+torchgeo,,Python,1
+torch-harmonics,,Python,1
+torchinfo,,Python,1
+torchrbf,,Python,1
+torchsummary,,Python,1
+torch-tb-profiler,,Python,1
+torchtext,,Python,1
+tosca,,R,1
+tostiguerra,,C++,1
+tox-travis,,Python,1
+tox-uv,,Python,1
+tpcp,,Python,1
+tpcp_snapshots,,Python,1
+tqdist,,Python,1
+traceback2,,Python,1
+tracerer,,R,1
+tracksegnet,,Python,1
+train_modular,,Python,1
+transaction,,Python,1
+Transcrypt,,Python,1
+translationstring,,Python,1
+trapezoid,,R,1
+treap,,Python,1
+trectools,,Python,1
+treeio,,R,1
+treemap,,R,1
+treemapify,,R,1
+treescope,,Python,1
+TreeTools,,R,1
+trefftz_gtest,,C++,1
+triebeard,,R,1
+trio,,Python,1
+TropicalCyclone,,C++,1
+ts2vg,,Python,1
+tseries,,R,1
+tslearn,,Python,1
+tsplib95,,Python,1
+TurbulentInflow,,C++,1
+Tutorial_101_PointCloud,,C++,1
+Tutorial_102_PointCloud_Property,,C++,1
+Tutorial_103_PointCloud_IO,,C++,1
+Tutorial_104_SurfaceMesh,,C++,1
+Tutorial_105_SurfaceMesh_Connectivity,,C++,1
+Tutorial_106_SurfaceMesh_Property,,C++,1
+Tutorial_107_SurfaceMesh_IO,,C++,1
+Tutorial_108_Graph,,C++,1
+Tutorial_109_Graph_Connectivity,,C++,1
+Tutorial_110_Graph_Property,,C++,1
+Tutorial_111_Graph_IO,,C++,1
+Tutorial_112_PolyMesh,,C++,1
+Tutorial_113_PolyMesh_Connectivity,,C++,1
+Tutorial_114_PolyMesh_Property,,C++,1
+Tutorial_115_PolyMesh_IO,,C++,1
+Tutorial_201_Viewer_default,,C++,1
+Tutorial_202_Viewer_imgUI,,C++,1
+Tutorial_203_Viewer_wxWidgets,,C++,1
+Tutorial_204_Viewer_Qt,,C++,1
+Tutorial_205_MultiView,,C++,1
+Tutorial_206_CameraInterpolation,,C++,1
+Tutorial_207_RealCamera,,C++,1
+Tutorial_301_Drawables,,C++,1
+Tutorial_302_Imposters,,C++,1
+Tutorial_303_ScalarField,,C++,1
+Tutorial_304_VectorField,,C++,1
+Tutorial_305_Texture,,C++,1
+Tutorial_306_ImageViewer,,C++,1
+Tutorial_307_CrossSection,,C++,1
+Tutorial_308_TexturedMesh,,C++,1
+Tutorial_309_TextRendering,,C++,1
+Tutorial_310_TextMesher,,C++,1
+Tutorial_311_Animation,,C++,1
+Tutorial_312_MultiThread,,C++,1
+Tutorial_401_ModelPicker,,C++,1
+Tutorial_402_FacePicker,,C++,1
+Tutorial_403_PointSelection,,C++,1
+Tutorial_404_VirtualScanner,,C++,1
+Tutorial_405_ObjectManipulation,,C++,1
+Tutorial_406_CollisionDetection,,C++,1
+Tutorial_501_AmbientOcclusion,,C++,1
+Tutorial_502_HardShadow,,C++,1
+Tutorial_503_SoftShadow,,C++,1
+Tutorial_504_Transparency,,C++,1
+Tutorial_505_EyeDomeLighting,,C++,1
+Tutorial_506_DepthMap,,C++,1
+Tutorial_601_Tessellator,,C++,1
+Tutorial_602_ConvexPartition,,C++,1
+Tutorial_603_Curves,,C++,1
+Tutorial_701_Cloud_NormalEstimation,,C++,1
+Tutorial_702_Cloud_SurfaceReconstruction,,C++,1
+Tutorial_703_Cloud_PlaneExtraction,,C++,1
+Tutorial_704_Cloud_DownSampling,,C++,1
+Tutorial_801_Mesh_Curvature,,C++,1
+Tutorial_802_Mesh_Smoothing,,C++,1
+Tutorial_803_Mesh_Fairing,,C++,1
+Tutorial_804_Mesh_HoleFilling,,C++,1
+Tutorial_805_Mesh_Remeshing,,C++,1
+Tutorial_806_Mesh_Simplification,,C++,1
+Tutorial_807_Mesh_Subdidivision,,C++,1
+tutorial_biped,,C++,1
+tutorial_biped_finished,,C++,1
+tutorial_collisions,,C++,1
+tutorial_collisions_finished,,C++,1
+tutorial_dominoes,,C++,1
+tutorial_dominoes_finished,,C++,1
+tutorial_multi_pendulum,,C++,1
+tutorial_multi_pendulum_finished,,C++,1
+tutorials EXCLUDE_FROM_ALL,,C++,1
+tweenr,,R,1
+tweet_parser,,Python,1
+twilio,,Python,1
+twitteR,,R,1
+twobody,,Python,1
+twython,,Python,1
+TxDb.Hsapiens.UCSC.hg38.knownGene,,R,1
+TxDb.Scerevisiae.UCSC.sacCer3.sgdGene,,R,1
+type_hierarchy,,C++,1
+typer[all],,Python,1
+typer-cli,,Python,1
+typer-slim,,Python,1
+types,,C++,1
+types-beautifulsoup4,,Python,1
+types-cachetools,,Python,1
+types-dataclasses,,Python,1
+types-dateparser,,Python,1
+types-docutils,,Python,1
+types-filelock,,Python,1
+types-flask-cors,,Python,1
+types-flask-socketio,,Python,1
+types-frozendict,,Python,1
+types-html5lib,,Python,1
+types-invoke,,Python,1
+types-jsonschema,,Python,1
+types-lxml,,Python,1
+types-networkx,,Python,1
+types-pillow,,Python,1
+types-Pillow,,Python,1
+types-protobuf,,Python,1
+types-seaborn,,Python,1
+types-tabulate,,Python,1
+typish,,Python,1
+tyro,,Python,1
+ua-parser,,Python,1
+Udunits2,,C++,1
+udunits2,,R,1
+ukcensusapi,,Python,1
+ulid,,Python,1
+ulid2,,Python,1
+umf,,Python,1
+UMFPACK,,C++,1
+unfccc_di_api,,Python,1
+unfccc-di-api,,Python,1
+unicodecsv,,Python,1
+unified,,C++,1
+unifir,,R,1
+Unit,,C++,1
+unittests,,C++,1
+univariateML,,R,1
+universal_pathlib,,Python,1
+universal-pathlib,,Python,1
+UnixCommands,,C++,1
+unsupported,,C++,1
+untokenize,,Python,1
+unum,,C++,1
+unum2,,C++,1
+unxt,,Python,1
+Upwelling,,C++,1
+uritools,,Python,1
+urlchecker,,R,1
+urllib,,Python,1
+url-normalize,,Python,1
+USAboundariesData,,R,1
+uScale,,C++,1
+usefun,,R,1
+user,,C++,1
+user-modules,,C++,1
+Utilities,,C++,1
+utilities,,C++,1
+utilities-awetzel,,Python,1
+utilitiez,,Python,1
+utm,,Python,1
+vaderSentiment,,Python,1
+vadersentiment,,Python,1
+Valgrind,,C++,1
+valid,,C++,1
+validator-collection,,Python,1
+value,,C++,1
+vamp,,Python,1
+variconfig,,Python,1
+Vc,,C++,1
+vcfpy,,Python,1
+vector,,Python,1
+vegafusion,,Python,1
+vegclust,,R,1
+vehicle,,C++,1
+venneuler,,R,1
+venusian,,Python,1
+VexCL,,C++,1
+vfo,,Python,1
+video,,C++,1
+viewer,,C++,1
+VineCopula,,R,1
+vip_hci,,Python,1
+vip-hci,,Python,1
+virtualfish,,Python,1
+vis,,C++,1
+visa,,Python,1
+visdcc,,Python,1
+visdom,,Python,1
+vise,,Python,1
+vispy,,Python,1
+vitaldb,,Python,1
+vit-pytorch,,Python,1
+vmath,,C++,1
+voi,,R,1
+volumentations-3D,,Python,1
+voodoonet,,Python,1
+vorticity,,C++,1
+voxcell,,Python,1
+voxels,,C++,1
+vpython,,Python,1
+vrplib,,Python,1
+vthemes,,R,1
+VTKWidgets,,C++,1
+vtu,,C++,1
+VTune,,C++,1
+w3lib,,Python,1
+waiter,,R,1
+wam_ikfast,,C++,1
+wand,,Python,1
+Wand,,Python,1
+wavelets,,R,1
+wbdata,,Python,1
+wc_utils[git],,Python,1
+wCorr,,R,1
+wcosmo,,Python,1
+wdm,,R,1
+weasyprint,,Python,1
+weather,,C++,1
+web,,C++,1
+web2 EXCLUDE_FROM_ALL,,C++,1
+webargs,,Python,1
+webdriver,,R,1
+webmockr,,R,1
+webob,,Python,1
+website,,C++,1
+websocket-server,,Python,1
+webtest,,Python,1
+webvtt-py,,Python,1
+weights,,R,1
+wetterdienst,,Python,1
+wheel-filename,,Python,1
+whitenoise,,Python,1
+Whoosh,,Python,1
+widefield_plate_solver,,Python,1
+widgetframe,,R,1
+widyr,,R,1
+Windows\,,Python,1
+WitchOfAgnesi,,C++,1
+wntr,,Python,1
+workflows,,R,1
+workflowsets,,R,1
+WPS_and_Metgrid_Tests,,C++,1
+wquantiles,,Python,1
+wrap,,C++,1
+wrapper,,C++,1
+wrapr,,R,1
+wres,,Python,1
+WRI,,R,1
+writemesh,,C++,1
+WS2_32,,C++,1
+ws2_32,,C++,1
+wslink,,Python,1
+wsproto,,Python,1
+WTForms,,Python,1
+wxPython,,Python,1
+X11,,C++,1
+xanadu-sphinx-theme,,Python,1
+xarray-datatree,,Python,1
+xattr,,Python,1
+XBRL,,R,1
+xcms,,R,1
+xdoctest,,Python,1
+Xdr,,C++,1
+xdsl,,Python,1
+xee,,Python,1
+xesmf,,Python,1
+xfem,,C++,1
+xgcm,,Python,1
+xmlparsedata,,R,1
+xmlrunner,,Python,1
+xmmutablemap,,Python,1
+xo,,C++,1
+xpress,,Python,1
+xsdba,,Python,1
+xsmm,,C,1
+x-tensorflow,,Python,1
+x-torch_cpu,,Python,1
+xtp,,C++,1
+xtp-tutorials,,C++,1
+xtralien,,Python,1
+x-transformers,,Python,1
+xts,,R,1
+xvfbwrapper,,Python,1
+yabox,,Python,1
+yaImpute,,R,1
+yarg,,Python,1
+yattag,,Python,1
+ymlthis,,R,1
+yulab.utils,,R,1
+yyjsonr,,R,1
+zc.lockfile,,Python,1
+ze_loader,,C,1
+zeallot,,R,1
+zeroth,,Python,1
+zeta,,Python,1
+zfit,,Python,1
+zfit-physics,,Python,1
+zfp,,C,1
+zipfile_deflate64,,Python,1
+zipstream-ng,,Python,1
+ZLIB_NG,,C++,1
+zope.sqlalchemy,,Python,1
+zope-deprecation,,Python,1
+zope-sqlalchemy,,Python,1
+zopfli,,Python,1
+zx,,C++,1
+,,Python,1
+,,Python,1
+,,Python,1
+,,Python,1
+,,Python,1
+,,Python,1
+,,Python,1

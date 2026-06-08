@@ -2,6 +2,7 @@ import pandas as pd
 import ast
 from collections import Counter
 import matplotlib.pyplot as plt
+import os
 
 def safe_parse_list(value):
     """Safely parse string representation of list."""
@@ -14,7 +15,9 @@ def safe_parse_list(value):
 
 def main():
     # Load the data
-    df = pd.read_csv('joss_all_with_dependency_labels1.csv')
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    df = pd.read_csv(os.path.join(project_root, 'data', 'raw', 'joss_all_with_dependency_labels1.csv'))
     
     print("=" * 80)
     print("DEPENDENCY ANNOTATION ANALYSIS REPORT")
@@ -183,9 +186,12 @@ def create_visualizations(dep_counter, most_common, num_unique, total_occurrence
     ax4.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=90)
     ax4.set_title('Dependency Usage Distribution')
     
-    plt.tight_layout()
-    plt.savefig('dependency_analysis_report.png', dpi=150, bbox_inches='tight')
-    print(f"\n📈 Visualization saved to: dependency_analysis_report.png")
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    fig_dir = os.path.join(project_root, 'visualizations')
+    os.makedirs(fig_dir, exist_ok=True)
+    fig_path = os.path.join(fig_dir, 'dependency_analysis_report.png')
+    plt.savefig(fig_path, dpi=150, bbox_inches='tight')
+    print(f"\n📈 Visualization saved to: {fig_path}")
 
 def export_detailed_report(dep_counter, df):
     """Export detailed dependency data to CSV."""
@@ -194,8 +200,12 @@ def export_detailed_report(dep_counter, df):
         {'dependency': dep, 'usage_count': count, 'usage_percentage': (count/len(df))*100}
         for dep, count in dep_counter.most_common()
     ])
-    dep_df.to_csv('dependency_frequency_report.csv', index=False)
-    print(f"📄 Detailed report saved to: dependency_frequency_report.csv")
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    processed_dir = os.path.join(project_root, 'data', 'processed')
+    os.makedirs(processed_dir, exist_ok=True)
+    report_path = os.path.join(processed_dir, 'dependency_frequency_report.csv')
+    dep_df.to_csv(report_path, index=False)
+    print(f"📄 Detailed report saved to: {report_path}")
 
 if __name__ == "__main__":
     main()

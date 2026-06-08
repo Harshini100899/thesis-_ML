@@ -38,20 +38,20 @@ catboost>=1.0.0
 
 ## Input Files Required
 
-Place these two CSV files in the **same directory** as `multilabel_classifier.py`:
+Place these two CSV files in the `data/raw/` directory:
 
-| File | Description |
-|------|-------------|
-| `joss_all_with_dependency_labels1.csv` | Main dataset: contains `dependecies_found` and `dependency_labels` columns |
-| `dependency_counts_with_labels.csv` | Lookup table: contains `dependency` and `label` columns (valid vocabulary) |
+| File | Location | Description |
+|------|----------|-------------|
+| `joss_all_with_dependency_labels1.csv` | `data/raw/` | Main dataset: contains `dependecies_found` and `dependency_labels` columns |
+| `dependency_counts_with_labels.csv` | `data/raw/` | Lookup table: contains `dependency` and `label` columns (valid vocabulary) |
 
 ### Expected Column Names
 
-**`joss_all_with_dependency_labels1.csv`** must contain:
+**`data/raw/joss_all_with_dependency_labels1.csv`** must contain:
 - `dependecies_found` or `dependencies_found` — list of software dependencies (as string, e.g. `"['numpy', 'pandas']"`)
 - `dependency_labels` — list of domain labels (e.g. `"['Bioinformatics', 'Python']"`)
 
-**`dependency_counts_with_labels.csv`** must contain:
+**`data/raw/dependency_counts_with_labels.csv`** must contain:
 - `dependency` — dependency name
 - `label` — corresponding domain label
 
@@ -59,23 +59,27 @@ Place these two CSV files in the **same directory** as `multilabel_classifier.py
 
 ## How to Run
 
+Run the classification pipeline from the project root directory:
+
 ```bash
-python multilabel_classifier.py
+python src/multilabel_classifier.py
 ```
 
 ---
 
 ## Output Files Generated
 
-| File | Description |
-|------|-------------|
-| `best_model_<timestamp>.joblib` | Saved best model with preprocessors |
-| `results_<timestamp>.csv` | All model performance metrics |
-| `results_<timestamp>.json` | Full results including dataset info and best parameters |
-| `results_report_<timestamp>.txt` | Human-readable report with recommendations |
-| `model_evaluation_<timestamp>.png` | Evaluation visualizations |
-| `eda_analysis_<timestamp>.png` | EDA visualizations |
-| `training_validation_loss_<timestamp>.png` | Loss curves (MLP only) |
+Outputs are automatically organized into dedicated subdirectories:
+
+| Location | File Pattern | Description |
+|----------|--------------|-------------|
+| `models/` | `best_model_<timestamp>.joblib` | Saved best model with preprocessors |
+| `results/` | `results_<timestamp>.csv` | All model performance metrics |
+| `results/` | `results_<timestamp>.json` | Full results including dataset info and best parameters |
+| `results/` | `results_report_<timestamp>.txt` | Human-readable report with recommendations |
+| `visualizations/` | `model_evaluation_<timestamp>.png` | Evaluation visualizations |
+| `visualizations/` | `eda_analysis_<timestamp>.png` | EDA visualizations |
+| `visualizations/` | `training_validation_loss_<timestamp>.png` | Loss curves (MLP only) |
 
 ---
 
@@ -85,7 +89,7 @@ python multilabel_classifier.py
 2. **Preprocessing** — Parses, normalizes, and filters dependencies and labels
 3. **Feature Extraction** — Converts dependency lists to binary feature matrix using `MultiLabelBinarizer`
 4. **EDA** — Visualizes label distributions and class imbalance
-5. **Train/Test Split** — 75% training / 25% testing
+5. **Train/Test Split** — 70% training / 30% testing
 6. **Nested Cross-Validation** — 3 outer folds × 2 inner folds for unbiased performance estimation
 7. **Hyperparameter Tuning** — `GridSearchCV` on full training set
 8. **Final Evaluation** — Trains and evaluates all models on held-out test set
@@ -110,18 +114,22 @@ python multilabel_classifier.py
 
 ## Configuration
 
-Edit the constants near the top of `main()` in `multilabel_classifier.py`:
+Edit the constants near the top of `main()` in `src/multilabel_classifier.py`:
 
 ```python
-MAIN_FILE = 'joss_all_with_dependency_labels1.csv'
-LOOKUP_FILE = 'dependency_counts_with_labels.csv'
-TEST_SIZE = 0.25             # Fraction of data for testing
-RANDOM_STATE = 42            # Reproducibility seed
-APPLY_SCALING = False        # Apply StandardScaler to features
-FEATURE_SELECTION_K = None   # Select top-K features (None = use all)
-USE_NESTED_CV = True         # Run nested cross-validation (recommended)
-NESTED_OUTER_FOLDS = 3       # Outer CV folds
-NESTED_INNER_FOLDS = 2       # Inner CV folds (hyperparameter tuning)
+    # Resolve paths relative to project root
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+    
+    MAIN_FILE = os.path.join(PROJECT_ROOT, 'data', 'raw', 'joss_all_with_dependency_labels1.csv')
+    LOOKUP_FILE = os.path.join(PROJECT_ROOT, 'data', 'raw', 'dependency_counts_with_labels.csv')
+    TEST_SIZE = 0.30             # Fraction of data for testing
+    RANDOM_STATE = 42            # Reproducibility seed
+    APPLY_SCALING = False        # Apply StandardScaler to features
+    FEATURE_SELECTION_K = None   # Select top-K features (None = use all)
+    USE_NESTED_CV = True         # Run nested cross-validation (recommended)
+    NESTED_OUTER_FOLDS = 3       # Outer CV folds
+    NESTED_INNER_FOLDS = 2       # Inner CV folds (hyperparameter tuning)
 ```
 
 > **Note:** Setting `USE_NESTED_CV = True` is recommended for unbiased performance estimates but may take several minutes depending on dataset size.

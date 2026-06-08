@@ -5,6 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import MultiLabelBinarizer
+import os
 
 def load_and_clean_data(filepath):
     print(f"Loading data from {filepath}...")
@@ -36,8 +37,14 @@ def parse_dependencies(dep_str):
         return []
 
 def main():
-    main_file = 'joss_all_language_depends_label.csv'
-    lookup_file = 'dependency_counts_with_labels.csv'
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    
+    main_file = os.path.join(project_root, 'data', 'raw', 'joss_all_language_depends_label.csv')
+    if not os.path.exists(main_file):
+        main_file = os.path.join(project_root, 'data', 'raw', 'joss_all_language_depends.csv')
+        
+    lookup_file = os.path.join(project_root, 'data', 'raw', 'dependency_counts_with_labels.csv')
     
     # 1. Load and Clean Main Data
     df = load_and_clean_data(main_file)

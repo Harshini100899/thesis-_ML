@@ -1,5 +1,5 @@
 {
-  "timestamp": "20260107_075104",
+  "timestamp": "20260608_133823",
   "dataset_info": {
     "Total Samples": 1559,
     "Features": 6364,
@@ -48,8 +48,8 @@
   "results": [
     {
       "Model": "Random Forest",
-      "Nested CV F1 Micro": 0.8722463626731266,
-      "Nested CV F1 Std": 0.00684877956977475,
+      "Nested CV F1 Micro": 0.0,
+      "Nested CV F1 Std": 0.0,
       "Test Accuracy": 0.38974358974358975,
       "Test F1 Micro": 0.8804755944931164,
       "Test F1 Macro": 0.7966240664344162,
@@ -64,8 +64,8 @@
     },
     {
       "Model": "Logistic Regression",
-      "Nested CV F1 Micro": 0.9230470618942249,
-      "Nested CV F1 Std": 0.004887055045919058,
+      "Nested CV F1 Micro": 0.0,
+      "Nested CV F1 Std": 0.0,
       "Test Accuracy": 0.5820512820512821,
       "Test F1 Micro": 0.9337748344370861,
       "Test F1 Macro": 0.8744119724503713,
@@ -80,8 +80,8 @@
     },
     {
       "Model": "Linear SVC",
-      "Nested CV F1 Micro": 0.9289851131785012,
-      "Nested CV F1 Std": 0.005290671520963078,
+      "Nested CV F1 Micro": 0.0,
+      "Nested CV F1 Std": 0.0,
       "Test Accuracy": 0.6076923076923076,
       "Test F1 Micro": 0.9406830437387658,
       "Test F1 Macro": 0.8807121829060653,
@@ -96,8 +96,8 @@
     },
     {
       "Model": "MLP Classifier",
-      "Nested CV F1 Micro": 0.891418478022859,
-      "Nested CV F1 Std": 0.00956004605216474,
+      "Nested CV F1 Micro": 0.0,
+      "Nested CV F1 Std": 0.0,
       "Test Accuracy": 0.4666666666666667,
       "Test F1 Micro": 0.9124530482519503,
       "Test F1 Macro": 0.8128327645477441,
@@ -112,8 +112,8 @@
     },
     {
       "Model": "XGBoost",
-      "Nested CV F1 Micro": 0.9255079106935336,
-      "Nested CV F1 Std": 0.00920799869822576,
+      "Nested CV F1 Micro": 0.0,
+      "Nested CV F1 Std": 0.0,
       "Test Accuracy": 0.6128205128205129,
       "Test F1 Micro": 0.941034897713598,
       "Test F1 Macro": 0.8658521605220308,
@@ -128,8 +128,8 @@
     },
     {
       "Model": "LightGBM",
-      "Nested CV F1 Micro": 0.8860160968170185,
-      "Nested CV F1 Std": 0.00543412150021074,
+      "Nested CV F1 Micro": 0.0,
+      "Nested CV F1 Std": 0.0,
       "Test Accuracy": 0.47692307692307695,
       "Test F1 Micro": 0.9011188388267312,
       "Test F1 Macro": 0.7930373927691677,
@@ -144,8 +144,8 @@
     },
     {
       "Model": "CatBoost",
-      "Nested CV F1 Micro": 0.9311332324256195,
-      "Nested CV F1 Std": 0.00497857733362329,
+      "Nested CV F1 Micro": 0.0,
+      "Nested CV F1 Std": 0.0,
       "Test Accuracy": 0.6,
       "Test F1 Micro": 0.9372513008876645,
       "Test F1 Macro": 0.911873505077818,

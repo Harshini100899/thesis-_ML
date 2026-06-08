@@ -836,8 +836,11 @@ class Evaluator:
         plt.tight_layout()
         
         # Save figure
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        fig_dir = os.path.join(project_root, 'visualizations')
+        os.makedirs(fig_dir, exist_ok=True)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        fig_path = f'model_comparison_{timestamp}.png'
+        fig_path = os.path.join(fig_dir, f'model_comparison_{timestamp}.png')
         plt.savefig(fig_path, dpi=300, bbox_inches='tight')
         logger.info(f"Saved visualization: {fig_path}")
         plt.show()
@@ -858,14 +861,17 @@ class Evaluator:
                              trainer: Any, dataset_info: Dict[str, Any]) -> None:
         """Save all results to multiple file formats."""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        results_dir = os.path.join(project_root, 'results')
+        os.makedirs(results_dir, exist_ok=True)
         
         # 1. CSV
-        csv_path = f'model_results_{timestamp}.csv'
+        csv_path = os.path.join(results_dir, f'model_results_{timestamp}.csv')
         results_df.to_csv(csv_path, index=False)
         logger.info(f"Saved CSV: {csv_path}")
         
         # 2. JSON
-        json_path = f'results_{timestamp}.json'
+        json_path = os.path.join(results_dir, f'results_{timestamp}.json')
         json_data = {
             'best_parameters': best_params,
             'nested_cv_scores': {
@@ -883,7 +889,7 @@ class Evaluator:
         logger.info(f"Saved JSON: {json_path}")
         
         # 3. Text report
-        txt_path = f'results_report_{timestamp}.txt'
+        txt_path = os.path.join(results_dir, f'results_report_{timestamp}.txt')
         with open(txt_path, 'w') as f:
             f.write("="*80 + "\n")
             f.write("MULTI-LABEL CLASSIFICATION RESULTS\n")
@@ -921,7 +927,10 @@ class Evaluator:
             'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         }
         
-        save_path = 'best_model.joblib'
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        models_dir = os.path.join(project_root, 'models')
+        os.makedirs(models_dir, exist_ok=True)
+        save_path = os.path.join(models_dir, 'best_model.joblib')
         joblib.dump(model_bundle, save_path)
         logger.info(f"Saved best model: {save_path}")
         
@@ -994,10 +1003,14 @@ def main() -> Tuple[pd.DataFrame, Dict[str, Any], FeatureExtractor]:
     logger.info("MULTI-LABEL CLASSIFICATION PIPELINE")
     logger.info("="*70 + "\n")
     
+    # Resolve paths relative to project root
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+    
     # Configuration
-    MAIN_FILE = 'joss_all_with_dependency_labels1.csv'
-    LOOKUP_FILE = 'dependency_counts_with_labels.csv'
-    LLM_RESULTS_FILE = 'llm_results.csv'  # Optional fallback
+    MAIN_FILE = os.path.join(PROJECT_ROOT, 'data', 'raw', 'joss_all_with_dependency_labels1.csv')
+    LOOKUP_FILE = os.path.join(PROJECT_ROOT, 'data', 'raw', 'dependency_counts_with_labels.csv')
+    LLM_RESULTS_FILE = os.path.join(PROJECT_ROOT, 'data', 'raw', 'llm_results.csv')  # Optional fallback
     TEST_SIZE = 0.30
     RANDOM_STATE = 42
     PERFORM_NESTED_CV = True

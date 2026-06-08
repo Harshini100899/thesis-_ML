@@ -327,7 +327,11 @@ class EDA:
         axes[1, 2].legend()
         
         plt.tight_layout()
-        plt.savefig(f'eda_analysis_{datetime.now().strftime("%Y%m%d_%H%M%S")}.png', dpi=300)
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        fig_dir = os.path.join(project_root, 'visualizations')
+        os.makedirs(fig_dir, exist_ok=True)
+        fig_path = os.path.join(fig_dir, f'eda_analysis_{datetime.now().strftime("%Y%m%d_%H%M%S")}.png')
+        plt.savefig(fig_path, dpi=300)
         plt.show()
 
 
@@ -793,8 +797,11 @@ class Evaluator:
             ax.legend(loc='best', fontsize=9)
         
         plt.tight_layout()
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        fig_dir = os.path.join(project_root, 'visualizations')
+        os.makedirs(fig_dir, exist_ok=True)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        fig_path = f'training_validation_loss_{timestamp}.png'
+        fig_path = os.path.join(fig_dir, f'training_validation_loss_{timestamp}.png')
         plt.savefig(fig_path, dpi=300, bbox_inches='tight')
         logger.info(f"Saved loss plot: {fig_path}")
         plt.show()
@@ -896,8 +903,11 @@ class Evaluator:
         plt.tight_layout()
     
         # Save figure
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        fig_dir = os.path.join(project_root, 'visualizations')
+        os.makedirs(fig_dir, exist_ok=True)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        fig_path = f'model_evaluation_{timestamp}.png'
+        fig_path = os.path.join(fig_dir, f'model_evaluation_{timestamp}.png')
         plt.savefig(fig_path, dpi=300, bbox_inches='tight')
         logger.info(f"Saved visualization: {fig_path}")
         plt.show()
@@ -930,14 +940,17 @@ class Evaluator:
                              dataset_info: Dict[str, Any]) -> None:
         """Save all results with enhanced reporting."""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        results_dir = os.path.join(project_root, 'results')
+        os.makedirs(results_dir, exist_ok=True)
         
         # 1. CSV
-        csv_path = f'results_{timestamp}.csv'
+        csv_path = os.path.join(results_dir, f'results_{timestamp}.csv')
         results_df.to_csv(csv_path, index=False)
         logger.info(f"Saved CSV: {csv_path}")
         
         # 2. JSON with comprehensive info
-        json_path = f'results_{timestamp}.json'
+        json_path = os.path.join(results_dir, f'results_{timestamp}.json')
         json_data = {
             'timestamp': timestamp,
             'dataset_info': dataset_info,
@@ -949,7 +962,7 @@ class Evaluator:
         logger.info(f"Saved JSON: {json_path}")
         
         # 3. Detailed report
-        txt_path = f'results_report_{timestamp}.txt'
+        txt_path = os.path.join(results_dir, f'results_report_{timestamp}.txt')
         with open(txt_path, 'w') as f:
             f.write("="*80 + "\n")
             f.write("MULTI-LABEL CLASSIFICATION - COMPREHENSIVE EVALUATION REPORT\n")
@@ -1001,7 +1014,10 @@ class Evaluator:
             'python_version': '3.x'
         }
         
-        save_path = f'best_model_{datetime.now().strftime("%Y%m%d_%H%M%S")}.joblib'
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        models_dir = os.path.join(project_root, 'models')
+        os.makedirs(models_dir, exist_ok=True)
+        save_path = os.path.join(models_dir, f'best_model_{datetime.now().strftime("%Y%m%d_%H%M%S")}.joblib')
         joblib.dump(model_bundle, save_path)
         logger.info(f"Saved best model: {save_path}")
         
@@ -1014,10 +1030,14 @@ def main() -> Tuple[pd.DataFrame, Dict[str, Any], FeatureExtractor]:
     logger.info("MULTI-LABEL CLASSIFICATION WITH NESTED CROSS-VALIDATION")
     logger.info("="*70 + "\n")
     
+    # Resolve paths relative to project root
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+    
     # Configuration
-    MAIN_FILE = 'joss_all_with_dependency_labels1.csv'
-    LOOKUP_FILE = 'dependency_counts_with_labels.csv'
-    TEST_SIZE = 0.25
+    MAIN_FILE = os.path.join(PROJECT_ROOT, 'data', 'raw', 'joss_all_with_dependency_labels1.csv')
+    LOOKUP_FILE = os.path.join(PROJECT_ROOT, 'data', 'raw', 'dependency_counts_with_labels.csv')
+    TEST_SIZE = 0.30
     RANDOM_STATE = 42
     APPLY_SCALING = False
     FEATURE_SELECTION_K = None  # DISABLED: binary sparse features don't benefit from chi2 selection
